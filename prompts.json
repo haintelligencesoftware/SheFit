@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Tadasana",
+    "englishName": "Mountain Pose",
+    "prompt": "A beautiful young woman with long brown hair, hazel eyes, calm and focused expression, performing Tadasana (Mountain Pose) — standing straight with arms relaxed by her sides, feet together, in a bright yoga studio with wooden floors and natural light.",
+    "howTo": "Ayağını kalça genişliğinde aç, omuzların rahat, kollar yanlarda, dik ve dengede dur. Nefes alırken omuzlarını aç, göğsünü kaldır.",
+    "benefit": "Duruşunu düzeltir, vücudu hizalar, denge ve konsantrasyonu artırır."
+  },
+  {
+    "name": "Vrikshasana",
+    "englishName": "Tree Pose",
+    "prompt": "A beautiful young woman with long brown hair, hazel eyes, calm and focused expression, performing Vrikshasana (Tree Pose) — standing on one leg with the other foot resting on her inner thigh, arms lifted above her head, in a serene outdoor garden at sunrise.",
+    "howTo": "Bir ayağını uyluğunun iç kısmına koy, dengeyi sağla, kollarını başının üstünde birleştir. Duruşunu koru, nefesini derin al.",
+    "benefit": "Bacak kaslarını güçlendirir, dengeyi geliştirir, zihinsel odaklanmayı artırır."
+  },
+  {
+    "name": "Trikonasana",
+    "englishName": "Triangle Pose",
+    "prompt": "A beautiful young woman with long brown hair, hazel eyes, calm and focused expression, performing Trikonasana (Triangle Pose) — standing with legs wide apart, one arm reaching toward her foot and the other arm extended upwards, on a yoga mat inside a peaceful studio.",
+    "howTo": "Ayaklarını geniş aç, bir elini ayak bileğine doğru indirirken diğerini yukarı uzat, göğsünü aç ve bakışını yukarı yönlendir.",
+    "benefit": "Yan karın kaslarını esnetir, omurgayı güçlendirir, sindirime yardımcı olur."
+  },
+  {
+    "name": "Bhujangasana",
+    "englishName": "Cobra Pose",
+    "prompt": "A beautiful young woman with long brown hair, hazel eyes, calm and focused expression, performing Bhujangasana (Cobra Pose) — lying on her stomach with chest lifted and arms straight, on a yoga mat with soft morning light filtering through windows.",
+    "howTo": "Yüz üstü yat, ellerini omuzların yanında koy, göğsünü yukarı kaldır ve omuzlarını geriye çek. Nefes al ve dur.",
+    "benefit": "Sırt kaslarını güçlendirir, göğsü açar, duruşu iyileştirir."
+  },
+  {
+    "name": "Adho Mukha Svanasana",
+    "englishName": "Downward Dog Pose",
+    "prompt": "A beautiful young woman with long brown hair, hazel eyes, calm and focused expression, performing Adho Mukha Svanasana (Downward Dog Pose) — body bent at hips forming an inverted V shape, hands and feet on the ground, inside a minimalist yoga studio.",
+    "howTo": "Ellerini yere koy, kalçanı yukarı kaldır ve vücudun ters V şekli alsın. Dizlerini hafif kırabilirsin, topukları yere değmeye çalış.",
+    "benefit": "Omurgayı esnetir, bacakları güçlendirir, kan dolaşımını hızlandırır."
+  },
+  {
+    "name": "Padmasana",
+    "englishName": "Lotus Pose",
+    "prompt": "A beautiful young woman with long brown hair, hazel eyes, calm and focused expression, sitting in Padmasana (Lotus Pose) — cross-legged with hands resting on knees, meditating in a tranquil outdoor setting surrounded by greenery.",
+    "howTo": "Sırtın dik, bacaklar çapraz ve ayaklar üst uylukların üzerinde, eller dizlerin üzerinde rahatça. Derin nefes al ve rahatla.",
+    "benefit": "Zihni sakinleştirir, meditasyona yardımcı olur, kalça ve diz esnekliğini artırır."
+  },
+  {
+    "name": "Utkatasana",
+    "englishName": "Chair Pose",
+    "prompt": "A beautiful young woman with long brown hair, hazel eyes, calm and focused expression, performing Utkatasana (Chair Pose) — knees bent as if sitting in an invisible chair, arms extended straight up, in a spacious yoga studio with warm lighting.",
+    "howTo": "Dizlerini bük, kalçanı geriye doğru gönder, kollarını yukarı kaldır. Sanki görünmez bir sandalyeye oturuyorsun gibi dur.",
+    "benefit": "Bacak ve kalça kaslarını güçlendirir, dayanıklılığı artırır."
+  },
+  {
+    "name": "Setu Bandhasana",
+    "englishName": "Bridge Pose",
+    "prompt": "A beautiful young woman with long brown hair, hazel eyes, calm and focused expression, performing Setu Bandhasana (Bridge Pose) — lying on her back with hips lifted high, feet flat on the ground, on a yoga mat in a softly lit room.",
+    "howTo": "Sırt üstü yat, dizlerini bük ve ayaklarını yere bas. Kalçanı yukarı kaldır, omuz ve boyun rahat olsun.",
+    "benefit": "Bel ve kalça kaslarını güçlendirir, omurgayı esnetir."
+  },
+  {
+    "name": "Virabhadrasana II",
+    "englishName": "Warrior II Pose",
+    "prompt": "A beautiful young woman with long brown hair, hazel eyes, calm and focused expression, performing Virabhadrasana II (Warrior II Pose) — legs apart with one knee bent, arms stretched out parallel to the ground, outdoors with mountains in the background.",
+    "howTo": "Ayaklarını geniş aç, bir bacağını 90 derece bük, kollarını iki yana aç ve bakışını önüne yönlendir.",
+    "benefit": "Bacakları güçlendirir, dayanıklılığı artırır, konsantrasyonu geliştirir."
+  },
+  {
+    "name": "Balasana",
+    "englishName": "Child’s Pose",
+    "prompt": "A beautiful young woman with long brown hair, hazel eyes, calm and focused expression, sitting in Balasana (Child’s Pose) — body folded forward with arms stretched out in front, resting on a yoga mat in a peaceful indoor studio.",
+    "howTo": "Dizlerinin üzerine otur, gövdeni öne doğru katla, kollarını uzat ve rahatla.",
+    "benefit": "Sırt ve omuzları gevşetir, stresi azaltır, vücudu rahatlatır."
+  }
+]
