@@ -1,0 +1,3376 @@
+[
+    {
+      "id": 1,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 2,
+      "items": {
+        "top": "",
+        "bottom": "mom jeans",
+        "outerwear": "trench coat",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 2,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 2,
+      "items": {
+        "top": "",
+        "bottom": "midi skirt",
+        "outerwear": "denim jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 3,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 2,
+      "items": {
+        "top": "thin sweater",
+        "bottom": "linen pants",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 4,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 2,
+      "items": {
+        "top": "oversized shirt",
+        "bottom": "biker shorts",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 5,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 2,
+      "items": {
+        "top": "sweatshirt",
+        "bottom": "denim skirt",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 6,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 2,
+      "items": {
+        "top": "t-shirt",
+        "bottom": "",
+        "outerwear": "",
+        "dress": "overalls",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 7,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 2,
+      "items": {
+        "top": "hooded sweatshirt",
+        "bottom": "jogger pants",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 8,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 2,
+      "items": {
+        "top": "satin blouse",
+        "bottom": "fabric shorts",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 9,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 2,
+      "items": {
+        "top": "patterned shirt",
+        "bottom": "white pants",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 10,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 2,
+      "items": {
+        "top": "zip-up sweatshirt",
+        "bottom": "wide-leg jeans",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 11,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 2,
+      "items": {
+        "top": "turtleneck sweater",
+        "bottom": "mini skirt",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 12,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 2,
+      "items": {
+        "top": "short-sleeve knit",
+        "bottom": "denim shorts",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 13,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 2,
+      "items": {
+        "top": "basic t-shirt",
+        "bottom": "high-waisted pants",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 14,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 2,
+      "items": {
+        "top": "crop top",
+        "bottom": "cargo pants",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 15,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 2,
+      "items": {
+        "top": "cami top",
+        "bottom": "palazzo pants",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 16,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 2,
+      "items": {
+        "top": "",
+        "bottom": "leggings",
+        "outerwear": "shawl cardigan",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 17,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 2,
+      "items": {
+        "top": "",
+        "bottom": "",
+        "outerwear": "denim jacket",
+        "dress": "linen dress",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 18,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 2,
+      "items": {
+        "top": "",
+        "bottom": "jeans",
+        "outerwear": "blazer jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 19,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 2,
+      "items": {
+        "top": "v-neck t-shirt",
+        "bottom": "skirt pants",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 20,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 2,
+      "items": {
+        "top": "wrap blouse",
+        "bottom": "shorts",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 21,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 3,
+      "items": {
+        "top": "t-shirt",
+        "bottom": "cargo pants",
+        "outerwear": "denim jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 22,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 3,
+      "items": {
+        "top": "thin knit",
+        "bottom": "midi skirt",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "ballet flats",
+        "accessories": []
+      }
+    },
+    {
+      "id": 23,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 3,
+      "items": {
+        "top": "cami top",
+        "bottom": "denim shorts",
+        "outerwear": "shirt",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 24,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 3,
+      "items": {
+        "top": "basic t-shirt",
+        "bottom": "fabric pants",
+        "outerwear": "blazer jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 25,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 3,
+      "items": {
+        "top": "sweatshirt",
+        "bottom": "midi skirt",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "sneakers",
+        "accessories": []
+      }
+    },
+    {
+      "id": 26,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 3,
+      "items": {
+        "top": "",
+        "bottom": "",
+        "outerwear": "trench coat",
+        "dress": "dress",
+        "footwear": "combat boots",
+        "accessories": []
+      }
+    },
+    {
+      "id": 27,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 3,
+      "items": {
+        "top": "bralette",
+        "bottom": "shorts",
+        "outerwear": "oversized shirt",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 28,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 3,
+      "items": {
+        "top": "turtleneck sweater",
+        "bottom": "leather skirt",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": ["thick socks"]
+      }
+    },
+    {
+      "id": 29,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 3,
+      "items": {
+        "top": "hooded sweatshirt",
+        "bottom": "jogger",
+        "outerwear": "denim jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 30,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 3,
+      "items": {
+        "top": "patterned blouse",
+        "bottom": "jeans",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": ["scarf"]
+      }
+    },
+    {
+      "id": 31,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 3,
+      "items": {
+        "top": "v-neck sweater",
+        "bottom": "pants",
+        "outerwear": "long vest",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 32,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 3,
+      "items": {
+        "top": "linen shirt",
+        "bottom": "pants",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": ["leather belt"]
+      }
+    },
+    {
+      "id": 33,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 3,
+      "items": {
+        "top": "short-sleeve knit",
+        "bottom": "jeans",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "ballet flats",
+        "accessories": []
+      }
+    },
+    {
+      "id": 34,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 3,
+      "items": {
+        "top": "crop top",
+        "bottom": "pleated skirt",
+        "outerwear": "jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 35,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 3,
+      "items": {
+        "top": "bodysuit",
+        "bottom": "pants",
+        "outerwear": "tulle blouse",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 36,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 3,
+      "items": {
+        "top": "",
+        "bottom": "mini skirt",
+        "outerwear": "knit cardigan",
+        "dress": "",
+        "footwear": "loafers",
+        "accessories": []
+      }
+    },
+    {
+      "id": 37,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 3,
+      "items": {
+        "top": "sweatshirt",
+        "bottom": "fabric pants",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "sneakers",
+        "accessories": []
+      }
+    },
+    {
+      "id": 38,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 3,
+      "items": {
+        "top": "t-shirt",
+        "bottom": "jeans",
+        "outerwear": "flannel shirt",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 39,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 3,
+      "items": {
+        "top": "",
+        "bottom": "",
+        "outerwear": "denim jacket",
+        "dress": "chiffon dress",
+        "footwear": "",
+        "accessories": ["belt bag"]
+      }
+    },
+    {
+      "id": 40,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 3,
+      "items": {
+        "top": "shawl blouse",
+        "bottom": "shorts",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": ["straw hat"]
+      }
+    },
+    {
+      "id": 41,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 4,
+      "items": {
+        "top": "t-shirt",
+        "bottom": "mini skirt",
+        "outerwear": "denim jacket",
+        "dress": "",
+        "footwear": "sneakers",
+        "accessories": []
+      }
+    },
+    {
+      "id": 42,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 4,
+      "items": {
+        "top": "sweatshirt",
+        "bottom": "jeans",
+        "outerwear": "shirt",
+        "dress": "",
+        "footwear": "sneakers",
+        "accessories": []
+      }
+    },
+    {
+      "id": 43,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 4,
+      "items": {
+        "top": "knit sweater",
+        "bottom": "pants",
+        "outerwear": "jacket",
+        "dress": "",
+        "footwear": "boots",
+        "accessories": []
+      }
+    },
+    {
+      "id": 44,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 4,
+      "items": {
+        "top": "bralette",
+        "bottom": "linen pants",
+        "outerwear": "shirt",
+        "dress": "",
+        "footwear": "slippers",
+        "accessories": []
+      }
+    },
+    {
+      "id": 45,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 4,
+      "items": {
+        "top": "",
+        "bottom": "",
+        "outerwear": "trench coat",
+        "dress": "dress",
+        "footwear": "heels",
+        "accessories": ["scarf"]
+      }
+    },
+    {
+      "id": 46,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 4,
+      "items": {
+        "top": "crop top",
+        "bottom": "leggings",
+        "outerwear": "oversized cardigan",
+        "dress": "",
+        "footwear": "sneakers",
+        "accessories": []
+      }
+    },
+    {
+      "id": 47,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 4,
+      "items": {
+        "top": "",
+        "bottom": "",
+        "outerwear": "shirt",
+        "dress": "cami dress",
+        "footwear": "ballet flats",
+        "accessories": ["chain bag"]
+      }
+    },
+    {
+      "id": 48,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 4,
+      "items": {
+        "top": "t-shirt",
+        "bottom": "cargo pants",
+        "outerwear": "blazer",
+        "dress": "",
+        "footwear": "loafers",
+        "accessories": []
+      }
+    },
+    {
+      "id": 49,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 4,
+      "items": {
+        "top": "turtleneck sweater",
+        "bottom": "skirt",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "knee-high boots",
+        "accessories": ["thick socks"]
+      }
+    },
+    {
+      "id": 50,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 4,
+      "items": {
+        "top": "",
+        "bottom": "",
+        "outerwear": "denim jacket",
+        "dress": "patterned dress",
+        "footwear": "sandals",
+        "accessories": ["belt bag"]
+      }
+    },
+    {
+      "id": 51,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 4,
+      "items": {
+        "top": "sweatshirt",
+        "bottom": "jogger",
+        "outerwear": "flannel shirt",
+        "dress": "",
+        "footwear": "boots",
+        "accessories": []
+      }
+    },
+    {
+      "id": 52,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 4,
+      "items": {
+        "top": "chiffon blouse",
+        "bottom": "short skirt",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "ballet flats",
+        "accessories": ["socks"]
+      }
+    },
+    {
+      "id": 53,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 4,
+      "items": {
+        "top": "satin shirt",
+        "bottom": "jeans",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "heels",
+        "accessories": ["handbag"]
+      }
+    },
+    {
+      "id": 54,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 4,
+      "items": {
+        "top": "",
+        "bottom": "",
+        "outerwear": "long cardigan",
+        "dress": "dress",
+        "footwear": "combat boots",
+        "accessories": ["belt"]
+      }
+    },
+    {
+      "id": 55,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 4,
+      "items": {
+        "top": "knit",
+        "bottom": "fabric pants",
+        "outerwear": "jacket",
+        "dress": "",
+        "footwear": "shoes",
+        "accessories": []
+      }
+    },
+    {
+      "id": 56,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 4,
+      "items": {
+        "top": "sweater",
+        "bottom": "pants",
+        "outerwear": "vest",
+        "dress": "",
+        "footwear": "oxford shoes",
+        "accessories": []
+      }
+    },
+    {
+      "id": 57,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 4,
+      "items": {
+        "top": "bodysuit",
+        "bottom": "shorts",
+        "outerwear": "shirt",
+        "dress": "",
+        "footwear": "sneakers",
+        "accessories": []
+      }
+    },
+    {
+      "id": 58,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 4,
+      "items": {
+        "top": "basic t-shirt",
+        "bottom": "pleated skirt",
+        "outerwear": "blazer",
+        "dress": "",
+        "footwear": "loafers",
+        "accessories": []
+      }
+    },
+    {
+      "id": 59,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 4,
+      "items": {
+        "top": "",
+        "bottom": "",
+        "outerwear": "cardigan",
+        "dress": "mini dress",
+        "footwear": "boots",
+        "accessories": ["scarf"]
+      }
+    },
+    {
+      "id": 60,
+      "imageUrls": [],
+      "season": "spring",
+      "setSize": 4,
+      "items": {
+        "top": "",
+        "bottom": "",
+        "outerwear": "denim jacket",
+        "dress": "jumpsuit",
+        "footwear": "sneakers",
+        "accessories": ["bucket hat"]
+      }
+    },
+    {
+      "id": 61,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 2,
+      "items": {
+        "top": "",
+        "bottom": "",
+        "outerwear": "",
+        "dress": "mini dress",
+        "footwear": "sandals",
+        "accessories": []
+      }
+    },
+    {
+      "id": 62,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 2,
+      "items": {
+        "top": "crop top",
+        "bottom": "denim shorts",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 63,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 2,
+      "items": {
+        "top": "cami top",
+        "bottom": "pleated skirt",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 64,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 2,
+      "items": {
+        "top": "t-shirt",
+        "bottom": "linen shorts",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 65,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 2,
+      "items": {
+        "top": "bralette",
+        "bottom": "wide pants",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 66,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 2,
+      "items": {
+        "top": "oversized t-shirt",
+        "bottom": "biker shorts",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 67,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 2,
+      "items": {
+        "top": "",
+        "bottom": "",
+        "outerwear": "",
+        "dress": "satin dress",
+        "footwear": "heeled sandals",
+        "accessories": []
+      }
+    },
+    {
+      "id": 68,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 2,
+      "items": {
+        "top": "bikini top",
+        "bottom": "pareo",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 69,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 2,
+      "items": {
+        "top": "shawl shirt",
+        "bottom": "denim shorts",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 70,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 2,
+      "items": {
+        "top": "",
+        "bottom": "",
+        "outerwear": "",
+        "dress": "cami jumpsuit",
+        "footwear": "sneakers",
+        "accessories": []
+      }
+    },
+    {
+      "id": 71,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 2,
+      "items": {
+        "top": "",
+        "bottom": "",
+        "outerwear": "",
+        "dress": "patterned dress",
+        "footwear": "",
+        "accessories": ["straw hat"]
+      }
+    },
+    {
+      "id": 72,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 2,
+      "items": {
+        "top": "short tank top",
+        "bottom": "cargo shorts",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 73,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 2,
+      "items": {
+        "top": "sports bra",
+        "bottom": "sports shorts",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 74,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 2,
+      "items": {
+        "top": "cami top",
+        "bottom": "palazzo pants",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 75,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 2,
+      "items": {
+        "top": "crop tank top",
+        "bottom": "skirt",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 76,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 2,
+      "items": {
+        "top": "tulle blouse",
+        "bottom": "shorts",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 77,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 2,
+      "items": {
+        "top": "bustier",
+        "bottom": "fabric shorts",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 78,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 2,
+      "items": {
+        "top": "off-shoulder blouse",
+        "bottom": "mini skirt",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 79,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 2,
+      "items": {
+        "top": "",
+        "bottom": "",
+        "outerwear": "",
+        "dress": "sleeveless dress",
+        "footwear": "sandals",
+        "accessories": []
+      }
+    },
+    {
+      "id": 80,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 2,
+      "items": {
+        "top": "tulle t-shirt",
+        "bottom": "shorts",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 81,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 3,
+      "items": {
+        "top": "",
+        "bottom": "",
+        "outerwear": "",
+        "dress": "mini dress",
+        "footwear": "sandals",
+        "accessories": ["sunglasses"]
+      }
+    },
+    {
+      "id": 82,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 3,
+      "items": {
+        "top": "crop top",
+        "bottom": "shorts",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": ["bucket hat"]
+      }
+    },
+    {
+      "id": 83,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 3,
+      "items": {
+        "top": "t-shirt",
+        "bottom": "linen pants",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "sneakers",
+        "accessories": []
+      }
+    },
+    {
+      "id": 84,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 3,
+      "items": {
+        "top": "cami top",
+        "bottom": "skirt",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": ["belt bag"]
+      }
+    },
+    {
+      "id": 85,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 3,
+      "items": {
+        "top": "",
+        "bottom": "",
+        "outerwear": "",
+        "dress": "satin dress",
+        "footwear": "sandals",
+        "accessories": ["straw bag"]
+      }
+    },
+    {
+      "id": 86,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 3,
+      "items": {
+        "top": "bikini top",
+        "bottom": "shorts",
+        "outerwear": "oversized shirt",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 87,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 3,
+      "items": {
+        "top": "",
+        "bottom": "",
+        "outerwear": "",
+        "dress": "sleeveless jumpsuit",
+        "footwear": "sandals",
+        "accessories": ["belt"]
+      }
+    },
+    {
+      "id": 88,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 3,
+      "items": {
+        "top": "sports bra",
+        "bottom": "shorts",
+        "outerwear": "oversized t-shirt",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 89,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 3,
+      "items": {
+        "top": "chiffon blouse",
+        "bottom": "pleated skirt",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "ballet flats",
+        "accessories": []
+      }
+    },
+    {
+      "id": 90,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 3,
+      "items": {
+        "top": "bralette",
+        "bottom": "linen pants",
+        "outerwear": "tulle blouse",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 91,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 3,
+      "items": {
+        "top": "",
+        "bottom": "",
+        "outerwear": "",
+        "dress": "shirt dress",
+        "footwear": "slippers",
+        "accessories": ["belt"]
+      }
+    },
+    {
+      "id": 92,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 3,
+      "items": {
+        "top": "t-shirt",
+        "bottom": "",
+        "outerwear": "",
+        "dress": "overalls",
+        "footwear": "sneakers",
+        "accessories": []
+      }
+    },
+    {
+      "id": 93,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 3,
+      "items": {
+        "top": "patterned blouse",
+        "bottom": "shorts",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": ["straw hat"]
+      }
+    },
+    {
+      "id": 94,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 3,
+      "items": {
+        "top": "bikini",
+        "bottom": "shorts",
+        "outerwear": "beach shirt",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 95,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 3,
+      "items": {
+        "top": "tulle tank top",
+        "bottom": "high-waisted shorts",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "sandals",
+        "accessories": []
+      }
+    },
+    {
+      "id": 96,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 3,
+      "items": {
+        "top": "",
+        "bottom": "",
+        "outerwear": "",
+        "dress": "mini dress",
+        "footwear": "sandals",
+        "accessories": ["crossbody bag"]
+      }
+    },
+    {
+      "id": 97,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 3,
+      "items": {
+        "top": "basic tank top",
+        "bottom": "jeans",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "heeled sandals",
+        "accessories": []
+      }
+    },
+    {
+      "id": 98,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 3,
+      "items": {
+        "top": "linen shirt",
+        "bottom": "mini skirt",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": ["straw bag"]
+      }
+    },
+    {
+      "id": 99,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 3,
+      "items": {
+        "top": "crop tank top",
+        "bottom": "pleated skirt",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "sneakers",
+        "accessories": []
+      }
+    },
+    {
+      "id": 100,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 3,
+      "items": {
+        "top": "bodysuit",
+        "bottom": "shorts",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": ["hat"]
+      }
+    },
+    {
+      "id": 101,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 4,
+      "items": {
+        "top": "",
+        "bottom": "",
+        "outerwear": "",
+        "dress": "chiffon dress",
+        "footwear": "sandals",
+        "accessories": ["straw bag", "sunglasses"]
+      }
+    },
+    {
+      "id": 102,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 4,
+      "items": {
+        "top": "",
+        "bottom": "",
+        "outerwear": "shirt",
+        "dress": "mini dress",
+        "footwear": "sandals",
+        "accessories": ["belt bag"]
+      }
+    },
+    {
+      "id": 103,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 4,
+      "items": {
+        "top": "crop top",
+        "bottom": "palazzo pants",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "slippers",
+        "accessories": ["bucket hat"]
+      }
+    },
+    {
+      "id": 104,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 4,
+      "items": {
+        "top": "bikini",
+        "bottom": "shorts",
+        "outerwear": "beach shirt",
+        "dress": "",
+        "footwear": "",
+        "accessories": ["straw bag"]
+      }
+    },
+    {
+      "id": 105,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 4,
+      "items": {
+        "top": "satin blouse",
+        "bottom": "skirt",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "slippers",
+        "accessories": ["chain necklace"]
+      }
+    },
+    {
+      "id": 106,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 4,
+      "items": {
+        "top": "cami top",
+        "bottom": "shorts",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "sneakers",
+        "accessories": ["hat"]
+      }
+    },
+    {
+      "id": 107,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 4,
+      "items": {
+        "top": "basic t-shirt",
+        "bottom": "linen shorts",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "sandals",
+        "accessories": ["belt bag"]
+      }
+    },
+    {
+      "id": 108,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 4,
+      "items": {
+        "top": "bralette",
+        "bottom": "jeans",
+        "outerwear": "shirt",
+        "dress": "",
+        "footwear": "",
+        "accessories": ["straw hat"]
+      }
+    },
+    {
+      "id": 109,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 4,
+      "items": {
+        "top": "tulle blouse",
+        "bottom": "mini skirt",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "slippers",
+        "accessories": ["earrings"]
+      }
+    },
+    {
+      "id": 110,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 4,
+      "items": {
+        "top": "t-shirt",
+        "bottom": "",
+        "outerwear": "",
+        "dress": "overalls",
+        "footwear": "sneakers",
+        "accessories": ["hat"]
+      }
+    },
+    {
+      "id": 111,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 4,
+      "items": {
+        "top": "sports bra",
+        "bottom": "shorts",
+        "outerwear": "oversized t-shirt",
+        "dress": "",
+        "footwear": "sneakers",
+        "accessories": []
+      }
+    },
+    {
+      "id": 112,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 4,
+      "items": {
+        "top": "",
+        "bottom": "",
+        "outerwear": "",
+        "dress": "dress",
+        "footwear": "sandals",
+        "accessories": ["belt", "handbag"]
+      }
+    },
+    {
+      "id": 113,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 4,
+      "items": {
+        "top": "crop tank top",
+        "bottom": "shorts",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": ["belt bag", "sunglasses"]
+      }
+    },
+    {
+      "id": 114,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 4,
+      "items": {
+        "top": "",
+        "bottom": "",
+        "outerwear": "",
+        "dress": "sleeveless jumpsuit",
+        "footwear": "slippers",
+        "accessories": ["hat", "handbag"]
+      }
+    },
+    {
+      "id": 115,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 4,
+      "items": {
+        "top": "bikini top",
+        "bottom": "shorts",
+        "outerwear": "kimono",
+        "dress": "",
+        "footwear": "slippers",
+        "accessories": []
+      }
+    },
+    {
+      "id": 116,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 4,
+      "items": {
+        "top": "bustier",
+        "bottom": "skirt",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "slippers",
+        "accessories": ["straw bag"]
+      }
+    },
+    {
+      "id": 117,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 4,
+      "items": {
+        "top": "",
+        "bottom": "",
+        "outerwear": "oversized shirt",
+        "dress": "mini dress",
+        "footwear": "slippers",
+        "accessories": ["belt"]
+      }
+    },
+    {
+      "id": 118,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 4,
+      "items": {
+        "top": "short tank top",
+        "bottom": "shorts",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "sandals",
+        "accessories": ["belt bag"]
+      }
+    },
+    {
+      "id": 119,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 4,
+      "items": {
+        "top": "chiffon shirt",
+        "bottom": "pleated skirt",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "sandals",
+        "accessories": ["handbag"]
+      }
+    },
+    {
+      "id": 120,
+      "imageUrls": [],
+      "season": "summer",
+      "setSize": 4,
+      "items": {
+        "top": "cami top",
+        "bottom": "denim shorts",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "sneakers",
+        "accessories": ["hat"]
+      }
+    },
+    {
+      "id": 121,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 2,
+      "items": {
+        "top": "turtleneck sweater",
+        "bottom": "midi skirt",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 122,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 2,
+      "items": {
+        "top": "knit sweater",
+        "bottom": "jeans",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 123,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 2,
+      "items": {
+        "top": "flannel shirt",
+        "bottom": "cargo pants",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 124,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 2,
+      "items": {
+        "top": "sweatshirt",
+        "bottom": "leather skirt",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 125,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 2,
+      "items": {
+        "top": "",
+        "bottom": "leggings",
+        "outerwear": "long cardigan",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 126,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 2,
+      "items": {
+        "top": "",
+        "bottom": "",
+        "outerwear": "jacket",
+        "dress": "knit dress",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 127,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 2,
+      "items": {
+        "top": "",
+        "bottom": "jeans",
+        "outerwear": "wool coat",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 128,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 2,
+      "items": {
+        "top": "",
+        "bottom": "pants",
+        "outerwear": "sheepskin jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 129,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 2,
+      "items": {
+        "top": "oversized sweatshirt",
+        "bottom": "denim shorts",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 130,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 2,
+      "items": {
+        "top": "turtleneck",
+        "bottom": "leather pants",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 131,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 2,
+      "items": {
+        "top": "",
+        "bottom": "",
+        "outerwear": "vest",
+        "dress": "knit dress",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 132,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 2,
+      "items": {
+        "top": "hooded sweatshirt",
+        "bottom": "fabric pants",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 133,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 2,
+      "items": {
+        "top": "patterned sweater",
+        "bottom": "mini skirt",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 134,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 2,
+      "items": {
+        "top": "long shirt",
+        "bottom": "leggings",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 135,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 2,
+      "items": {
+        "top": "basic t-shirt",
+        "bottom": "",
+        "outerwear": "cardigan",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 136,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 2,
+      "items": {
+        "top": "sweatshirt",
+        "bottom": "linen pants",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 137,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 2,
+      "items": {
+        "top": "sweater",
+        "bottom": "pencil skirt",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 138,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 2,
+      "items": {
+        "top": "turtleneck t-shirt",
+        "bottom": "jogger",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 139,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 2,
+      "items": {
+        "top": "crop sweatshirt",
+        "bottom": "high-waisted pants",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 140,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 2,
+      "items": {
+        "top": "knit set top",
+        "bottom": "knit set bottom",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 141,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 3,
+      "items": {
+        "top": "turtleneck sweater",
+        "bottom": "jeans",
+        "outerwear": "jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 142,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 3,
+      "items": {
+        "top": "sweatshirt",
+        "bottom": "cargo pants",
+        "outerwear": "vest",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 143,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 3,
+      "items": {
+        "top": "",
+        "bottom": "",
+        "outerwear": "long cardigan",
+        "dress": "knit dress",
+        "footwear": "",
+        "accessories": ["belt"]
+      }
+    },
+    {
+      "id": 144,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 3,
+      "items": {
+        "top": "sweater",
+        "bottom": "jeans",
+        "outerwear": "shirt",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 145,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 3,
+      "items": {
+        "top": "t-shirt",
+        "bottom": "cargo pants",
+        "outerwear": "flannel shirt",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 146,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 3,
+      "items": {
+        "top": "sweater",
+        "bottom": "mini skirt",
+        "outerwear": "wool coat",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 147,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 3,
+      "items": {
+        "top": "sweatshirt",
+        "bottom": "jogger",
+        "outerwear": "denim jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 148,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 3,
+      "items": {
+        "top": "turtleneck",
+        "bottom": "skirt",
+        "outerwear": "long coat",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 149,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 3,
+      "items": {
+        "top": "hooded sweatshirt",
+        "bottom": "leggings",
+        "outerwear": "vest",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 150,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 3,
+      "items": {
+        "top": "sweater",
+        "bottom": "pants",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "boots",
+        "accessories": []
+      }
+    },
+    {
+      "id": 151,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 3,
+      "items": {
+        "top": "long shirt",
+        "bottom": "leggings",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "knee-high boots",
+        "accessories": []
+      }
+    },
+    {
+      "id": 152,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 3,
+      "items": {
+        "top": "knit set",
+        "bottom": "",
+        "outerwear": "vest",
+        "dress": "",
+        "footwear": "sneakers",
+        "accessories": []
+      }
+    },
+    {
+      "id": 153,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 3,
+      "items": {
+        "top": "basic t-shirt",
+        "bottom": "jeans",
+        "outerwear": "knit cardigan",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 154,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 3,
+      "items": {
+        "top": "blouse",
+        "bottom": "skirt",
+        "outerwear": "wrap jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 155,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 3,
+      "items": {
+        "top": "v-neck sweater",
+        "bottom": "jeans",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "sneakers",
+        "accessories": []
+      }
+    },
+    {
+      "id": 156,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 3,
+      "items": {
+        "top": "knit",
+        "bottom": "midi skirt",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "combat boots",
+        "accessories": []
+      }
+    },
+    {
+      "id": 157,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 3,
+      "items": {
+        "top": "sweatshirt",
+        "bottom": "pants",
+        "outerwear": "leather jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 158,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 3,
+      "items": {
+        "top": "t-shirt",
+        "bottom": "jeans",
+        "outerwear": "knit jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 159,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 3,
+      "items": {
+        "top": "sweatshirt",
+        "bottom": "mini skirt",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "knee-high boots",
+        "accessories": []
+      }
+    },
+    {
+      "id": 160,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 3,
+      "items": {
+        "top": "knit sweater",
+        "bottom": "pleated skirt",
+        "outerwear": "wool coat",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 161,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 4,
+      "items": {
+        "top": "",
+        "bottom": "",
+        "outerwear": "long cardigan",
+        "dress": "knit dress",
+        "footwear": "combat boots",
+        "accessories": ["socks"]
+      }
+    },
+    {
+      "id": 162,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 4,
+      "items": {
+        "top": "sweater",
+        "bottom": "jeans",
+        "outerwear": "shirt",
+        "dress": "",
+        "footwear": "boots",
+        "accessories": []
+      }
+    },
+    {
+      "id": 163,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 4,
+      "items": {
+        "top": "sweatshirt",
+        "bottom": "cargo pants",
+        "outerwear": "flannel shirt",
+        "dress": "",
+        "footwear": "sneakers",
+        "accessories": []
+      }
+    },
+    {
+      "id": 164,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 4,
+      "items": {
+        "top": "turtleneck t-shirt",
+        "bottom": "skirt",
+        "outerwear": "jacket",
+        "dress": "",
+        "footwear": "knee-high boots",
+        "accessories": []
+      }
+    },
+    {
+      "id": 165,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 4,
+      "items": {
+        "top": "sweatshirt",
+        "bottom": "leggings",
+        "outerwear": "coat",
+        "dress": "",
+        "footwear": "sneakers",
+        "accessories": []
+      }
+    },
+    {
+      "id": 166,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 4,
+      "items": {
+        "top": "sweater",
+        "bottom": "midi skirt",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "ballet flats",
+        "accessories": ["scarf"]
+      }
+    },
+    {
+      "id": 167,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 4,
+      "items": {
+        "top": "long shirt",
+        "bottom": "pants",
+        "outerwear": "vest",
+        "dress": "",
+        "footwear": "heels",
+        "accessories": []
+      }
+    },
+    {
+      "id": 168,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 4,
+      "items": {
+        "top": "knit blouse",
+        "bottom": "jeans",
+        "outerwear": "leather jacket",
+        "dress": "",
+        "footwear": "loafers",
+        "accessories": []
+      }
+    },
+    {
+      "id": 169,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 4,
+      "items": {
+        "top": "v-neck sweater",
+        "bottom": "pleated skirt",
+        "outerwear": "jacket",
+        "dress": "",
+        "footwear": "shoes",
+        "accessories": []
+      }
+    },
+    {
+      "id": 170,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 4,
+      "items": {
+        "top": "shirt",
+        "bottom": "jeans",
+        "outerwear": "leather jacket",
+        "dress": "",
+        "footwear": "knee-high boots",
+        "accessories": []
+      }
+    },
+    {
+      "id": 171,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 4,
+      "items": {
+        "top": "hooded sweatshirt",
+        "bottom": "jogger",
+        "outerwear": "coat",
+        "dress": "",
+        "footwear": "sneakers",
+        "accessories": []
+      }
+    },
+    {
+      "id": 172,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 4,
+      "items": {
+        "top": "sweatshirt",
+        "bottom": "long skirt",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "boots",
+        "accessories": ["belt bag"]
+      }
+    },
+    {
+      "id": 173,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 4,
+      "items": {
+        "top": "knit",
+        "bottom": "pants",
+        "outerwear": "wool jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": ["scarf"]
+      }
+    },
+    {
+      "id": 174,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 4,
+      "items": {
+        "top": "sweater",
+        "bottom": "mini skirt",
+        "outerwear": "vest",
+        "dress": "",
+        "footwear": "knee-high boots",
+        "accessories": []
+      }
+    },
+    {
+      "id": 175,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 4,
+      "items": {
+        "top": "blouse",
+        "bottom": "jeans",
+        "outerwear": "knit vest",
+        "dress": "",
+        "footwear": "sneakers",
+        "accessories": []
+      }
+    },
+    {
+      "id": 176,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 4,
+      "items": {
+        "top": "t-shirt",
+        "bottom": "skirt",
+        "outerwear": "long coat",
+        "dress": "",
+        "footwear": "loafers",
+        "accessories": []
+      }
+    },
+    {
+      "id": 177,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 4,
+      "items": {
+        "top": "sweater",
+        "bottom": "pants",
+        "outerwear": "wrap jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": ["handbag"]
+      }
+    },
+    {
+      "id": 178,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 4,
+      "items": {
+        "top": "",
+        "bottom": "",
+        "outerwear": "",
+        "dress": "knit dress",
+        "footwear": "knee-high boots",
+        "accessories": ["belt", "scarf"]
+      }
+    },
+    {
+      "id": 179,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 4,
+      "items": {
+        "top": "oversized sweatshirt",
+        "bottom": "leggings",
+        "outerwear": "long cardigan",
+        "dress": "",
+        "footwear": "boots",
+        "accessories": []
+      }
+    },
+    {
+      "id": 180,
+      "imageUrls": [],
+      "season": "autumn",
+      "setSize": 4,
+      "items": {
+        "top": "sweatshirt",
+        "bottom": "jeans",
+        "outerwear": "wool coat",
+        "dress": "",
+        "footwear": "sneakers",
+        "accessories": []
+      }
+    },
+    {
+      "id": 181,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 2,
+      "items": {
+        "top": "",
+        "bottom": "jeans",
+        "outerwear": "down jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 182,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 2,
+      "items": {
+        "top": "turtleneck sweater",
+        "bottom": "wool skirt",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 183,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 2,
+      "items": {
+        "top": "oversized sweatshirt",
+        "bottom": "leggings",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 184,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 2,
+      "items": {
+        "top": "",
+        "bottom": "",
+        "outerwear": "coat",
+        "dress": "knit dress",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 185,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 2,
+      "items": {
+        "top": "",
+        "bottom": "pants",
+        "outerwear": "fleece jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 186,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 2,
+      "items": {
+        "top": "knit set top",
+        "bottom": "knit set bottom",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 187,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 2,
+      "items": {
+        "top": "",
+        "bottom": "fabric pants",
+        "outerwear": "wool coat",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 188,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 2,
+      "items": {
+        "top": "",
+        "bottom": "jogger",
+        "outerwear": "puffer jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 189,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 2,
+      "items": {
+        "top": "",
+        "bottom": "leather pants",
+        "outerwear": "wool jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 190,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 2,
+      "items": {
+        "top": "sweatshirt",
+        "bottom": "velvet pants",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 191,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 2,
+      "items": {
+        "top": "",
+        "bottom": "",
+        "outerwear": "leather jacket",
+        "dress": "knit dress",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 192,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 2,
+      "items": {
+        "top": "",
+        "bottom": "jeans",
+        "outerwear": "fleece jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 193,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 2,
+      "items": {
+        "top": "",
+        "bottom": "mini skirt",
+        "outerwear": "oversized cardigan",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 194,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 2,
+      "items": {
+        "top": "knit",
+        "bottom": "",
+        "outerwear": "blazer jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 195,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 2,
+      "items": {
+        "top": "turtleneck sweater",
+        "bottom": "",
+        "outerwear": "wrap coat",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 196,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 2,
+      "items": {
+        "top": "sweatshirt",
+        "bottom": "skirt",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 197,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 2,
+      "items": {
+        "top": "",
+        "bottom": "pants",
+        "outerwear": "hooded jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 198,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 2,
+      "items": {
+        "top": "",
+        "bottom": "pencil skirt",
+        "outerwear": "wool jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 199,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 2,
+      "items": {
+        "top": "",
+        "bottom": "",
+        "outerwear": "",
+        "dress": "knit dress",
+        "footwear": "sock boots",
+        "accessories": []
+      }
+    },
+    {
+      "id": 200,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 2,
+      "items": {
+        "top": "",
+        "bottom": "sweatpants",
+        "outerwear": "long coat",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 201,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 3,
+      "items": {
+        "top": "sweatshirt",
+        "bottom": "jeans",
+        "outerwear": "down jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 202,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 3,
+      "items": {
+        "top": "turtleneck sweater",
+        "bottom": "skirt",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "sock boots",
+        "accessories": []
+      }
+    },
+    {
+      "id": 203,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 3,
+      "items": {
+        "top": "",
+        "bottom": "",
+        "outerwear": "long coat",
+        "dress": "knit dress",
+        "footwear": "boots",
+        "accessories": []
+      }
+    },
+    {
+      "id": 204,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 3,
+      "items": {
+        "top": "sweatshirt",
+        "bottom": "pants",
+        "outerwear": "denim jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 205,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 3,
+      "items": {
+        "top": "hoodie",
+        "bottom": "leggings",
+        "outerwear": "puffer jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 206,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 3,
+      "items": {
+        "top": "sweater",
+        "bottom": "mini skirt",
+        "outerwear": "fleece jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 207,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 3,
+      "items": {
+        "top": "knit",
+        "bottom": "leather pants",
+        "outerwear": "wool coat",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 208,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 3,
+      "items": {
+        "top": "knit",
+        "bottom": "jeans",
+        "outerwear": "fleece jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 209,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 3,
+      "items": {
+        "top": "blouse",
+        "bottom": "pants",
+        "outerwear": "leather jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 210,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 3,
+      "items": {
+        "top": "tunic",
+        "bottom": "leggings",
+        "outerwear": "coat",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 211,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 3,
+      "items": {
+        "top": "knit",
+        "bottom": "jeans",
+        "outerwear": "vest",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 212,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 3,
+      "items": {
+        "top": "sweater",
+        "bottom": "skirt",
+        "outerwear": "oversized cardigan",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 213,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 3,
+      "items": {
+        "top": "sweater",
+        "bottom": "fabric pants",
+        "outerwear": "wrap coat",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 214,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 3,
+      "items": {
+        "top": "knit",
+        "bottom": "mini skirt",
+        "outerwear": "jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 215,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 3,
+      "items": {
+        "top": "sweatshirt",
+        "bottom": "jeans",
+        "outerwear": "puffer vest",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 216,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 3,
+      "items": {
+        "top": "hooded sweatshirt",
+        "bottom": "jogger",
+        "outerwear": "leather jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 217,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 3,
+      "items": {
+        "top": "knit",
+        "bottom": "pencil skirt",
+        "outerwear": "wool jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 218,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 3,
+      "items": {
+        "top": "turtleneck",
+        "bottom": "pants",
+        "outerwear": "wool coat",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 219,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 3,
+      "items": {
+        "top": "sweatshirt",
+        "bottom": "leggings",
+        "outerwear": "fleece jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": []
+      }
+    },
+    {
+      "id": 220,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 3,
+      "items": {
+        "top": "knit set",
+        "bottom": "",
+        "outerwear": "long coat",
+        "dress": "",
+        "footwear": "boots",
+        "accessories": []
+      }
+    },
+    {
+      "id": 220,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 3,
+      "items": {
+        "top": "knit set",
+        "bottom": "",
+        "outerwear": "long coat",
+        "dress": "",
+        "footwear": "boots",
+        "accessories": []
+      }
+    },
+    {
+      "id": 221,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 4,
+      "items": {
+        "top": "knit",
+        "bottom": "jeans",
+        "outerwear": "down jacket",
+        "dress": "",
+        "footwear": "boots",
+        "accessories": []
+      }
+    },
+    {
+      "id": 222,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 4,
+      "items": {
+        "top": "turtleneck sweater",
+        "bottom": "wool skirt",
+        "outerwear": "",
+        "dress": "",
+        "footwear": "knee-high boots",
+        "accessories": ["socks"]
+      }
+    },
+    {
+      "id": 223,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 4,
+      "items": {
+        "top": "sweatshirt",
+        "bottom": "jogger",
+        "outerwear": "coat",
+        "dress": "",
+        "footwear": "sneakers",
+        "accessories": []
+      }
+    },
+    {
+      "id": 224,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 4,
+      "items": {
+        "top": "sweater",
+        "bottom": "jeans",
+        "outerwear": "fleece jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": ["scarf"]
+      }
+    },
+    {
+      "id": 225,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 4,
+      "items": {
+        "top": "blouse",
+        "bottom": "pants",
+        "outerwear": "leather jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": ["belt"]
+      }
+    },
+    {
+      "id": 226,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 4,
+      "items": {
+        "top": "",
+        "bottom": "",
+        "outerwear": "wool coat",
+        "dress": "knit dress",
+        "footwear": "knee-high boots",
+        "accessories": ["scarf"]
+      }
+    },
+    {
+      "id": 227,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 4,
+      "items": {
+        "top": "hoodie",
+        "bottom": "leggings",
+        "outerwear": "puffer jacket",
+        "dress": "",
+        "footwear": "sneakers",
+        "accessories": []
+      }
+    },
+    {
+      "id": 228,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 4,
+      "items": {
+        "top": "knit",
+        "bottom": "mini skirt",
+        "outerwear": "fleece jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": ["socks"]
+      }
+    },
+    {
+      "id": 229,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 4,
+      "items": {
+        "top": "sweatshirt",
+        "bottom": "jogger",
+        "outerwear": "puffer vest",
+        "dress": "",
+        "footwear": "boots",
+        "accessories": []
+      }
+    },
+    {
+      "id": 230,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 4,
+      "items": {
+        "top": "turtleneck",
+        "bottom": "jeans",
+        "outerwear": "oversized cardigan",
+        "dress": "",
+        "footwear": "loafers",
+        "accessories": []
+      }
+    },
+    {
+      "id": 231,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 4,
+      "items": {
+        "top": "knit",
+        "bottom": "fabric pants",
+        "outerwear": "wrap jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": ["handbag"]
+      }
+    },
+    {
+      "id": 232,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 4,
+      "items": {
+        "top": "shirt",
+        "bottom": "skirt",
+        "outerwear": "wool jacket",
+        "dress": "",
+        "footwear": "boots",
+        "accessories": []
+      }
+    },
+    {
+      "id": 233,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 4,
+      "items": {
+        "top": "sweater",
+        "bottom": "skirt",
+        "outerwear": "hooded jacket",
+        "dress": "",
+        "footwear": "knee-high boots",
+        "accessories": []
+      }
+    },
+    {
+      "id": 234,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 4,
+      "items": {
+        "top": "tunic",
+        "bottom": "leggings",
+        "outerwear": "jacket",
+        "dress": "",
+        "footwear": "combat boots",
+        "accessories": []
+      }
+    },
+    {
+      "id": 235,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 4,
+      "items": {
+        "top": "",
+        "bottom": "",
+        "outerwear": "coat",
+        "dress": "knit dress",
+        "footwear": "",
+        "accessories": ["belt", "handbag"]
+      }
+    },
+    {
+      "id": 236,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 4,
+      "items": {
+        "top": "sweatshirt",
+        "bottom": "pants",
+        "outerwear": "leather jacket",
+        "dress": "",
+        "footwear": "knee-high boots",
+        "accessories": []
+      }
+    },
+    {
+      "id": 237,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 4,
+      "items": {
+        "top": "knit",
+        "bottom": "pants",
+        "outerwear": "wool coat",
+        "dress": "",
+        "footwear": "heels",
+        "accessories": []
+      }
+    },
+    {
+      "id": 238,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 4,
+      "items": {
+        "top": "knit set",
+        "bottom": "",
+        "outerwear": "oversized jacket",
+        "dress": "",
+        "footwear": "boots",
+        "accessories": ["handbag"]
+      }
+    },
+    {
+      "id": 239,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 4,
+      "items": {
+        "top": "blouse",
+        "bottom": "jeans",
+        "outerwear": "down jacket",
+        "dress": "",
+        "footwear": "",
+        "accessories": ["scarf"]
+      }
+    },
+    {
+      "id": 240,
+      "imageUrls": [],
+      "season": "winter",
+      "setSize": 4,
+      "items": {
+        "top": "hoodie",
+        "bottom": "jogger",
+        "outerwear": "long coat",
+        "dress": "",
+        "footwear": "sneakers",
+        "accessories": []
+      }
+    }
+]
