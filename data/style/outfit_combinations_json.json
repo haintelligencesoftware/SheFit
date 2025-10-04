@@ -43,7 +43,7 @@
     },
     {
       "id": 4,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/4.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/4.2.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/4.3.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/4.4.jpg"],
       "season": "spring",
       "setSize": 2,
       "items": {
