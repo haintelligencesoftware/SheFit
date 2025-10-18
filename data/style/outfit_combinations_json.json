@@ -15,7 +15,7 @@
     },
     {
       "id": 2,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 2,
       "items": {
@@ -29,7 +29,7 @@
     },
     {
       "id": 3,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 2,
       "items": {
@@ -43,7 +43,7 @@
     },
     {
       "id": 4,
-      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/4.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/4.2.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/4.3.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/4.4.jpg"],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 2,
       "items": {
@@ -57,7 +57,7 @@
     },
     {
       "id": 5,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 2,
       "items": {
@@ -71,7 +71,7 @@
     },
     {
       "id": 6,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 2,
       "items": {
@@ -85,7 +85,7 @@
     },
     {
       "id": 7,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 2,
       "items": {
@@ -99,7 +99,7 @@
     },
     {
       "id": 8,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 2,
       "items": {
@@ -113,7 +113,7 @@
     },
     {
       "id": 9,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 2,
       "items": {
@@ -127,7 +127,7 @@
     },
     {
       "id": 10,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 2,
       "items": {
@@ -141,7 +141,7 @@
     },
     {
       "id": 11,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 2,
       "items": {
@@ -155,7 +155,7 @@
     },
     {
       "id": 12,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 2,
       "items": {
@@ -169,7 +169,7 @@
     },
     {
       "id": 13,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 2,
       "items": {
@@ -183,7 +183,7 @@
     },
     {
       "id": 14,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 2,
       "items": {
@@ -197,7 +197,7 @@
     },
     {
       "id": 15,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 2,
       "items": {
@@ -211,7 +211,7 @@
     },
     {
       "id": 16,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 2,
       "items": {
@@ -225,7 +225,7 @@
     },
     {
       "id": 17,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 2,
       "items": {
@@ -239,7 +239,7 @@
     },
     {
       "id": 18,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 2,
       "items": {
@@ -253,7 +253,7 @@
     },
     {
       "id": 19,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 2,
       "items": {
@@ -267,7 +267,7 @@
     },
     {
       "id": 20,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 2,
       "items": {
@@ -281,7 +281,7 @@
     },
     {
       "id": 21,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 3,
       "items": {
@@ -295,7 +295,7 @@
     },
     {
       "id": 22,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 3,
       "items": {
@@ -309,7 +309,7 @@
     },
     {
       "id": 23,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 3,
       "items": {
@@ -323,7 +323,7 @@
     },
     {
       "id": 24,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 3,
       "items": {
@@ -337,7 +337,7 @@
     },
     {
       "id": 25,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 3,
       "items": {
@@ -351,7 +351,7 @@
     },
     {
       "id": 26,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 3,
       "items": {
@@ -365,7 +365,7 @@
     },
     {
       "id": 27,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 3,
       "items": {
@@ -379,7 +379,7 @@
     },
     {
       "id": 28,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 3,
       "items": {
@@ -393,7 +393,7 @@
     },
     {
       "id": 29,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 3,
       "items": {
@@ -407,7 +407,7 @@
     },
     {
       "id": 30,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 3,
       "items": {
@@ -421,7 +421,7 @@
     },
     {
       "id": 31,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 3,
       "items": {
@@ -435,7 +435,7 @@
     },
     {
       "id": 32,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 3,
       "items": {
@@ -449,7 +449,7 @@
     },
     {
       "id": 33,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 3,
       "items": {
@@ -463,7 +463,7 @@
     },
     {
       "id": 34,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 3,
       "items": {
@@ -477,7 +477,7 @@
     },
     {
       "id": 35,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 3,
       "items": {
@@ -491,7 +491,7 @@
     },
     {
       "id": 36,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 3,
       "items": {
@@ -505,7 +505,7 @@
     },
     {
       "id": 37,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 3,
       "items": {
@@ -519,7 +519,7 @@
     },
     {
       "id": 38,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 3,
       "items": {
@@ -533,7 +533,7 @@
     },
     {
       "id": 39,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 3,
       "items": {
@@ -547,7 +547,7 @@
     },
     {
       "id": 40,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 3,
       "items": {
@@ -575,7 +575,7 @@
     },
     {
       "id": 42,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 4,
       "items": {
@@ -589,7 +589,7 @@
     },
     {
       "id": 43,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 4,
       "items": {
@@ -603,7 +603,7 @@
     },
     {
       "id": 44,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 4,
       "items": {
@@ -617,7 +617,7 @@
     },
     {
       "id": 45,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 4,
       "items": {
@@ -631,7 +631,7 @@
     },
     {
       "id": 46,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 4,
       "items": {
@@ -645,7 +645,7 @@
     },
     {
       "id": 47,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 4,
       "items": {
@@ -659,7 +659,7 @@
     },
     {
       "id": 48,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 4,
       "items": {
@@ -673,7 +673,7 @@
     },
     {
       "id": 49,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 4,
       "items": {
@@ -687,7 +687,7 @@
     },
     {
       "id": 50,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 4,
       "items": {
@@ -701,7 +701,7 @@
     },
     {
       "id": 51,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 4,
       "items": {
@@ -715,7 +715,7 @@
     },
     {
       "id": 52,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 4,
       "items": {
@@ -729,7 +729,7 @@
     },
     {
       "id": 53,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 4,
       "items": {
@@ -743,7 +743,7 @@
     },
     {
       "id": 54,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 4,
       "items": {
@@ -757,7 +757,7 @@
     },
     {
       "id": 55,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 4,
       "items": {
@@ -771,7 +771,7 @@
     },
     {
       "id": 56,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 4,
       "items": {
@@ -785,7 +785,7 @@
     },
     {
       "id": 57,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 4,
       "items": {
@@ -799,7 +799,7 @@
     },
     {
       "id": 58,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 4,
       "items": {
@@ -813,7 +813,7 @@
     },
     {
       "id": 59,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 4,
       "items": {
@@ -827,7 +827,7 @@
     },
     {
       "id": 60,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "spring",
       "setSize": 4,
       "items": {
@@ -841,7 +841,7 @@
     },
     {
       "id": 61,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 2,
       "items": {
@@ -855,7 +855,7 @@
     },
     {
       "id": 62,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 2,
       "items": {
@@ -869,7 +869,7 @@
     },
     {
       "id": 63,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 2,
       "items": {
@@ -883,7 +883,7 @@
     },
     {
       "id": 64,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 2,
       "items": {
@@ -897,7 +897,7 @@
     },
     {
       "id": 65,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 2,
       "items": {
@@ -911,7 +911,7 @@
     },
     {
       "id": 66,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 2,
       "items": {
@@ -925,7 +925,7 @@
     },
     {
       "id": 67,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 2,
       "items": {
@@ -939,7 +939,7 @@
     },
     {
       "id": 68,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 2,
       "items": {
@@ -953,7 +953,7 @@
     },
     {
       "id": 69,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 2,
       "items": {
@@ -967,7 +967,7 @@
     },
     {
       "id": 70,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 2,
       "items": {
@@ -981,7 +981,7 @@
     },
     {
       "id": 71,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 2,
       "items": {
@@ -995,7 +995,7 @@
     },
     {
       "id": 72,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 2,
       "items": {
@@ -1009,7 +1009,7 @@
     },
     {
       "id": 73,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 2,
       "items": {
@@ -1023,7 +1023,7 @@
     },
     {
       "id": 74,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 2,
       "items": {
@@ -1051,7 +1051,7 @@
     },
     {
       "id": 76,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 2,
       "items": {
@@ -1065,7 +1065,7 @@
     },
     {
       "id": 77,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 2,
       "items": {
@@ -1079,7 +1079,7 @@
     },
     {
       "id": 78,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 2,
       "items": {
@@ -1093,7 +1093,7 @@
     },
     {
       "id": 79,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 2,
       "items": {
@@ -1107,7 +1107,7 @@
     },
     {
       "id": 80,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 2,
       "items": {
@@ -1121,7 +1121,7 @@
     },
     {
       "id": 81,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 3,
       "items": {
@@ -1135,7 +1135,7 @@
     },
     {
       "id": 82,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 3,
       "items": {
@@ -1149,7 +1149,7 @@
     },
     {
       "id": 83,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 3,
       "items": {
@@ -1163,7 +1163,7 @@
     },
     {
       "id": 84,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 3,
       "items": {
@@ -1177,7 +1177,7 @@
     },
     {
       "id": 85,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 3,
       "items": {
@@ -1191,7 +1191,7 @@
     },
     {
       "id": 86,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 3,
       "items": {
@@ -1205,7 +1205,7 @@
     },
     {
       "id": 87,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 3,
       "items": {
@@ -1219,7 +1219,7 @@
     },
     {
       "id": 88,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 3,
       "items": {
@@ -1233,7 +1233,7 @@
     },
     {
       "id": 89,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 3,
       "items": {
@@ -1247,7 +1247,7 @@
     },
     {
       "id": 90,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 3,
       "items": {
@@ -1261,7 +1261,7 @@
     },
     {
       "id": 91,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 3,
       "items": {
@@ -1275,7 +1275,7 @@
     },
     {
       "id": 92,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 3,
       "items": {
@@ -1289,7 +1289,7 @@
     },
     {
       "id": 93,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 3,
       "items": {
@@ -1303,7 +1303,7 @@
     },
     {
       "id": 94,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 3,
       "items": {
@@ -1317,7 +1317,7 @@
     },
     {
       "id": 95,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 3,
       "items": {
@@ -1331,7 +1331,7 @@
     },
     {
       "id": 96,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 3,
       "items": {
@@ -1345,7 +1345,7 @@
     },
     {
       "id": 97,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 3,
       "items": {
@@ -1359,7 +1359,7 @@
     },
     {
       "id": 98,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 3,
       "items": {
@@ -1387,7 +1387,7 @@
     },
     {
       "id": 100,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 3,
       "items": {
@@ -1401,7 +1401,7 @@
     },
     {
       "id": 101,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 4,
       "items": {
@@ -1415,7 +1415,7 @@
     },
     {
       "id": 102,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 4,
       "items": {
@@ -1429,7 +1429,7 @@
     },
     {
       "id": 103,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 4,
       "items": {
@@ -1443,7 +1443,7 @@
     },
     {
       "id": 104,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 4,
       "items": {
@@ -1457,7 +1457,7 @@
     },
     {
       "id": 105,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 4,
       "items": {
@@ -1471,7 +1471,7 @@
     },
     {
       "id": 106,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 4,
       "items": {
@@ -1485,7 +1485,7 @@
     },
     {
       "id": 107,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 4,
       "items": {
@@ -1499,7 +1499,7 @@
     },
     {
       "id": 108,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 4,
       "items": {
@@ -1513,7 +1513,7 @@
     },
     {
       "id": 109,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 4,
       "items": {
@@ -1527,7 +1527,7 @@
     },
     {
       "id": 110,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 4,
       "items": {
@@ -1541,7 +1541,7 @@
     },
     {
       "id": 111,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 4,
       "items": {
@@ -1555,7 +1555,7 @@
     },
     {
       "id": 112,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 4,
       "items": {
@@ -1569,7 +1569,7 @@
     },
     {
       "id": 113,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 4,
       "items": {
@@ -1583,7 +1583,7 @@
     },
     {
       "id": 114,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 4,
       "items": {
@@ -1597,7 +1597,7 @@
     },
     {
       "id": 115,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 4,
       "items": {
@@ -1611,7 +1611,7 @@
     },
     {
       "id": 116,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 4,
       "items": {
@@ -1625,7 +1625,7 @@
     },
     {
       "id": 117,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 4,
       "items": {
@@ -1639,7 +1639,7 @@
     },
     {
       "id": 118,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 4,
       "items": {
@@ -1653,7 +1653,7 @@
     },
     {
       "id": 119,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 4,
       "items": {
@@ -1667,7 +1667,7 @@
     },
     {
       "id": 120,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "summer",
       "setSize": 4,
       "items": {
@@ -1681,7 +1681,7 @@
     },
     {
       "id": 121,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 2,
       "items": {
@@ -1695,7 +1695,7 @@
     },
     {
       "id": 122,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 2,
       "items": {
@@ -1709,7 +1709,7 @@
     },
     {
       "id": 123,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 2,
       "items": {
@@ -1723,7 +1723,7 @@
     },
     {
       "id": 124,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 2,
       "items": {
@@ -1737,7 +1737,7 @@
     },
     {
       "id": 125,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 2,
       "items": {
@@ -1751,7 +1751,7 @@
     },
     {
       "id": 126,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 2,
       "items": {
@@ -1765,7 +1765,7 @@
     },
     {
       "id": 127,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 2,
       "items": {
@@ -1779,7 +1779,7 @@
     },
     {
       "id": 128,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 2,
       "items": {
@@ -1793,7 +1793,7 @@
     },
     {
       "id": 129,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 2,
       "items": {
@@ -1807,7 +1807,7 @@
     },
     {
       "id": 130,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 2,
       "items": {
@@ -1821,7 +1821,7 @@
     },
     {
       "id": 131,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 2,
       "items": {
@@ -1835,7 +1835,7 @@
     },
     {
       "id": 132,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 2,
       "items": {
@@ -1849,7 +1849,7 @@
     },
     {
       "id": 133,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 2,
       "items": {
@@ -1863,7 +1863,7 @@
     },
     {
       "id": 134,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 2,
       "items": {
@@ -1877,7 +1877,7 @@
     },
     {
       "id": 135,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 2,
       "items": {
@@ -1891,7 +1891,7 @@
     },
     {
       "id": 136,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 2,
       "items": {
@@ -1905,7 +1905,7 @@
     },
     {
       "id": 137,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 2,
       "items": {
@@ -1919,7 +1919,7 @@
     },
     {
       "id": 138,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 2,
       "items": {
@@ -1933,7 +1933,7 @@
     },
     {
       "id": 139,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 2,
       "items": {
@@ -1947,7 +1947,7 @@
     },
     {
       "id": 140,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 2,
       "items": {
@@ -1961,7 +1961,7 @@
     },
     {
       "id": 141,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 3,
       "items": {
@@ -1975,7 +1975,7 @@
     },
     {
       "id": 142,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 3,
       "items": {
@@ -1989,7 +1989,7 @@
     },
     {
       "id": 143,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 3,
       "items": {
@@ -2003,7 +2003,7 @@
     },
     {
       "id": 144,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 3,
       "items": {
@@ -2017,7 +2017,7 @@
     },
     {
       "id": 145,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 3,
       "items": {
@@ -2031,7 +2031,7 @@
     },
     {
       "id": 146,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 3,
       "items": {
@@ -2045,7 +2045,7 @@
     },
     {
       "id": 147,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 3,
       "items": {
@@ -2059,7 +2059,7 @@
     },
     {
       "id": 148,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 3,
       "items": {
@@ -2073,7 +2073,7 @@
     },
     {
       "id": 149,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 3,
       "items": {
@@ -2087,7 +2087,7 @@
     },
     {
       "id": 150,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 3,
       "items": {
@@ -2101,7 +2101,7 @@
     },
     {
       "id": 151,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 3,
       "items": {
@@ -2115,7 +2115,7 @@
     },
     {
       "id": 152,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 3,
       "items": {
@@ -2129,7 +2129,7 @@
     },
     {
       "id": 153,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 3,
       "items": {
@@ -2143,7 +2143,7 @@
     },
     {
       "id": 154,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 3,
       "items": {
@@ -2157,7 +2157,7 @@
     },
     {
       "id": 155,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 3,
       "items": {
@@ -2171,7 +2171,7 @@
     },
     {
       "id": 156,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 3,
       "items": {
@@ -2185,7 +2185,7 @@
     },
     {
       "id": 157,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 3,
       "items": {
@@ -2199,7 +2199,7 @@
     },
     {
       "id": 158,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 3,
       "items": {
@@ -2213,7 +2213,7 @@
     },
     {
       "id": 159,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 3,
       "items": {
@@ -2227,7 +2227,7 @@
     },
     {
       "id": 160,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 3,
       "items": {
@@ -2241,7 +2241,7 @@
     },
     {
       "id": 161,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 4,
       "items": {
@@ -2255,7 +2255,7 @@
     },
     {
       "id": 162,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 4,
       "items": {
@@ -2269,7 +2269,7 @@
     },
     {
       "id": 163,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 4,
       "items": {
@@ -2283,7 +2283,7 @@
     },
     {
       "id": 164,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 4,
       "items": {
@@ -2297,7 +2297,7 @@
     },
     {
       "id": 165,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 4,
       "items": {
@@ -2311,7 +2311,7 @@
     },
     {
       "id": 166,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 4,
       "items": {
@@ -2325,7 +2325,7 @@
     },
     {
       "id": 167,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 4,
       "items": {
@@ -2339,7 +2339,7 @@
     },
     {
       "id": 168,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 4,
       "items": {
@@ -2353,7 +2353,7 @@
     },
     {
       "id": 169,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 4,
       "items": {
@@ -2367,7 +2367,7 @@
     },
     {
       "id": 170,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 4,
       "items": {
@@ -2381,7 +2381,7 @@
     },
     {
       "id": 171,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 4,
       "items": {
@@ -2395,7 +2395,7 @@
     },
     {
       "id": 172,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 4,
       "items": {
@@ -2409,7 +2409,7 @@
     },
     {
       "id": 173,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 4,
       "items": {
@@ -2423,7 +2423,7 @@
     },
     {
       "id": 174,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 4,
       "items": {
@@ -2437,7 +2437,7 @@
     },
     {
       "id": 175,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 4,
       "items": {
@@ -2451,7 +2451,7 @@
     },
     {
       "id": 176,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 4,
       "items": {
@@ -2465,7 +2465,7 @@
     },
     {
       "id": 177,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 4,
       "items": {
@@ -2479,7 +2479,7 @@
     },
     {
       "id": 178,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 4,
       "items": {
@@ -2493,7 +2493,7 @@
     },
     {
       "id": 179,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 4,
       "items": {
@@ -2507,7 +2507,7 @@
     },
     {
       "id": 180,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "autumn",
       "setSize": 4,
       "items": {
@@ -2521,7 +2521,7 @@
     },
     {
       "id": 181,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 2,
       "items": {
@@ -2535,7 +2535,7 @@
     },
     {
       "id": 182,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 2,
       "items": {
@@ -2549,7 +2549,7 @@
     },
     {
       "id": 183,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 2,
       "items": {
@@ -2563,7 +2563,7 @@
     },
     {
       "id": 184,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 2,
       "items": {
@@ -2577,7 +2577,7 @@
     },
     {
       "id": 185,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 2,
       "items": {
@@ -2591,7 +2591,7 @@
     },
     {
       "id": 186,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 2,
       "items": {
@@ -2605,7 +2605,7 @@
     },
     {
       "id": 187,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 2,
       "items": {
@@ -2619,7 +2619,7 @@
     },
     {
       "id": 188,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 2,
       "items": {
@@ -2633,7 +2633,7 @@
     },
     {
       "id": 189,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 2,
       "items": {
@@ -2647,7 +2647,7 @@
     },
     {
       "id": 190,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 2,
       "items": {
@@ -2661,7 +2661,7 @@
     },
     {
       "id": 191,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 2,
       "items": {
@@ -2675,7 +2675,7 @@
     },
     {
       "id": 192,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 2,
       "items": {
@@ -2689,7 +2689,7 @@
     },
     {
       "id": 193,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 2,
       "items": {
@@ -2703,7 +2703,7 @@
     },
     {
       "id": 194,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 2,
       "items": {
@@ -2717,7 +2717,7 @@
     },
     {
       "id": 195,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 2,
       "items": {
@@ -2731,7 +2731,7 @@
     },
     {
       "id": 196,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 2,
       "items": {
@@ -2745,7 +2745,7 @@
     },
     {
       "id": 197,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 2,
       "items": {
@@ -2759,7 +2759,7 @@
     },
     {
       "id": 198,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 2,
       "items": {
@@ -2773,7 +2773,7 @@
     },
     {
       "id": 199,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 2,
       "items": {
@@ -2787,7 +2787,7 @@
     },
     {
       "id": 200,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 2,
       "items": {
@@ -2801,7 +2801,7 @@
     },
     {
       "id": 201,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 3,
       "items": {
@@ -2815,7 +2815,7 @@
     },
     {
       "id": 202,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 3,
       "items": {
@@ -2829,7 +2829,7 @@
     },
     {
       "id": 203,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 3,
       "items": {
@@ -2843,7 +2843,7 @@
     },
     {
       "id": 204,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 3,
       "items": {
@@ -2857,7 +2857,7 @@
     },
     {
       "id": 205,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 3,
       "items": {
@@ -2871,7 +2871,7 @@
     },
     {
       "id": 206,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 3,
       "items": {
@@ -2885,7 +2885,7 @@
     },
     {
       "id": 207,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 3,
       "items": {
@@ -2899,7 +2899,7 @@
     },
     {
       "id": 208,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 3,
       "items": {
@@ -2913,7 +2913,7 @@
     },
     {
       "id": 209,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 3,
       "items": {
@@ -2941,7 +2941,7 @@
     },
     {
       "id": 211,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 3,
       "items": {
@@ -2955,7 +2955,7 @@
     },
     {
       "id": 212,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 3,
       "items": {
@@ -2969,7 +2969,7 @@
     },
     {
       "id": 213,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 3,
       "items": {
@@ -2983,7 +2983,7 @@
     },
     {
       "id": 214,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 3,
       "items": {
@@ -2997,7 +2997,7 @@
     },
     {
       "id": 215,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 3,
       "items": {
@@ -3011,7 +3011,7 @@
     },
     {
       "id": 216,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 3,
       "items": {
@@ -3025,7 +3025,7 @@
     },
     {
       "id": 217,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 3,
       "items": {
@@ -3039,7 +3039,7 @@
     },
     {
       "id": 218,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 3,
       "items": {
@@ -3053,7 +3053,7 @@
     },
     {
       "id": 219,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 3,
       "items": {
@@ -3067,7 +3067,7 @@
     },
     {
       "id": 220,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 3,
       "items": {
@@ -3081,7 +3081,7 @@
     },
     {
       "id": 220,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 3,
       "items": {
@@ -3095,7 +3095,7 @@
     },
     {
       "id": 221,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 4,
       "items": {
@@ -3109,7 +3109,7 @@
     },
     {
       "id": 222,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 4,
       "items": {
@@ -3123,7 +3123,7 @@
     },
     {
       "id": 223,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 4,
       "items": {
@@ -3137,7 +3137,7 @@
     },
     {
       "id": 224,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 4,
       "items": {
@@ -3151,7 +3151,7 @@
     },
     {
       "id": 225,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 4,
       "items": {
@@ -3165,7 +3165,7 @@
     },
     {
       "id": 226,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 4,
       "items": {
@@ -3179,7 +3179,7 @@
     },
     {
       "id": 227,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 4,
       "items": {
@@ -3193,7 +3193,7 @@
     },
     {
       "id": 228,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 4,
       "items": {
@@ -3207,7 +3207,7 @@
     },
     {
       "id": 229,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 4,
       "items": {
@@ -3221,7 +3221,7 @@
     },
     {
       "id": 230,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 4,
       "items": {
@@ -3235,7 +3235,7 @@
     },
     {
       "id": 231,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 4,
       "items": {
@@ -3249,7 +3249,7 @@
     },
     {
       "id": 232,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 4,
       "items": {
@@ -3263,7 +3263,7 @@
     },
     {
       "id": 233,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 4,
       "items": {
@@ -3277,7 +3277,7 @@
     },
     {
       "id": 234,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 4,
       "items": {
@@ -3291,7 +3291,7 @@
     },
     {
       "id": 235,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 4,
       "items": {
@@ -3305,7 +3305,7 @@
     },
     {
       "id": 236,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 4,
       "items": {
@@ -3319,7 +3319,7 @@
     },
     {
       "id": 237,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 4,
       "items": {
@@ -3333,7 +3333,7 @@
     },
     {
       "id": 238,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 4,
       "items": {
@@ -3347,7 +3347,7 @@
     },
     {
       "id": 239,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 4,
       "items": {
@@ -3361,7 +3361,7 @@
     },
     {
       "id": 240,
-      "imageUrls": [],
+      "imageUrls": ["https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.1.jpg","https://haintelligencesoftware.github.io/SheFit/assets/images/style/1.3.jpg"],
       "season": "winter",
       "setSize": 4,
       "items": {
