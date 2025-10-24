@@ -1,5 +1,4 @@
-{
-  "makeupTutorials": [
+[
     {
       "id": "1",
       "title": "Doğal Günlük Makyaj - Klasik",
@@ -2410,6 +2409,4 @@
       ],
       "leonardoPrompt": "Professional makeup tutorial photography, plumping glossy lips, full voluminous lips, extreme shine, juicy lips effect, dimensional glossy look, pouty lips, ultra glossy finish, beauty portrait closeup, front facing, high quality"
     }
-    
-  ]
-}
+]
