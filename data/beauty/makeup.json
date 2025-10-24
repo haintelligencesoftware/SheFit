@@ -1,8 +1,14 @@
-[
+{
+  "makeupTutorials": [
     {
       "id": "1",
       "title": "Doğal Günlük Makyaj - Klasik",
-      "image": "natural_daily_classic.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/1-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/1-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/1-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/1-4.jpg"
+      ],
       "difficulty": "Kolay",
       "duration": "10-15 dakika",
       "category": "Günlük",
@@ -27,14 +33,17 @@
         "Kaşları fırçalayın ve jel ile sabitleyin.",
         "Yanaklara hafif pembe allık sürün.",
         "Dudaklara renkli dudak balsamı uygulayın."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, classic natural daily makeup, fresh minimal look, light BB cream coverage, natural brows, soft pink cheeks, glossy lips, dewy skin, soft natural lighting, beauty portrait, front facing, high quality"
+      ]
     },
-    
     {
       "id": "2",
       "title": "Doğal Günlük Makyaj - Minimal",
-      "image": "natural_daily_minimal.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/2-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/2-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/2-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/2-4.jpg"
+      ],
       "difficulty": "Çok Kolay",
       "duration": "8-10 dakika",
       "category": "Günlük",
@@ -55,14 +64,17 @@
         "Kaşları hafifçe doldurun.",
         "Krem allığı yanaklara vurun ve blend edin.",
         "Dudaklara nemli dudak balsamı sürün."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, ultra minimal natural makeup, barely there coverage, fresh faced look, subtle enhancement, natural beauty, clean girl aesthetic, soft daylight, beauty portrait, front facing, high quality"
+      ]
     },
-    
     {
       "id": "3",
       "title": "No-Makeup Makeup Look - Dewy",
-      "image": "no_makeup_dewy.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/3-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/3-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/3-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/3-4.jpg"
+      ],
       "difficulty": "Kolay",
       "duration": "10-12 dakika",
       "category": "Günlük",
@@ -85,15 +97,17 @@
         "Kirpikleri kıvırın.",
         "Dudaklara nemli balm sürün.",
         "Dewy sabitleyici ile cildi tamamlayın."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, no makeup makeup dewy skin, glowing natural complexion, fresh bare skin effect, minimal coverage, healthy glow, natural flush, soft lighting, beauty portrait, front facing, high quality"
+      ]
     },
-    
-
     {
       "id": "4",
       "title": "No-Makeup Makeup Look - Matte",
-      "image": "no_makeup_matte.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/4-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/4-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/4-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/4-4.jpg"
+      ],
       "difficulty": "Kolay",
       "duration": "8-10 dakika",
       "category": "Günlük",
@@ -116,15 +130,17 @@
         "Kaşları hafif doldurun.",
         "Tek kat maskara sürün.",
         "Mat dudak balsamı ile tamamlayın."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, no makeup matte finish, natural flawless skin, bare faced beauty, seamless coverage, soft matte texture, effortless look, natural lighting, beauty portrait, front facing, high quality"
+      ]
     },
-    
-
     {
       "id": "5",
       "title": "5 Dakikada Hızlı Makyaj - Express",
-      "image": "quick_5min_express.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/5-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/5-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/5-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/5-4.jpg"
+      ],
       "difficulty": "Çok Kolay",
       "duration": "5 dakika",
       "category": "Günlük",
@@ -143,15 +159,17 @@
         "Kaşları 3-4 vuruşla doldurun.",
         "Krem allığı yanaklara vurun.",
         "Dudaklara renkli balm sürün ve çıkın!"
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, quick 5 minute makeup, fast beauty routine, simple minimal look, rushed morning makeup, efficient beauty, natural fresh appearance, soft lighting, beauty portrait, front facing, high quality"
+      ]
     },
-    
-
     {
       "id": "6",
       "title": "5 Dakikada Hızlı Makyaj - Multi-Use",
-      "image": "quick_5min_multiuse.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/6-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/6-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/6-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/6-4.jpg"
+      ],
       "difficulty": "Çok Kolay",
       "duration": "5 dakika",
       "category": "Günlük",
@@ -168,15 +186,17 @@
         "Maskara sürün.",
         "Kaşları jel ile sabitleyin.",
         "Hazırsınız!"
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, multitasking quick makeup, one product many uses, efficient beauty routine, time saving makeup, minimalist approach, natural finish, soft lighting, beauty portrait, front facing, high quality"
+      ]
     },
-    
-  
     {
       "id": "7",
       "title": "Ofis Makyajı - Profesyonel",
-      "image": "office_professional.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/7-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/7-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/7-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/7-4.jpg"
+      ],
       "difficulty": "Kolay-Orta",
       "duration": "15-20 dakika",
       "category": "Günlük",
@@ -202,14 +222,17 @@
         "Kaşları düzgün şekillendirin.",
         "Doğal allık ekleyin.",
         "Nötr renkte ruj sürün."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, office makeup look, corporate beauty, polished professional appearance, neutral tones, conservative elegant makeup, workplace appropriate, natural lighting, beauty portrait, front facing, high quality"
+      ]
     },
-  
     {
       "id": "8",
       "title": "Ofis Makyajı - Uzun Süre Kalıcı",
-      "image": "office_longlasting.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/8-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/8-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/8-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/8-4.jpg"
+      ],
       "difficulty": "Orta",
       "duration": "20-25 dakika",
       "category": "Günlük",
@@ -236,14 +259,17 @@
         "Toz allık uygulayın.",
         "Kalıcı ruj sürün.",
         "Setting spray ile tüm makyajı kilitleyin."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, long lasting office makeup, all day wear, waterproof makeup, smudge proof look, matte finish, professional appearance, 12 hour makeup, soft lighting, beauty portrait, front facing, high quality"
+      ]
     },
-
     {
       "id": "9",
       "title": "Okul Makyajı - Genç",
-      "image": "school_young.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/9-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/9-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/9-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/9-4.jpg"
+      ],
       "difficulty": "Çok Kolay",
       "duration": "5-10 dakika",
       "category": "Günlük",
@@ -262,14 +288,17 @@
         "Kaşları jel ile fırçalayın.",
         "Hafif allık ekleyin.",
         "Glossy dudak balsamı ile tamamlayın."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, school makeup for teens, youthful fresh look, minimal makeup, age appropriate beauty, natural school girl style, light coverage, soft daylight, beauty portrait, front facing, high quality"
+      ]
     },
-
     {
       "id": "10",
       "title": "Okul Makyajı - Doğal Cilt",
-      "image": "school_natural_skin.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/10-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/10-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/10-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/10-4.jpg"
+      ],
       "difficulty": "Çok Kolay",
       "duration": "8-12 dakika",
       "category": "Günlük",
@@ -290,14 +319,17 @@
         "Kaşları hafif doldurun.",
         "Krem allığı yanaklara sürün.",
         "Dudak tinti ile doğal renk katın."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, school makeup natural skin, teenage beauty routine, fresh young appearance, healthy skin focus, minimal products, school appropriate, natural lighting, beauty portrait, front facing, high quality"
+      ]
     },
-    
     {
       "id": "11",
       "title": "Özel Gün Makyajı",
-      "image": "special_occasion_makeup.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/11-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/11-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/11-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/11-4.jpg"
+      ],
       "difficulty": "Orta-Zor",
       "duration": "35-45 dakika",
       "category": "Özel Günler",
@@ -337,14 +369,17 @@
         "Dudak kontur kalemi ile dudak hatlarını çizin. Böylece ruj daha uzun süre dayanır.",
         "Ten rengi pembe veya şeftali tonunda ruj sürün. Daha dolgun görünüm için dudak ortasına açık bir ton veya gloss ekleyin.",
         "Son olarak makyaj sabitleme spreyi ile makyajı sabitleyin. 20-30 cm uzaktan yüze spreyleyin ve kurumayı bekleyin."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, elegant special occasion makeup look, glamorous evening makeup with soft glam style, warm bronze eyeshadow with gold shimmer, winged eyeliner, long lashes, natural pink lips with gloss, flawless skin with subtle highlight, natural lighting, beauty portrait, front facing, high quality, 4K, professional beauty photography"
+      ]
     },
-
     {
       "id": "12",
       "title": "Özel Gün Makyajı - Renkli",
-      "image": "special_occasion_colorful.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/12-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/12-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/12-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/12-4.jpg"
+      ],
       "difficulty": "Orta-Zor",
       "duration": "40-50 dakika",
       "category": "Özel Günler",
@@ -376,14 +411,17 @@
         "Elmacık kemiklerine parlak aydınlatıcı ekleyin.",
         "Koyu veya canlı renkte ruj sürün.",
         "Setting spray ile sabitleyin."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, colorful special occasion makeup, vibrant eyeshadow colors, glitter accent, bold dramatic look, festive party makeup, creative eye art, statement lips, glamorous style, studio lighting, beauty portrait, front facing, high quality"
+      ]
     },
-
     {
       "id": "13",
       "title": "Akşam Makyajı - Smoky",
-      "image": "evening_smoky.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/13-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/13-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/13-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/13-4.jpg"
+      ],
       "difficulty": "Orta",
       "duration": "30-40 dakika",
       "category": "Akşam",
@@ -412,14 +450,17 @@
         "Allık ve aydınlatıcı ekleyin.",
         "Koyu ruj sürün.",
         "Setting spray ile sabitleyin."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, evening smoky makeup, deep dark eyeshadow, sultry night look, dramatic black smokey eyes, bold eyeliner, voluminous lashes, contoured face, dark lips, glamorous evening style, studio lighting, beauty portrait, front facing, high quality"
+      ]
     },
-
     {
       "id": "14",
       "title": "Akşam Makyajı - Glam",
-      "image": "evening_glam.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/14-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/14-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/14-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/14-4.jpg"
+      ],
       "difficulty": "Orta",
       "duration": "35-45 dakika",
       "category": "Akşam",
@@ -449,14 +490,17 @@
         "Elmacık kemiklerine bol aydınlatıcı sürün.",
         "Glossy ruj ile tamamlayın.",
         "Setting spray kullanın."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, glamorous evening makeup, glowing radiant skin, golden shimmer eyeshadow, glitter accent, dewy finish, illuminated complexion, glossy lips, luxury glam style, studio lighting, beauty portrait, front facing, high quality"
+      ]
     },
-
     {
       "id": "15",
       "title": "Davet Makyajı - Şık",
-      "image": "party_chic.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/15-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/15-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/15-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/15-4.jpg"
+      ],
       "difficulty": "Orta",
       "duration": "25-35 dakika",
       "category": "Akşam",
@@ -484,14 +528,17 @@
         "Aydınlatıcı ekleyin.",
         "Parlak ruj sürün.",
         "Setting spray ile sabitleyin."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, chic party makeup, elegant evening look, shimmer eyeshadow, sophisticated style, polished appearance, radiant glow, statement makeup, festive beauty, studio lighting, beauty portrait, front facing, high quality"
+      ]
     },
-
     {
       "id": "16",
       "title": "Davet Makyajı - Göz Alıcı",
-      "image": "party_eyecatching.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/16-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/16-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/16-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/16-4.jpg"
+      ],
       "difficulty": "Orta-Zor",
       "duration": "30-40 dakika",
       "category": "Akşam",
@@ -520,14 +567,17 @@
         "Allık ve aydınlatıcı ekleyin.",
         "Bold renkte ruj sürün.",
         "Setting spray ile sabitleyin."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, eye catching party makeup, bold creative look, glitter details, graphic eyeliner art, vibrant colors, statement eye makeup, party ready beauty, dramatic style, studio lighting, beauty portrait, front facing, high quality"
+      ]
     },
-
     {
       "id": "17",
       "title": "Kokteyl Makyajı - Sofistike",
-      "image": "cocktail_sophisticated.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/17-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/17-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/17-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/17-4.jpg"
+      ],
       "difficulty": "Orta",
       "duration": "25-30 dakika",
       "category": "Akşam",
@@ -557,14 +607,17 @@
         "Elmacık kemiklerine aydınlatıcı ekleyin.",
         "Saten ruj sürün.",
         "Setting spray kullanın."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, sophisticated cocktail makeup, elegant evening style, metallic eyeshadow accent, satin finish, refined beauty, upscale event makeup, polished appearance, classy look, soft studio lighting, beauty portrait, front facing, high quality"
+      ]
     },
-
     {
       "id": "18",
       "title": "Kokteyl Makyajı - Modern",
-      "image": "cocktail_modern.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/18-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/18-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/18-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/18-4.jpg"
+      ],
       "difficulty": "Orta",
       "duration": "20-30 dakika",
       "category": "Akşam",
@@ -588,13 +641,17 @@
         "Eyeliner ve maskara sürün.",
         "Aydınlatıcı ekleyin.",
         "Setting spray ile sabitleyin."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, modern cocktail makeup, monochromatic color scheme, coordinated tones, contemporary style, streamlined beauty, minimalist elegance, cohesive look, soft lighting, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "19",
       "title": "Balo Makyajı - Romantik",
-      "image": "prom_romantic.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/19-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/19-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/19-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/19-4.jpg"
+      ],
       "difficulty": "Orta-Zor",
       "duration": "35-45 dakika",
       "category": "Akşam",
@@ -624,13 +681,17 @@
         "Aydınlatıcı ekleyin.",
         "Pembe tonda ruj sürün.",
         "Setting spray ile tüm gece dayanıklılık sağlayın."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, romantic prom makeup, soft pink and purple tones, dreamy princess look, sparkle eyeshadow, long lashes, rosy cheeks, youthful beauty, special occasion makeup, soft lighting, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "20",
       "title": "Balo Makyajı - Dramatik",
-      "image": "prom_dramatic.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/20-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/20-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/20-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/20-4.jpg"
+      ],
       "difficulty": "Zor",
       "duration": "40-50 dakika",
       "category": "Akşam",
@@ -662,13 +723,17 @@
         "Bol aydınlatıcı ekleyin.",
         "Koyu veya metalik ruj sürün.",
         "Setting spray ile sabitleyin."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, dramatic prom makeup, bold intense look, dark smokey eyes, heavy glitter, statement eyeliner, dramatic lashes, sculpted face, bold lips, show stopping beauty, studio lighting, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "21",
       "title": "Smokey Eye Makyajı - Klasik Siyah",
-      "image": "smokey_classic_black.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/21-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/21-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/21-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/21-4.jpg"
+      ],
       "difficulty": "Orta",
       "duration": "20-30 dakika",
       "category": "Göz Makyajı",
@@ -690,14 +755,17 @@
         "Siyah eyeliner ile kirpik hattını çizin.",
         "İç göşeye aydınlatıcı far ekleyin.",
         "Maskara sürün."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, classic black smokey eye, charcoal grey gradient, sultry dark eyeshadow, dramatic evening eye, perfectly blended smoke effect, intense black eyeliner, beauty portrait, front facing, high quality"
+      ]
     },
-  
     {
       "id": "22",
       "title": "Smokey Eye Makyajı - Kahverengi",
-      "image": "smokey_brown.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/22-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/22-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/22-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/22-4.jpg"
+      ],
       "difficulty": "Orta",
       "duration": "20-30 dakika",
       "category": "Göz Makyajı",
@@ -719,14 +787,17 @@
         "Kahverengi eyeliner çekin.",
         "Göz ortasına altın simli far ekleyin.",
         "Maskara sürün."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, brown smokey eye makeup, warm chocolate tones, soft bronze gradient, natural sultry look, golden shimmer center, blended earth tones, beauty portrait, front facing, high quality"
+      ]
     },
-   
     {
       "id": "23",
       "title": "Cut Crease Makyajı - Klasik",
-      "image": "cut_crease_classic.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/23-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/23-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/23-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/23-4.jpg"
+      ],
       "difficulty": "Zor",
       "duration": "35-45 dakika",
       "category": "Göz Makyajı",
@@ -749,14 +820,17 @@
         "Eyeliner çekin.",
         "Maskara sürün.",
         "Keskin hatları kontrol edin."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, classic cut crease technique, sharp defined line, contrasting lid, precise eye makeup, dramatic crease, clean edges, shimmer center, beauty portrait, front facing, high quality"
+      ]
     },
- 
     {
       "id": "24",
       "title": "Cut Crease Makyajı - Renkli",
-      "image": "cut_crease_colorful.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/24-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/24-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/24-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/24-4.jpg"
+      ],
       "difficulty": "Zor",
       "duration": "40-50 dakika",
       "category": "Göz Makyajı",
@@ -778,14 +852,17 @@
         "Renkli eyeliner kullanın.",
         "Maskara sürün.",
         "Yaratıcı detaylar ekleyin."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, colorful cut crease makeup, vibrant eyeshadow colors, bold creative look, glitter accent, rainbow effect, artistic eye makeup, sharp precision, beauty portrait, front facing, high quality"
+      ]
     },
-
     {
       "id": "25",
       "title": "Halo Eye Makyajı - Altın",
-      "image": "halo_eye_gold.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/25-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/25-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/25-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/25-4.jpg"
+      ],
       "difficulty": "Orta-Zor",
       "duration": "25-35 dakika",
       "category": "Göz Makyajı",
@@ -806,13 +883,17 @@
         "Alt kirpik hattına koyu far sürün.",
         "Eyeliner çekin.",
         "Maskara sürün."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, golden halo eye makeup, spotlight effect on lid center, dark outer corners, bright gold shimmer middle, dimensional eye, halo glow technique, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "26",
       "title": "Halo Eye Makyajı - Renkli",
-      "image": "halo_eye_colorful.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/26-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/26-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/26-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/26-4.jpg"
+      ],
       "difficulty": "Orta-Zor",
       "duration": "30-40 dakika",
       "category": "Göz Makyajı",
@@ -832,13 +913,17 @@
         "Ortadaki parlaklığı koruyun.",
         "Alt kirpik hattına koyu far sürün.",
         "Eyeliner ve maskara uygulayın."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, colorful halo eye makeup, vibrant center spotlight, dark frame corners, rainbow shimmer middle, creative eye art, dimensional colorful look, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "27",
       "title": "Glitter Eye Makyajı - Tam Kapak",
-      "image": "glitter_full_lid.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/27-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/27-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/27-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/27-4.jpg"
+      ],
       "difficulty": "Orta",
       "duration": "20-30 dakika",
       "category": "Göz Makyajı",
@@ -859,13 +944,17 @@
         "Takma kirpik takın.",
         "Maskara sürün.",
         "Glitter döküntülerini temizleyin."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, full lid glitter makeup, complete sparkle coverage, glamorous glitter eyes, party ready sparkle, eye catching shimmer, festival makeup style, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "28",
       "title": "Glitter Eye Makyajı - İç Köşe",
-      "image": "glitter_inner_corner.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/28-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/28-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/28-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/28-4.jpg"
+      ],
       "difficulty": "Kolay-Orta",
       "duration": "15-20 dakika",
       "category": "Göz Makyajı",
@@ -885,13 +974,17 @@
         "Glitter'ı iç köşeye bastırın.",
         "Maskara sürün.",
         "Parıltılı detay tamamlanmış olur."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, inner corner glitter accent, sparkle highlight, subtle glitter detail, elevated simple look, eye brightening effect, delicate shimmer touch, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "29",
       "title": "Doğal Göz Makyajı - Soft Brown",
-      "image": "natural_eye_soft_brown.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/29-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/29-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/29-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/29-4.jpg"
+      ],
       "difficulty": "Kolay",
       "duration": "10-15 dakika",
       "category": "Göz Makyajı",
@@ -907,35 +1000,43 @@
         "Blend edin.",
         "Kahverengi maskara sürün.",
         "Kaşları hafifçe doldurun."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, natural soft brown eye makeup, subtle earthy tones, everyday eye look, gentle brown shades, effortless beauty, simple eye makeup, beauty portrait, front facing, high quality"
+      ]
     },
-{
-  "id": "30",
-  "title": "Doğal Göz Makyajı - Nötr Işıltı",
-  "image": "natural_eye_shimmer.jpg",
-  "difficulty": "Kolay",
-  "duration": "10-12 dakika",
-  "category": "Göz Makyajı",
-  "products": [
-    "Bej Far",
-    "Şampanya Tonlu Simli Far",
-    "Maskara",
-    "Kaş Jeli"
-  ],
-  "steps": [
-    "Bej farı göz kapağına sürün.",
-    "Şampanya tonlu simli farı göz ortasına ekleyin.",
-    "Hafifçe blend edin.",
-    "Maskara sürün.",
-    "Kaşları jel ile sabitleyin."
-  ],
-  "leonardoPrompt": "Professional makeup tutorial photography, natural neutral shimmer eye, subtle sparkle, champagne glow, everyday glam, soft natural look with shine, effortless beauty, beauty portrait, front facing, high quality"
-},
+    {
+      "id": "30",
+      "title": "Doğal Göz Makyajı - Nötr Işıltı",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/30-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/30-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/30-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/30-4.jpg"
+      ],
+      "difficulty": "Kolay",
+      "duration": "10-12 dakika",
+      "category": "Göz Makyajı",
+      "products": [
+        "Bej Far",
+        "Şampanya Tonlu Simli Far",
+        "Maskara",
+        "Kaş Jeli"
+      ],
+      "steps": [
+        "Bej farı göz kapağına sürün.",
+        "Şampanya tonlu simli farı göz ortasına ekleyin.",
+        "Hafifçe blend edin.",
+        "Maskara sürün.",
+        "Kaşları jel ile sabitleyin."
+      ]
+    },
     {
       "id": "31",
       "title": "Renkli Göz Makyajı - Mor Tonları",
-      "image": "colorful_eye_purple.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/31-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/31-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/31-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/31-4.jpg"
+      ],
       "difficulty": "Orta",
       "duration": "20-25 dakika",
       "category": "Göz Makyajı",
@@ -953,13 +1054,17 @@
         "Koyu mor ile dış köşeye vurgu yapın.",
         "Simli mor farı göz ortasına ekleyin.",
         "Eyeliner ve maskara sürün."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, purple colorful eye makeup, vibrant violet shades, lavender to plum gradient, creative purple eye, bold color choice, artistic eye look, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "32",
       "title": "Renkli Göz Makyajı - Mavi-Yeşil",
-      "image": "colorful_eye_blue_green.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/32-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/32-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/32-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/32-4.jpg"
+      ],
       "difficulty": "Orta",
       "duration": "20-30 dakika",
       "category": "Göz Makyajı",
@@ -977,13 +1082,17 @@
         "İkisini ortada buluşturun ve blend edin.",
         "Turkuaz simli farı göz ortasına ekleyin.",
         "Eyeliner ve maskara sürün."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, blue green colorful eye makeup, ocean inspired colors, turquoise shimmer, aqua tones, tropical eye look, vibrant gradient, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "33",
       "title": "Korean Style Makyaj - Glass Skin",
-      "image": "korean_glass_skin.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/33-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/33-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/33-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/33-4.jpg"
+      ],
       "difficulty": "Kolay-Orta",
       "duration": "20-25 dakika",
       "category": "Stil Bazlı",
@@ -1008,13 +1117,17 @@
         "Yanaklara krem allık sürün, yüksek elmacıklara.",
         "Dudaklara gradient tekniği uygulayın.",
         "Bol aydınlatıcı ile cam gibi cilt yaratın."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, Korean glass skin makeup, ultra dewy glowing complexion, transparent luminous skin, gradient lips, straight brows, minimal eye makeup, youthful K-beauty, soft lighting, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "34",
       "title": "Korean Style Makyaj - Puppy Eyes",
-      "image": "korean_puppy_eyes.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/34-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/34-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/34-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/34-4.jpg"
+      ],
       "difficulty": "Orta",
       "duration": "20-30 dakika",
       "category": "Stil Bazlı",
@@ -1038,13 +1151,17 @@
         "Kaşları doğal tutun.",
         "Mercan allık uygulayın.",
         "Gradient dudak yapın."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, Korean puppy eyes makeup, downturned eye look, innocent youthful appearance, cute eye shape, soft pink tones, aegyo sal highlight, K-beauty trend, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "35",
       "title": "Vintage Makyaj - 1950s",
-      "image": "vintage_1950s.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/35-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/35-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/35-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/35-4.jpg"
+      ],
       "difficulty": "Orta-Zor",
       "duration": "30-40 dakika",
       "category": "Stil Bazlı",
@@ -1067,13 +1184,17 @@
         "Takma kirpik takın ve maskara sürün.",
         "Yanaklara yuvarlak şekilde pembe allık sürün.",
         "Kırmızı ruj ile klasik dudak yapın."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, 1950s vintage makeup, classic retro beauty, winged eyeliner, red lips, defined brows, pin up style, old Hollywood glamour, timeless elegance, soft studio lighting, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "36",
       "title": "Vintage Makyaj - 1920s Flapper",
-      "image": "vintage_1920s.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/36-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/36-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/36-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/36-4.jpg"
+      ],
       "difficulty": "Orta-Zor",
       "duration": "35-45 dakika",
       "category": "Stil Bazlı",
@@ -1097,13 +1218,17 @@
         "Kaşları ince ve düz çizin.",
         "Minimal allık kullanın.",
         "Koyu bordo veya kırmızı ruj sürün."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, 1920s flapper makeup, art deco style, dark smokey eyes, thin brows, cupid bow lips, pale complexion, gatsby era beauty, roaring twenties look, vintage glamour, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "37",
       "title": "Pin-Up Makyaj - Klasik",
-      "image": "pinup_classic.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/37-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/37-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/37-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/37-4.jpg"
+      ],
       "difficulty": "Orta",
       "duration": "25-35 dakika",
       "category": "Stil Bazlı",
@@ -1126,13 +1251,17 @@
         "Takma kirpik takın ve maskara sürün.",
         "Yanaklara yuvarlak pembe allık sürün.",
         "Kırmızı ruj ile dolgun dudak yapın."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, classic pin up makeup, retro beauty, dramatic winged liner, red lips, defined arched brows, rosy cheeks, vintage bombshell style, 1950s inspired, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "38",
       "title": "Pin-Up Makyaj - Modern Twist",
-      "image": "pinup_modern.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/38-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/38-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/38-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/38-4.jpg"
+      ],
       "difficulty": "Orta",
       "duration": "30-35 dakika",
       "category": "Stil Bazlı",
@@ -1154,13 +1283,17 @@
         "Maskara sürün.",
         "Allık uygulayın.",
         "Modern renkte (pembe, mercan) ruj sürün."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, modern pin up makeup, retro meets contemporary, colorful eyeshadow, graphic liner, updated vintage style, fresh take on classic, creative beauty, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "39",
       "title": "Boho Makyaj - Natural",
-      "image": "boho_natural.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/39-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/39-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/39-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/39-4.jpg"
+      ],
       "difficulty": "Kolay",
       "duration": "15-20 dakika",
       "category": "Stil Bazlı",
@@ -1181,13 +1314,17 @@
         "Kaşları doğal bırakın, sadece jel sürün.",
         "Krem allık uygulayın.",
         "Glossy dudak ürünü sürün."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, natural boho makeup, earthy tones, sun kissed glow, free spirited beauty, warm bronzed skin, effortless bohemian style, natural textures, soft lighting, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "40",
       "title": "Boho Makyaj - Festival",
-      "image": "boho_festival.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/40-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/40-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/40-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/40-4.jpg"
+      ],
       "difficulty": "Orta",
       "duration": "25-30 dakika",
       "category": "Stil Bazlı",
@@ -1211,46 +1348,54 @@
         "Allık uygulayın.",
         "Renkli ruj sürün.",
         "İsteğe bağlı face gems ile süsleyin."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, festival boho makeup, colorful creative look, glitter accents, face gems, free spirit style, artistic bohemian beauty, vibrant colors, outdoor festival ready, beauty portrait, front facing, high quality"
+      ]
     },
-{
-  "id": "41",
-  "title": "Soft Glam Makyajı - Nötr Tonlar",
-  "image": "soft_glam_neutral.jpg",
-  "difficulty": "Orta",
-  "duration": "25-30 dakika",
-  "category": "Stil Bazlı",
-  "products": [
-    "Primer",
-    "Fondöten",
-    "Kapatıcı",
-    "Kontur",
-    "Nötr Far Paleti",
-    "Simli Far",
-    "Eyeliner",
-    "Maskara",
-    "Allık",
-    "Aydınlatıcı",
-    "Nötr Ruj"
-  ],
-  "steps": [
-    "Primer ve fondöten ile kusursuz cilt yaratın.",
-    "Kapatıcı ve hafif kontur uygulayın.",
-    "Nötr tonlarda (bej, kahverengi) göz makyajı yapın.",
-    "Göz ortasına simli far ekleyin.",
-    "İnce eyeliner çekin.",
-    "Maskara sürün.",
-    "Hafif allık uygulayın.",
-    "Elmacık kemiklerine aydınlatıcı ekleyin.",
-    "Nötr renkte ruj sürün."
-  ],
-  "leonardoPrompt": "Professional makeup tutorial photography, soft glam neutral tones, natural eyeshadow palette, shimmer accent, polished natural beauty, elegant everyday glam, warm beige colors, sophisticated look, beauty portrait, front facing, high quality"
-},
+    {
+      "id": "41",
+      "title": "Soft Glam Makyajı - Nötr Tonlar",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/41-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/41-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/41-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/41-4.jpg"
+      ],
+      "difficulty": "Orta",
+      "duration": "25-30 dakika",
+      "category": "Stil Bazlı",
+      "products": [
+        "Primer",
+        "Fondöten",
+        "Kapatıcı",
+        "Kontur",
+        "Nötr Far Paleti",
+        "Simli Far",
+        "Eyeliner",
+        "Maskara",
+        "Allık",
+        "Aydınlatıcı",
+        "Nötr Ruj"
+      ],
+      "steps": [
+        "Primer ve fondöten ile kusursuz cilt yaratın.",
+        "Kapatıcı ve hafif kontur uygulayın.",
+        "Nötr tonlarda (bej, kahverengi) göz makyajı yapın.",
+        "Göz ortasına simli far ekleyin.",
+        "İnce eyeliner çekin.",
+        "Maskara sürün.",
+        "Hafif allık uygulayın.",
+        "Elmacık kemiklerine aydınlatıcı ekleyin.",
+        "Nötr renkte ruj sürün."
+      ]
+    },
     {
       "id": "42",
-      "title": "Soft Glam Makyaj - Rose Gold",
-      "image": "soft_glam_rose_gold.jpg",
+      "title": "Soft Glam Makyajı - Rose Gold",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/42-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/42-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/42-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/42-4.jpg"
+      ],
       "difficulty": "Orta",
       "duration": "30-35 dakika",
       "category": "Stil Bazlı",
@@ -1277,13 +1422,17 @@
         "Pembe allık uygulayın.",
         "Aydınlatıcı ekleyin.",
         "Pembe tonda ruj sürün."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, rose gold soft glam, pink and gold tones, romantic shimmer, warm metallic eyeshadow, rosy glow, feminine elegant beauty, soft glamorous style, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "43",
-      "title": "Full Glam Makyaj - Maximum Impact",
-      "image": "full_glam_maximum.jpg",
+      "title": "Full Glam Makyajı - Maximum Impact",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/43-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/43-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/43-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/43-4.jpg"
+      ],
       "difficulty": "Zor",
       "duration": "45-60 dakika",
       "category": "Stil Bazlı",
@@ -1314,13 +1463,17 @@
         "Allık ve bol aydınlatıcı ekleyin.",
         "Dramatik renkte ruj sürün.",
         "Setting spray ile sabitleyin."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, full glam maximum impact, heavy coverage foundation, dramatic contour, intense eye makeup, glitter details, bold lashes, sculpted face, statement lips, red carpet ready, studio lighting, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "44",
-      "title": "Full Glam Makyaj - Influencer Style",
-      "image": "full_glam_influencer.jpg",
+      "title": "Full Glam Makyajı - Influencer Style",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/44-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/44-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/44-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/44-4.jpg"
+      ],
       "difficulty": "Zor",
       "duration": "50-60 dakika",
       "category": "Stil Bazlı",
@@ -1352,13 +1505,17 @@
         "Extreme aydınlatıcı (blinding highlight) ekleyin.",
         "Dudakları overline yaparak dolgunlaştırın.",
         "Setting spray ile sabitleyin."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, influencer full glam style, Instagram makeup, HD finish, extreme highlight, cut crease eyes, overlined lips, sculpted contour, social media ready, flawless beauty, studio lighting, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "45",
       "title": "Gelin Makyajı - Klasik Romantik",
-      "image": "bridal_classic_romantic.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/45-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/45-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/45-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/45-4.jpg"
+      ],
       "difficulty": "Zor",
       "duration": "45-60 dakika",
       "category": "Özel Durumlar",
@@ -1392,13 +1549,17 @@
         "Bol aydınlatıcı ekleyin.",
         "Kalıcı ruj sürün.",
         "Setting spray ile tüm günü kapsayacak şekilde sabitleyin."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, classic romantic bridal makeup, soft pink tones, timeless beauty, elegant wedding look, glowing skin, long lasting makeup, natural radiance, bridal glow, soft lighting, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "46",
       "title": "Gelin Makyajı - Modern Minimal",
-      "image": "bridal_modern_minimal.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/46-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/46-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/46-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/46-4.jpg"
+      ],
       "difficulty": "Orta-Zor",
       "duration": "35-45 dakika",
       "category": "Özel Durumlar",
@@ -1428,13 +1589,17 @@
         "Aydınlatıcı ekleyin.",
         "Nötr renkte ruj sürün.",
         "Setting spray kullanın."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, modern minimal bridal makeup, contemporary wedding beauty, understated elegance, natural enhancement, clean beauty, sophisticated simplicity, timeless style, soft lighting, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "47",
       "title": "Mezuniyet Makyajı - Klasik",
-      "image": "graduation_classic.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/47-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/47-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/47-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/47-4.jpg"
+      ],
       "difficulty": "Orta",
       "duration": "20-30 dakika",
       "category": "Özel Durumlar",
@@ -1460,13 +1625,17 @@
         "Hafif aydınlatıcı ekleyin.",
         "Nötr renkte ruj sürün.",
         "Setting spray ile tüm gün dayanıklılık sağlayın."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, classic graduation makeup, polished student look, professional appearance, photo ready beauty, timeless elegance, matte finish, natural tones, milestone celebration, soft lighting, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "48",
       "title": "Mezuniyet Makyajı - Genç ve Taze",
-      "image": "graduation_fresh.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/48-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/48-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/48-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/48-4.jpg"
+      ],
       "difficulty": "Kolay-Orta",
       "duration": "15-20 dakika",
       "category": "Özel Durumlar",
@@ -1491,13 +1660,17 @@
         "Krem allık uygulayın.",
         "Glossy ruj sürün.",
         "Setting spray kullanın."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, fresh graduation makeup, youthful beauty, natural glow, young and radiant, minimal coverage, dewy finish, bright appearance, celebratory look, soft lighting, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "49",
       "title": "Doğum Günü Makyajı - Parti",
-      "image": "birthday_party.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/49-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/49-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/49-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/49-4.jpg"
+      ],
       "difficulty": "Orta",
       "duration": "25-30 dakika",
       "category": "Özel Durumlar",
@@ -1525,13 +1698,17 @@
         "Allık ve aydınlatıcı uygulayın.",
         "Parlak ruj sürün.",
         "Setting spray kullanın."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, birthday party makeup, festive colorful look, glitter accents, celebration beauty, fun playful style, party ready makeup, vibrant colors, special day glam, studio lighting, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "50",
       "title": "Doğum Günü Makyajı - Şık Akşam",
-      "image": "birthday_evening.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/50-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/50-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/50-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/50-4.jpg"
+      ],
       "difficulty": "Orta",
       "duration": "30-35 dakika",
       "category": "Özel Durumlar",
@@ -1560,13 +1737,17 @@
         "Allık ve aydınlatıcı uygulayın.",
         "Bold renkte ruj sürün.",
         "Setting spray kullanın."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, elegant birthday evening makeup, sophisticated celebration look, smoky eyes with shimmer, glamorous style, special occasion beauty, bold lips, chic appearance, studio lighting, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "51",
       "title": "Yılbaşı Makyajı - Glitter Glam",
-      "image": "newyear_glitter.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/51-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/51-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/51-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/51-4.jpg"
+      ],
       "difficulty": "Orta-Zor",
       "duration": "30-40 dakika",
       "category": "Özel Durumlar",
@@ -1596,13 +1777,17 @@
         "Extreme aydınlatıcı ekleyin.",
         "Metalik ruj sürün.",
         "Setting spray kullanın."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, New Year glitter glam makeup, sparkling gold and silver, festive party look, extreme shimmer, metallic tones, celebration beauty, midnight kiss ready, glamorous style, studio lighting, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "52",
       "title": "Yılbaşı Makyajı - Kırmızı ve Altın",
-      "image": "newyear_red_gold.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/52-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/52-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/52-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/52-4.jpg"
+      ],
       "difficulty": "Orta",
       "duration": "25-35 dakika",
       "category": "Özel Durumlar",
@@ -1630,13 +1815,17 @@
         "Altın aydınlatıcı ekleyin.",
         "Kırmızı ruj sürün.",
         "Setting spray kullanın."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, New Year red and gold makeup, festive holiday colors, warm metallic tones, classic red lips, golden shimmer, celebration ready, elegant party beauty, studio lighting, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "53",
       "title": "Sevgililer Günü Makyajı - Romantik Pembe",
-      "image": "valentine_romantic_pink.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/53-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/53-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/53-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/53-4.jpg"
+      ],
       "difficulty": "Orta",
       "duration": "20-30 dakika",
       "category": "Özel Durumlar",
@@ -1663,13 +1852,17 @@
         "Aydınlatıcı ekleyin.",
         "Pembe ruj sürün.",
         "Setting spray kullanın."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, romantic Valentine pink makeup, soft pink tones, love inspired beauty, feminine romantic look, rosy glow, date night ready, sweet beauty, soft lighting, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "54",
       "title": "Sevgililer Günü Makyajı - Kırmızı Aşk",
-      "image": "valentine_red_love.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/54-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/54-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/54-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/54-4.jpg"
+      ],
       "difficulty": "Orta",
       "duration": "25-30 dakika",
       "category": "Özel Durumlar",
@@ -1697,13 +1890,17 @@
         "Aydınlatıcı ekleyin.",
         "Klasik kırmızı ruj sürün.",
         "Setting spray kullanın."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, Valentine red love makeup, classic red lips, romantic date look, timeless beauty, sultry red lip focus, elegant appearance, love inspired, studio lighting, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "55",
       "title": "Yaz Makyajı - Bronzlu Plaj",
-      "image": "summer_bronzed_beach.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/55-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/55-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/55-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/55-4.jpg"
+      ],
       "difficulty": "Kolay",
       "duration": "10-15 dakika",
       "category": "Mevsimsel",
@@ -1728,13 +1925,17 @@
         "Kaşları jel ile sabitleyin.",
         "Glossy dudak ürünü sürün.",
         "Su geçirmez setting spray kullanın."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, bronzed beach summer makeup, sun kissed glow, warm bronze tones, waterproof makeup, coral flush, dewy fresh skin, beach ready beauty, natural summer radiance, soft daylight, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "56",
       "title": "Yaz Makyajı - Taze ve Hafif",
-      "image": "summer_fresh_light.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/56-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/56-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/56-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/56-4.jpg"
+      ],
       "difficulty": "Çok Kolay",
       "duration": "8-12 dakika",
       "category": "Mevsimsel",
@@ -1755,13 +1956,17 @@
         "Kaşları jel ile sabitleyin.",
         "Renkli dudak balsamı sürün.",
         "Doğal ve hafif görünün."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, fresh light summer makeup, barely there coverage, natural dewy skin, minimal products, effortless beauty, breathable makeup, warm weather ready, soft natural lighting, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "57",
       "title": "Kış Makyajı - Koyu Romantik",
-      "image": "winter_dark_romantic.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/57-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/57-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/57-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/57-4.jpg"
+      ],
       "difficulty": "Orta",
       "duration": "25-30 dakika",
       "category": "Mevsimsel",
@@ -1787,13 +1992,17 @@
         "Mor tonlu allık uygulayın.",
         "Aydınlatıcı ekleyin.",
         "Bordo ruj sürün."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, dark romantic winter makeup, deep purple and burgundy tones, moody beauty, rich winter colors, dramatic elegance, cozy season glam, berry tones, soft lighting, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "58",
       "title": "Kış Makyajı - Gümüş Kar Tanesi",
-      "image": "winter_silver_snowflake.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/58-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/58-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/58-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/58-4.jpg"
+      ],
       "difficulty": "Orta",
       "duration": "20-30 dakika",
       "category": "Mevsimsel",
@@ -1820,13 +2029,17 @@
         "Pembe allık uygulayın.",
         "Gümüş aydınlatıcı ekleyin.",
         "Pembe ruj sürün."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, silver snowflake winter makeup, icy cool tones, metallic silver shimmer, frosty beauty, winter wonderland inspired, cool grey shades, crystalline glow, soft lighting, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "59",
       "title": "Sonbahar Makyajı - Sıcak Toprak Tonları",
-      "image": "autumn_warm_earth.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/59-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/59-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/59-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/59-4.jpg"
+      ],
       "difficulty": "Kolay-Orta",
       "duration": "15-20 dakika",
       "category": "Mevsimsel",
@@ -1851,13 +2064,17 @@
         "Turuncu tonda allık uygulayın.",
         "Bronz aydınlatıcı ekleyin.",
         "Kahverengi veya turuncu tonda ruj sürün."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, warm autumn earth tones makeup, orange and brown shades, fall colors, cozy seasonal beauty, terracotta tones, harvest inspired, warm earthy palette, soft lighting, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "60",
       "title": "Sonbahar Makyajı - Bordo Yapraklar",
-      "image": "autumn_burgundy_leaves.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/60-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/60-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/60-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/60-4.jpg"
+      ],
       "difficulty": "Orta",
       "duration": "20-25 dakika",
       "category": "Mevsimsel",
@@ -1883,13 +2100,17 @@
         "Allık uygulayın.",
         "Aydınlatıcı ekleyin.",
         "Bordo ruj sürün."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, burgundy autumn leaves makeup, deep red wine tones, fall elegance, rich burgundy shades, golden shimmer accent, seasonal beauty, warm sophisticated look, soft lighting, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "61",
       "title": "İlkbahar Makyajı - Taze Çiçek",
-      "image": "spring_fresh_flower.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/61-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/61-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/61-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/61-4.jpg"
+      ],
       "difficulty": "Kolay",
       "duration": "15-20 dakika",
       "category": "Mevsimsel",
@@ -1914,13 +2135,17 @@
         "Pembe krem allık uygulayın.",
         "Aydınlatıcı ekleyin.",
         "Pembe glossy ruj sürün."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, fresh spring flower makeup, soft pink and lavender tones, blooming beauty, delicate colors, romantic spring look, floral inspired, youthful fresh appearance, soft natural lighting, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "62",
       "title": "İlkbahar Makyajı - Pastel Rüya",
-      "image": "spring_pastel_dream.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/62-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/62-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/62-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/62-4.jpg"
+      ],
       "difficulty": "Kolay-Orta",
       "duration": "18-25 dakika",
       "category": "Mevsimsel",
@@ -1946,13 +2171,17 @@
         "Açık pembe allık uygulayın.",
         "Aydınlatıcı ekleyin.",
         "Pastel renkte ruj sürün."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, pastel spring dream makeup, soft candy colors, light blue pink green, dreamy ethereal beauty, whimsical spring look, gentle pastel palette, artistic spring beauty, soft lighting, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "63",
       "title": "Foxy Eyes Makyajı - Dramatik",
-      "image": "foxy_eyes_dramatic.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/63-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/63-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/63-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/63-4.jpg"
+      ],
       "difficulty": "Orta-Zor",
       "duration": "25-35 dakika",
       "category": "Trend",
@@ -1976,13 +2205,17 @@
         "Maskara sürün.",
         "Kaşları yukarı ve dışa fırçalayın.",
         "İsteğe bağlı bantlama bandı kullanın."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, dramatic foxy eyes makeup, extreme lifted cat eye, elongated almond shape, sharp upward wing, sultry fox eye effect, bold dramatic liner, trending eye shape, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "64",
       "title": "Foxy Eyes Makyajı - Doğal",
-      "image": "foxy_eyes_natural.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/64-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/64-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/64-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/64-4.jpg"
+      ],
       "difficulty": "Orta",
       "duration": "20-25 dakika",
       "category": "Trend",
@@ -2004,13 +2237,17 @@
         "Maskara sürün.",
         "Kaşları yukarı ve dışa doğru şekillendirin.",
         "Kaş jeli ile sabitleyin."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, natural foxy eyes makeup, subtle lifted eye effect, soft cat eye shape, everyday fox eye, brown tones, gentle upward lift, wearable trending look, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "65",
       "title": "Glass Skin Makyajı - Ultra Dewy",
-      "image": "glass_skin_ultra_dewy.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/65-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/65-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/65-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/65-4.jpg"
+      ],
       "difficulty": "Orta",
       "duration": "25-30 dakika",
       "category": "Trend",
@@ -2035,13 +2272,17 @@
         "Burun sırtı, alın ve çene ucuna da aydınlatıcı ekleyin.",
         "Glossy dudak ürünü sürün.",
         "Dewy setting spray ile tamamlayın."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, ultra dewy glass skin, extreme luminous glow, wet look finish, transparent glowing complexion, hyper hydrated skin, mirror like reflection, K-beauty glass skin, radiant perfection, soft lighting, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "66",
       "title": "Glass Skin Makyajı - Minimal Kaplama",
-      "image": "glass_skin_minimal.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/66-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/66-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/66-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/66-4.jpg"
+      ],
       "difficulty": "Kolay-Orta",
       "duration": "15-20 dakika",
       "category": "Trend",
@@ -2063,13 +2304,17 @@
         "Glossy lip balm kullanın.",
         "Facial mist ile cildi spreyleyın.",
         "Cam gibi parlak cilt elde edin."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, minimal coverage glass skin, barely there makeup, natural glowing skin, lightweight dewy finish, healthy skin focus, translucent beauty, effortless K-beauty, soft lighting, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "67",
       "title": "Euphoria Makyajı - Glitter Tears",
-      "image": "euphoria_glitter_tears.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/67-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/67-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/67-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/67-4.jpg"
+      ],
       "difficulty": "Orta-Zor",
       "duration": "30-40 dakika",
       "category": "Trend",
@@ -2097,13 +2342,17 @@
         "Rhinestone veya sticker detaylar ekleyin.",
         "Takma kirpik takın ve maskara sürün.",
         "Allık ve glossy ruj uygulayın."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, Euphoria glitter tears makeup, artistic glitter under eyes, rhinestone details, editorial creative look, TV show inspired, bold artistic beauty, festival style, dramatic artistic makeup, studio lighting, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "68",
       "title": "Euphoria Makyajı - Graphic Liner",
-      "image": "euphoria_graphic_liner.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/68-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/68-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/68-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/68-4.jpg"
+      ],
       "difficulty": "Zor",
       "duration": "35-45 dakika",
       "category": "Trend",
@@ -2128,13 +2377,17 @@
         "Glitter detaylar ekleyin.",
         "Takma kirpik takın ve maskara sürün.",
         "Allık ve ruj uygulayın."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, Euphoria graphic liner makeup, bold colorful eyeliner art, geometric shapes, creative liner designs, artistic eye makeup, TV inspired beauty, editorial style, avant garde look, studio lighting, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "69",
       "title": "Sunkissed Makyaj - Bronz Glow",
-      "image": "sunkissed_bronze_glow.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/69-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/69-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/69-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/69-4.jpg"
+      ],
       "difficulty": "Kolay",
       "duration": "15-20 dakika",
       "category": "Trend",
@@ -2159,13 +2412,17 @@
         "Kahverengi maskara sürün.",
         "Kaşları jel ile sabitleyin.",
         "Peachy renkte ruj sürün."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, sunkissed bronze glow makeup, golden hour beauty, warm bronzed skin, summer goddess look, natural sun tan effect, healthy glow, radiant warmth, soft natural lighting, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "70",
       "title": "Sunkissed Makyaj - Golden Summer",
-      "image": "sunkissed_golden_summer.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/70-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/70-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/70-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/70-4.jpg"
+      ],
       "difficulty": "Kolay-Orta",
       "duration": "18-25 dakika",
       "category": "Trend",
@@ -2179,7 +2436,7 @@
         "Kaş Kalemi",
         "Bronz Allık",
         "Bol Altın Aydınlatıcı",
-        "Nude Glossy Ruj"
+        "Glossy Ruj"
       ],
       "steps": [
         "Nemlendirici ve bronzing primer sürün.",
@@ -2190,14 +2447,18 @@
         "Kaşları doldurun.",
         "Bronz allık uygulayın.",
         "Bol altın aydınlatıcı ekleyin.",
-        "Nude glossy ruj sürün."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, golden summer sunkissed makeup, vacation glow, tropical beauty, beach babe look, golden bronze tones, luminous warm skin, summer radiance, soft lighting, beauty portrait, front facing, high quality"
+        "Glossy ruj sürün."
+      ]
     },
     {
       "id": "71",
       "title": "Dewy Skin Makyajı - Natural Glow",
-      "image": "dewy_skin_natural_glow.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/71-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/71-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/71-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/71-4.jpg"
+      ],
       "difficulty": "Kolay",
       "duration": "15-20 dakika",
       "category": "Trend",
@@ -2220,13 +2481,17 @@
         "Likit aydınlatıcıyı yüksek noktalara sürün.",
         "Glossy dudak ürünü kullanın.",
         "Dewy setting spray ile tamamlayın."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, natural dewy skin makeup, fresh glowing complexion, healthy hydrated look, luminous finish, youthful radiance, no filter glow, natural beauty, soft lighting, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "72",
       "title": "Dewy Skin Makyajı - Extreme Glow",
-      "image": "dewy_skin_extreme_glow.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/72-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/72-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/72-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/72-4.jpg"
+      ],
       "difficulty": "Orta",
       "duration": "20-25 dakika",
       "category": "Trend",
@@ -2251,13 +2516,17 @@
         "Yüze hafif facial oil ekleyin.",
         "Glossy ürünler kullanın.",
         "Dewy spray ile kilitleyin."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, extreme dewy glow makeup, ultra wet look skin, maximum luminosity, dripping glow, high shine finish, editorial dewy skin, intense radiance, glowing goddess, soft lighting, beauty portrait, front facing, high quality"
+      ]
     },
     {
       "id": "73",
       "title": "Ombre Dudak Makyajı - Klasik",
-      "image": "ombre_lips_classic.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/73-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/73-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/73-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/73-4.jpg"
+      ],
       "difficulty": "Orta",
       "duration": "10-15 dakika",
       "category": "Dudak Odaklı",
@@ -2277,13 +2546,17 @@
         "Açık ruju dudak ortasına uygulayın.",
         "Dudak fırçası ile ikisini buluştuğu yerde blend edin.",
         "Yumuşak geçiş yaratın."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, classic ombre lips, gradient lip color, dark outer edges fading to light center, dimensional lips, blended lip gradient, Korean gradient lips, beauty portrait closeup, front facing, high quality"
+      ]
     },
     {
       "id": "74",
       "title": "Ombre Dudak Makyajı - Dramatic",
-      "image": "ombre_lips_dramatic.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/74-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/74-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/74-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/74-4.jpg"
+      ],
       "difficulty": "Orta-Zor",
       "duration": "12-18 dakika",
       "category": "Dudak Odaklı",
@@ -2304,13 +2577,17 @@
         "Dudak ortasına açık simli ruj veya gloss ekleyin.",
         "Tüm tonları blend edin.",
         "Dramatik geçiş yaratın."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, dramatic ombre lips, multi-tonal gradient, bold dark edges, light glitter center, statement lip art, creative lip gradient, editorial lip look, beauty portrait closeup, front facing, high quality"
+      ]
     },
     {
       "id": "75",
       "title": "Mat Dudak Makyajı - Klasik Kırmızı",
-      "image": "matte_lips_red.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/75-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/75-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/75-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/75-4.jpg"
+      ],
       "difficulty": "Kolay-Orta",
       "duration": "10-12 dakika",
       "category": "Dudak Odaklı",
@@ -2331,13 +2608,17 @@
         "İkinci kat ruj sürün.",
         "İsteğe bağlı dudaklara hafif pudra ekleyin.",
         "Dudak kenarlarını kapatıcı ile düzeltin."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, classic matte red lips, velvety red lipstick, timeless beauty, bold red matte finish, smooth texture, elegant red lips, iconic look, beauty portrait closeup, front facing, high quality"
+      ]
     },
     {
       "id": "76",
       "title": "Mat Dudak Makyajı - Bordo",
-      "image": "matte_lips_burgundy.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/76-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/76-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/76-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/76-4.jpg"
+      ],
       "difficulty": "Orta",
       "duration": "12-15 dakika",
       "category": "Dudak Odaklı",
@@ -2359,13 +2640,17 @@
         "İkinci kat uygulayın.",
         "Setting powder ile sabitleyin.",
         "Kenarları düzeltin."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, matte burgundy lips, deep wine color, velvety matte finish, rich dark lips, sophisticated matte look, autumn beauty, dramatic matte lips, beauty portrait closeup, front facing, high quality"
+      ]
     },
     {
       "id": "77",
       "title": "Glossy Dudak Makyajı - Natural",
-      "image": "glossy_lips_natural.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/77-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/77-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/77-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/77-4.jpg"
+      ],
       "difficulty": "Çok Kolay",
       "duration": "5-8 dakika",
       "category": "Dudak Odaklı",
@@ -2380,13 +2665,17 @@
         "Şeffaf veya açık ton gloss sürün.",
         "Dudakları birbirine bastırarak eşit dağılım sağlayın.",
         "Doğal parlak görünüm elde edin."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, natural glossy lips, sheer shine, healthy lips, fresh glossy finish, natural pink glow, dewy lips, effortless beauty, soft lighting, beauty portrait closeup, front facing, high quality"
+      ]
     },
     {
       "id": "78",
       "title": "Glossy Dudak Makyajı - Plumping",
-      "image": "glossy_lips_plumping.jpg",
+      "imageUrl": [
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/78-1.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/78-2.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/78-3.jpg",
+        "https://haintelligencesoftware.github.io/SheFit/assets/images/beauty/78-4.jpg"
+      ],
       "difficulty": "Kolay",
       "duration": "8-12 dakika",
       "category": "Dudak Odaklı",
@@ -2406,7 +2695,7 @@
         "Plumping gloss ekleyin.",
         "Cupid's bow'a hafif aydınlatıcı sürün.",
         "Dolgun ve parlak dudaklar elde edin."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, plumping glossy lips, full voluminous lips, extreme shine, juicy lips effect, dimensional glossy look, pouty lips, ultra glossy finish, beauty portrait closeup, front facing, high quality"
+      ]
     }
-]
+  ]
+}
