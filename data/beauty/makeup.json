@@ -911,29 +911,28 @@
       ],
       "leonardoPrompt": "Professional makeup tutorial photography, natural soft brown eye makeup, subtle earthy tones, everyday eye look, gentle brown shades, effortless beauty, simple eye makeup, beauty portrait, front facing, high quality"
     },
-
-    {
-      "id": "30",
-      "title": "Doğal Göz Makyajı - Nude Shimmer",
-      "image": "natural_eye_shimmer.jpg",
-      "difficulty": "Kolay",
-      "duration": "10-12 dakika",
-      "category": "Göz Makyajı",
-      "products": [
-        "Bej Far",
-        "Şampanya Tonlu Simli Far",
-        "Maskara",
-        "Kaş Jeli"
-      ],
-      "steps": [
-        "Bej farı göz kapağına sürün.",
-        "Şampanya tonlu simli farı göz ortasına ekleyin.",
-        "Hafifçe blend edin.",
-        "Maskara sürün.",
-        "Kaşları jel ile sabitleyin."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, natural nude shimmer eye, subtle sparkle, champagne glow, everyday glam, soft natural look with shine, effortless beauty, beauty portrait, front facing, high quality"
-    },
+{
+  "id": "30",
+  "title": "Doğal Göz Makyajı - Nötr Işıltı",
+  "image": "natural_eye_shimmer.jpg",
+  "difficulty": "Kolay",
+  "duration": "10-12 dakika",
+  "category": "Göz Makyajı",
+  "products": [
+    "Bej Far",
+    "Şampanya Tonlu Simli Far",
+    "Maskara",
+    "Kaş Jeli"
+  ],
+  "steps": [
+    "Bej farı göz kapağına sürün.",
+    "Şampanya tonlu simli farı göz ortasına ekleyin.",
+    "Hafifçe blend edin.",
+    "Maskara sürün.",
+    "Kaşları jel ile sabitleyin."
+  ],
+  "leonardoPrompt": "Professional makeup tutorial photography, natural neutral shimmer eye, subtle sparkle, champagne glow, everyday glam, soft natural look with shine, effortless beauty, beauty portrait, front facing, high quality"
+},
     {
       "id": "31",
       "title": "Renkli Göz Makyajı - Mor Tonları",
@@ -1216,39 +1215,39 @@
       ],
       "leonardoPrompt": "Professional makeup tutorial photography, festival boho makeup, colorful creative look, glitter accents, face gems, free spirit style, artistic bohemian beauty, vibrant colors, outdoor festival ready, beauty portrait, front facing, high quality"
     },
-    {
-      "id": "41",
-      "title": "Soft Glam Makyaj - Nude Tones",
-      "image": "soft_glam_nude.jpg",
-      "difficulty": "Orta",
-      "duration": "25-30 dakika",
-      "category": "Stil Bazlı",
-      "products": [
-        "Primer",
-        "Fondöten",
-        "Kapatıcı",
-        "Kontur",
-        "Nötr Far Paleti",
-        "Simli Far",
-        "Eyeliner",
-        "Maskara",
-        "Allık",
-        "Aydınlatıcı",
-        "Nötr Ruj"
-      ],
-      "steps": [
-        "Primer ve fondöten ile kusursuz cilt yaratın.",
-        "Kapatıcı ve hafif kontur uygulayın.",
-        "Nötr tonlarda (bej, kahverengi) göz makyajı yapın.",
-        "Göz ortasına simli far ekleyin.",
-        "İnce eyeliner çekin.",
-        "Maskara sürün.",
-        "Hafif allık uygulayın.",
-        "Elmacık kemiklerine aydınlatıcı ekleyin.",
-        "Nötr renkte ruj sürün."
-      ],
-      "leonardoPrompt": "Professional makeup tutorial photography, soft glam nude tones, neutral eyeshadow palette, shimmer accent, polished natural beauty, elegant everyday glam, warm neutral colors, sophisticated look, beauty portrait, front facing, high quality"
-    },
+{
+  "id": "41",
+  "title": "Soft Glam Makyajı - Nötr Tonlar",
+  "image": "soft_glam_neutral.jpg",
+  "difficulty": "Orta",
+  "duration": "25-30 dakika",
+  "category": "Stil Bazlı",
+  "products": [
+    "Primer",
+    "Fondöten",
+    "Kapatıcı",
+    "Kontur",
+    "Nötr Far Paleti",
+    "Simli Far",
+    "Eyeliner",
+    "Maskara",
+    "Allık",
+    "Aydınlatıcı",
+    "Nötr Ruj"
+  ],
+  "steps": [
+    "Primer ve fondöten ile kusursuz cilt yaratın.",
+    "Kapatıcı ve hafif kontur uygulayın.",
+    "Nötr tonlarda (bej, kahverengi) göz makyajı yapın.",
+    "Göz ortasına simli far ekleyin.",
+    "İnce eyeliner çekin.",
+    "Maskara sürün.",
+    "Hafif allık uygulayın.",
+    "Elmacık kemiklerine aydınlatıcı ekleyin.",
+    "Nötr renkte ruj sürün."
+  ],
+  "leonardoPrompt": "Professional makeup tutorial photography, soft glam neutral tones, natural eyeshadow palette, shimmer accent, polished natural beauty, elegant everyday glam, warm beige colors, sophisticated look, beauty portrait, front facing, high quality"
+},
     {
       "id": "42",
       "title": "Soft Glam Makyaj - Rose Gold",
