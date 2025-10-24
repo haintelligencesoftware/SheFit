@@ -1,0 +1,2416 @@
+{
+  "makeupTutorials": [
+    {
+      "id": "1",
+      "title": "Doğal Günlük Makyaj - Klasik",
+      "image": "natural_daily_classic.jpg",
+      "difficulty": "Kolay",
+      "duration": "10-15 dakika",
+      "category": "Günlük",
+      "products": [
+        "Nemlendirici",
+        "BB Krem",
+        "Kapatıcı",
+        "Şeffaf Toz",
+        "Bej Tonlu Far",
+        "Kahverengi Maskara",
+        "Kaş Jeli",
+        "Hafif Allık",
+        "Dudak Balsamı"
+      ],
+      "steps": [
+        "Cilde nemlendirici uygulayın ve emilmesini bekleyin.",
+        "BB krem ile yüze hafif kaplama yapın.",
+        "Kapatıcı ile göz altı ve kusurları örtün.",
+        "Şeffaf tozla T-bölgesini sabitleyin.",
+        "Bej tonlu farı göz kapağına hafifçe sürün.",
+        "Kirpiklere kahverengi maskara uygulayın.",
+        "Kaşları fırçalayın ve jel ile sabitleyin.",
+        "Yanaklara hafif pembe allık sürün.",
+        "Dudaklara renkli dudak balsamı uygulayın."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, classic natural daily makeup, fresh minimal look, light BB cream coverage, natural brows, soft pink cheeks, glossy lips, dewy skin, soft natural lighting, beauty portrait, front facing, high quality"
+    },
+    
+    {
+      "id": "2",
+      "title": "Doğal Günlük Makyaj - Minimal",
+      "image": "natural_daily_minimal.jpg",
+      "difficulty": "Çok Kolay",
+      "duration": "8-10 dakika",
+      "category": "Günlük",
+      "products": [
+        "Renkli Nemlendirici",
+        "Likit Kapatıcı",
+        "Bej Far",
+        "Şeffaf Maskara",
+        "Kaş Kalemi",
+        "Krem Allık",
+        "Dudak Balsamı"
+      ],
+      "steps": [
+        "Renkli nemlendirici ile cilde hafif renk katın.",
+        "Sadece göz altına minimal kapatıcı sürün.",
+        "Göz kapaklarına bej far hafifçe uygulayın.",
+        "Kirpiklere şeffaf maskara sürün.",
+        "Kaşları hafifçe doldurun.",
+        "Krem allığı yanaklara vurun ve blend edin.",
+        "Dudaklara nemli dudak balsamı sürün."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, ultra minimal natural makeup, barely there coverage, fresh faced look, subtle enhancement, natural beauty, clean girl aesthetic, soft daylight, beauty portrait, front facing, high quality"
+    },
+    
+    {
+      "id": "3",
+      "title": "No-Makeup Makeup Look - Dewy",
+      "image": "no_makeup_dewy.jpg",
+      "difficulty": "Kolay",
+      "duration": "10-12 dakika",
+      "category": "Günlük",
+      "products": [
+        "Nemli Bitişli Primer",
+        "Renkli Nemlendirici",
+        "Likit Kapatıcı",
+        "Krem Allık",
+        "Şeffaf Kaş Jeli",
+        "Kirpik Kıvırıcı",
+        "Dudak Balsamı",
+        "Dewy Sabitleyici"
+      ],
+      "steps": [
+        "Nemli bitişli primer sürün.",
+        "Renkli nemlendirici ile hafif kaplama yapın.",
+        "Minimal kapatıcı kullanın.",
+        "Krem allığı parmaklarınızla blend edin.",
+        "Kaşları fırçalayın ve şeffaf jel ile sabitleyin.",
+        "Kirpikleri kıvırın.",
+        "Dudaklara nemli balm sürün.",
+        "Dewy sabitleyici ile cildi tamamlayın."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, no makeup makeup dewy skin, glowing natural complexion, fresh bare skin effect, minimal coverage, healthy glow, natural flush, soft lighting, beauty portrait, front facing, high quality"
+    },
+    
+
+    {
+      "id": "4",
+      "title": "No-Makeup Makeup Look - Matte",
+      "image": "no_makeup_matte.jpg",
+      "difficulty": "Kolay",
+      "duration": "8-10 dakika",
+      "category": "Günlük",
+      "products": [
+        "Mattifying Primer",
+        "Hafif Fondöten",
+        "Kapatıcı",
+        "Şeffaf Toz",
+        "Açık Allık",
+        "Kaş Kalemi",
+        "Maskara",
+        "Mat Dudak Balsamı"
+      ],
+      "steps": [
+        "Mattifying primer ile gözenekleri minimize edin.",
+        "Hafif fondöten ile pürüzsüz görünüm yaratın.",
+        "Kapatıcı ile sadece gerekli yerleri örtün.",
+        "Şeffaf tozla hafifçe sabitleyin.",
+        "Açık allık ile doğal pembelik katın.",
+        "Kaşları hafif doldurun.",
+        "Tek kat maskara sürün.",
+        "Mat dudak balsamı ile tamamlayın."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, no makeup matte finish, natural flawless skin, bare faced beauty, seamless coverage, soft matte texture, effortless look, natural lighting, beauty portrait, front facing, high quality"
+    },
+    
+
+    {
+      "id": "5",
+      "title": "5 Dakikada Hızlı Makyaj - Express",
+      "image": "quick_5min_express.jpg",
+      "difficulty": "Çok Kolay",
+      "duration": "5 dakika",
+      "category": "Günlük",
+      "products": [
+        "BB Krem",
+        "Kapatıcı",
+        "Maskara",
+        "Kaş Kalemi",
+        "Krem Allık",
+        "Renkli Dudak Balsamı"
+      ],
+      "steps": [
+        "BB kremi hızlıca yüze yayın.",
+        "Göz altına kapatıcı sürün.",
+        "Maskara ile kirpikleri boyayın.",
+        "Kaşları 3-4 vuruşla doldurun.",
+        "Krem allığı yanaklara vurun.",
+        "Dudaklara renkli balm sürün ve çıkın!"
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, quick 5 minute makeup, fast beauty routine, simple minimal look, rushed morning makeup, efficient beauty, natural fresh appearance, soft lighting, beauty portrait, front facing, high quality"
+    },
+    
+
+    {
+      "id": "6",
+      "title": "5 Dakikada Hızlı Makyaj - Multi-Use",
+      "image": "quick_5min_multiuse.jpg",
+      "difficulty": "Çok Kolay",
+      "duration": "5 dakika",
+      "category": "Günlük",
+      "products": [
+        "Cushion Fondöten",
+        "Multi-Use Stick (Dudak, Yanak, Göz)",
+        "Maskara",
+        "Kaş Jeli"
+      ],
+      "steps": [
+        "Cushion fondöten ile yüzü kapatın.",
+        "Multi-use stick ile yanaklara, dudaklara ve göz kapaklarına renk ekleyin.",
+        "Parmaklarınızla hepsini blend edin.",
+        "Maskara sürün.",
+        "Kaşları jel ile sabitleyin.",
+        "Hazırsınız!"
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, multitasking quick makeup, one product many uses, efficient beauty routine, time saving makeup, minimalist approach, natural finish, soft lighting, beauty portrait, front facing, high quality"
+    },
+    
+  
+    {
+      "id": "7",
+      "title": "Ofis Makyajı - Profesyonel",
+      "image": "office_professional.jpg",
+      "difficulty": "Kolay-Orta",
+      "duration": "15-20 dakika",
+      "category": "Günlük",
+      "products": [
+        "Primer",
+        "Orta Kapamalı Fondöten",
+        "Kapatıcı",
+        "Toz",
+        "Nötr Tonlu Far",
+        "Kahverengi Eyeliner",
+        "Maskara",
+        "Kaş Kalemi",
+        "Doğal Allık",
+        "Nötr Ruj"
+      ],
+      "steps": [
+        "Primer ile uzun süre dayanıklılık sağlayın.",
+        "Fondöten ile profesyonel görünüm yaratın.",
+        "Kapatıcı ve tozla kusursuz ten elde edin.",
+        "Nötr kahverengi tonlarda göz makyajı yapın.",
+        "Kahverengi eyeliner ile ince çizgi çekin.",
+        "Maskara sürün.",
+        "Kaşları düzgün şekillendirin.",
+        "Doğal allık ekleyin.",
+        "Nötr renkte ruj sürün."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, office makeup look, corporate beauty, polished professional appearance, neutral tones, conservative elegant makeup, workplace appropriate, natural lighting, beauty portrait, front facing, high quality"
+    },
+  
+    {
+      "id": "8",
+      "title": "Ofis Makyajı - Uzun Süre Kalıcı",
+      "image": "office_longlasting.jpg",
+      "difficulty": "Orta",
+      "duration": "20-25 dakika",
+      "category": "Günlük",
+      "products": [
+        "Uzun Süre Kalıcı Primer",
+        "Mat Fondöten",
+        "Kapatıcı",
+        "Setting Powder",
+        "Su Geçirmez Far",
+        "Su Geçirmez Eyeliner",
+        "Su Geçirmez Maskara",
+        "Kaş Pomadı",
+        "Toz Allık",
+        "Kalıcı Ruj",
+        "Setting Spray"
+      ],
+      "steps": [
+        "Uzun süre kalıcı primer sürün.",
+        "Mat fondöten ile 12 saat dayanıklılık sağlayın.",
+        "Kapatıcı ve setting powder kullanın.",
+        "Su geçirmez far ile göz makyajı yapın.",
+        "Su geçirmez eyeliner ve maskara sürün.",
+        "Kaş pomadı ile kaşları sabitleyin.",
+        "Toz allık uygulayın.",
+        "Kalıcı ruj sürün.",
+        "Setting spray ile tüm makyajı kilitleyin."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, long lasting office makeup, all day wear, waterproof makeup, smudge proof look, matte finish, professional appearance, 12 hour makeup, soft lighting, beauty portrait, front facing, high quality"
+    },
+
+    {
+      "id": "9",
+      "title": "Okul Makyajı - Genç",
+      "image": "school_young.jpg",
+      "difficulty": "Çok Kolay",
+      "duration": "5-10 dakika",
+      "category": "Günlük",
+      "products": [
+        "Renkli Nemlendirici",
+        "Kapatıcı",
+        "Maskara",
+        "Kaş Jeli",
+        "Hafif Allık",
+        "Glossy Dudak Balsamı"
+      ],
+      "steps": [
+        "Renkli nemlendirici ile hafif kaplama yapın.",
+        "Kapatıcı ile göz altını kapatın.",
+        "Maskara sürün.",
+        "Kaşları jel ile fırçalayın.",
+        "Hafif allık ekleyin.",
+        "Glossy dudak balsamı ile tamamlayın."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, school makeup for teens, youthful fresh look, minimal makeup, age appropriate beauty, natural school girl style, light coverage, soft daylight, beauty portrait, front facing, high quality"
+    },
+
+    {
+      "id": "10",
+      "title": "Okul Makyajı - Doğal Cilt",
+      "image": "school_natural_skin.jpg",
+      "difficulty": "Çok Kolay",
+      "duration": "8-12 dakika",
+      "category": "Günlük",
+      "products": [
+        "SPF'li Nemlendirici",
+        "Spot Kapatıcı",
+        "Şeffaf Toz",
+        "Kahverengi Maskara",
+        "Kaş Kalemi",
+        "Krem Allık",
+        "Dudak Tinti"
+      ],
+      "steps": [
+        "SPF'li nemlendirici ile cildi koruyun.",
+        "Sadece sivilcelere spot kapatıcı sürün.",
+        "Şeffaf tozla hafifçe sabitleyin.",
+        "Kahverengi maskara ile doğal görünüm.",
+        "Kaşları hafif doldurun.",
+        "Krem allığı yanaklara sürün.",
+        "Dudak tinti ile doğal renk katın."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, school makeup natural skin, teenage beauty routine, fresh young appearance, healthy skin focus, minimal products, school appropriate, natural lighting, beauty portrait, front facing, high quality"
+    },
+    
+    {
+      "id": "11",
+      "title": "Özel Gün Makyajı",
+      "image": "special_occasion_makeup.jpg",
+      "difficulty": "Orta-Zor",
+      "duration": "35-45 dakika",
+      "category": "Özel Günler",
+      "products": [
+        "Nemlendirici",
+        "Makyaj Bazı (Primer)",
+        "Fondöten",
+        "Kapatıcı",
+        "Kontur Paleti",
+        "Far Paleti (Bronz/Altın Tonlar)",
+        "Eyeliner",
+        "Maskara",
+        "Kaş Kalemi",
+        "Allık",
+        "Aydınlatıcı (Highlighter)",
+        "Ruj",
+        "Dudak Kalemi",
+        "Makyaj Sabitleme Spreyi",
+        "Makyaj Fırçaları",
+        "Makyaj Süngeri"
+      ],
+      "steps": [
+        "Cilde nemlendirici ve primer uygulayın. Cildin pürüzsüz görünmesi için en az 5 dakika bekleyin.",
+        "Fondöten'i yüze eşit şekilde yayın. Sünger veya fırça ile blend edin. Boyun ile yüz arasında ton farkı olmamasına dikkat edin.",
+        "Kapatıcı ile göz altı, burun kenarları ve kusurları örtün. Parmak ucu ile hafifçe tıklayarak blend edin.",
+        "Yüzün kontürlerini belirginleştirin. Elmacık kemikleri, alın kenarları ve çene hattına kontur uygulayın.",
+        "Göz kapaklarına açık bej tonlarda baz far sürün. Tüm göz kapağını kaplayacak şekilde uygulayın.",
+        "Bronz renk farı göz kapağının ortasına uygulayın. Yumuşak geçişler için dairesel hareketlerle blend edin.",
+        "Koyu kahverengi farı göz kapağının dış köşesine 'V' şeklinde uygulayın. Göze derinlik katmak için iyi karıştırın.",
+        "Altın renkli simli farı göz kapağının ortasına hafifçe dokundurun. Bu bölgeye ışık vurgusu katacaktır.",
+        "Açık şampanya tonunda aydınlatıcı farı kaş kemiğinin altına ve göz iç köşesine uygulayın.",
+        "İnce uçlu eyeliner ile göz kapağına kuyruklu çizgi çekin. Çizgiyi dışa doğru hafifçe kaldırın.",
+        "Kirpiklere maskara sürün. Daha dolgun görünüm için 2-3 kat uygulayabilirsiniz veya takma kirpik kullanabilirsiniz.",
+        "Kaşları tarayın ve kaş kalemi ile doldurun. Kaş altına hafif aydınlatıcı ekleyerek kaşları belirginleştirin.",
+        "Elmacık kemiklerine pembe veya şeftali tonu allık sürün. Hafif dokunuşlarla yukarı doğru blend edin.",
+        "Burun sırtı, elmacık kemiği üstü ve cupid's bow'a aydınlatıcı uygulayın. Işıldayan bir görünüm elde edeceksiniz.",
+        "Dudak kontur kalemi ile dudak hatlarını çizin. Böylece ruj daha uzun süre dayanır.",
+        "Ten rengi pembe veya şeftali tonunda ruj sürün. Daha dolgun görünüm için dudak ortasına açık bir ton veya gloss ekleyin.",
+        "Son olarak makyaj sabitleme spreyi ile makyajı sabitleyin. 20-30 cm uzaktan yüze spreyleyin ve kurumayı bekleyin."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, elegant special occasion makeup look, glamorous evening makeup with soft glam style, warm bronze eyeshadow with gold shimmer, winged eyeliner, long lashes, natural pink lips with gloss, flawless skin with subtle highlight, natural lighting, beauty portrait, front facing, high quality, 4K, professional beauty photography"
+    },
+
+    {
+      "id": "12",
+      "title": "Özel Gün Makyajı - Renkli",
+      "image": "special_occasion_colorful.jpg",
+      "difficulty": "Orta-Zor",
+      "duration": "40-50 dakika",
+      "category": "Özel Günler",
+      "products": [
+        "Primer",
+        "Fondöten",
+        "Kapatıcı",
+        "Kontur",
+        "Renkli Far Paleti",
+        "Glitter",
+        "Eyeliner",
+        "Maskara",
+        "Takma Kirpik",
+        "Allık",
+        "Aydınlatıcı",
+        "Koyu Ruj",
+        "Setting Spray"
+      ],
+      "steps": [
+        "Primer ile uzun süre dayanıklılık sağlayın.",
+        "Fondöten ve kapatıcı ile kusursuz ten yaratın.",
+        "Kontur ile yüz hatlarını belirginleştirin.",
+        "Göz kapaklarına canlı renkli far (mor, mavi, yeşil) uygulayın.",
+        "Göz ortasına glitter ekleyin.",
+        "Dramatik eyeliner çekin.",
+        "Takma kirpik takın.",
+        "Maskara ile sabitleyin.",
+        "Canlı renkte allık sürün.",
+        "Elmacık kemiklerine parlak aydınlatıcı ekleyin.",
+        "Koyu veya canlı renkte ruj sürün.",
+        "Setting spray ile sabitleyin."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, colorful special occasion makeup, vibrant eyeshadow colors, glitter accent, bold dramatic look, festive party makeup, creative eye art, statement lips, glamorous style, studio lighting, beauty portrait, front facing, high quality"
+    },
+
+    {
+      "id": "13",
+      "title": "Akşam Makyajı - Smoky",
+      "image": "evening_smoky.jpg",
+      "difficulty": "Orta",
+      "duration": "30-40 dakika",
+      "category": "Akşam",
+      "products": [
+        "Primer",
+        "Tam Kapatıcılıklı Fondöten",
+        "Kapatıcı",
+        "Kontur",
+        "Koyu Tonlu Far Paleti",
+        "Siyah Eyeliner",
+        "Maskara",
+        "Takma Kirpik",
+        "Allık",
+        "Aydınlatıcı",
+        "Koyu Ruj",
+        "Setting Spray"
+      ],
+      "steps": [
+        "Primer ile mükemmel baz hazırlayın.",
+        "Tam kapatıcılıklı fondöten sürün.",
+        "Kapatıcı ve kontur uygulayın.",
+        "Koyu mor, siyah veya bordo tonlarda smoky eye yapın.",
+        "Siyah eyeliner ile dramatik çizgi çekin.",
+        "Takma kirpik takın.",
+        "Maskara sürün.",
+        "Allık ve aydınlatıcı ekleyin.",
+        "Koyu ruj sürün.",
+        "Setting spray ile sabitleyin."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, evening smoky makeup, deep dark eyeshadow, sultry night look, dramatic black smokey eyes, bold eyeliner, voluminous lashes, contoured face, dark lips, glamorous evening style, studio lighting, beauty portrait, front facing, high quality"
+    },
+
+    {
+      "id": "14",
+      "title": "Akşam Makyajı - Glam",
+      "image": "evening_glam.jpg",
+      "difficulty": "Orta",
+      "duration": "35-45 dakika",
+      "category": "Akşam",
+      "products": [
+        "Illuminating Primer",
+        "Dewy Fondöten",
+        "Kapatıcı",
+        "Bronzer",
+        "Altın Tonlu Far Paleti",
+        "Glitter",
+        "Eyeliner",
+        "Maskara",
+        "Allık",
+        "Bol Aydınlatıcı",
+        "Glossy Ruj",
+        "Setting Spray"
+      ],
+      "steps": [
+        "Illuminating primer ile ışıltılı baz yaratın.",
+        "Dewy fondöten ile parlak cilt elde edin.",
+        "Kapatıcı sürün.",
+        "Bronzer ile yüze sıcaklık katın.",
+        "Altın tonlarda parlak göz makyajı yapın.",
+        "Göz ortasına glitter ekleyin.",
+        "Eyeliner ve maskara sürün.",
+        "Allık uygulayın.",
+        "Elmacık kemiklerine bol aydınlatıcı sürün.",
+        "Glossy ruj ile tamamlayın.",
+        "Setting spray kullanın."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, glamorous evening makeup, glowing radiant skin, golden shimmer eyeshadow, glitter accent, dewy finish, illuminated complexion, glossy lips, luxury glam style, studio lighting, beauty portrait, front facing, high quality"
+    },
+
+    {
+      "id": "15",
+      "title": "Davet Makyajı - Şık",
+      "image": "party_chic.jpg",
+      "difficulty": "Orta",
+      "duration": "25-35 dakika",
+      "category": "Akşam",
+      "products": [
+        "Primer",
+        "Fondöten",
+        "Kapatıcı",
+        "Bronzer",
+        "Şımmer Far",
+        "Eyeliner",
+        "Maskara",
+        "Allık",
+        "Aydınlatıcı",
+        "Parlak Ruj",
+        "Setting Spray"
+      ],
+      "steps": [
+        "Primer ile baz hazırlayın.",
+        "Fondöten ve kapatıcı uygulayın.",
+        "Bronzer ile yüze sıcaklık katın.",
+        "Şımmer far ile parlak göz makyajı yapın.",
+        "Eyeliner çekin.",
+        "Maskara sürün.",
+        "Allık uygulayın.",
+        "Aydınlatıcı ekleyin.",
+        "Parlak ruj sürün.",
+        "Setting spray ile sabitleyin."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, chic party makeup, elegant evening look, shimmer eyeshadow, sophisticated style, polished appearance, radiant glow, statement makeup, festive beauty, studio lighting, beauty portrait, front facing, high quality"
+    },
+
+    {
+      "id": "16",
+      "title": "Davet Makyajı - Göz Alıcı",
+      "image": "party_eyecatching.jpg",
+      "difficulty": "Orta-Zor",
+      "duration": "30-40 dakika",
+      "category": "Akşam",
+      "products": [
+        "Primer",
+        "Fondöten",
+        "Kapatıcı",
+        "Renkli Far Paleti",
+        "Glitter veya Payetler",
+        "Graphic Eyeliner",
+        "Maskara",
+        "Takma Kirpik",
+        "Allık",
+        "Aydınlatıcı",
+        "Bold Ruj",
+        "Setting Spray"
+      ],
+      "steps": [
+        "Primer ve fondöten ile baz oluşturun.",
+        "Kapatıcı uygulayın.",
+        "Canlı renkli far ile göz makyajı yapın.",
+        "Glitter veya payetler ekleyin.",
+        "Graphic eyeliner ile yaratıcı çizgiler çekin.",
+        "Takma kirpik takın.",
+        "Maskara sürün.",
+        "Allık ve aydınlatıcı ekleyin.",
+        "Bold renkte ruj sürün.",
+        "Setting spray ile sabitleyin."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, eye catching party makeup, bold creative look, glitter details, graphic eyeliner art, vibrant colors, statement eye makeup, party ready beauty, dramatic style, studio lighting, beauty portrait, front facing, high quality"
+    },
+
+    {
+      "id": "17",
+      "title": "Kokteyl Makyajı - Sofistike",
+      "image": "cocktail_sophisticated.jpg",
+      "difficulty": "Orta",
+      "duration": "25-30 dakika",
+      "category": "Akşam",
+      "products": [
+        "Primer",
+        "Saten Bitişli Fondöten",
+        "Kapatıcı",
+        "Kontur",
+        "Nötr Tonlu Far Paleti",
+        "Metalik Far",
+        "Eyeliner",
+        "Maskara",
+        "Allık",
+        "Aydınlatıcı",
+        "Saten Ruj",
+        "Setting Spray"
+      ],
+      "steps": [
+        "Primer ile pürüzsüz baz yaratın.",
+        "Saten bitişli fondöten sürün.",
+        "Kapatıcı ve kontur uygulayın.",
+        "Nötr tonlarda göz makyajı yapın.",
+        "Metalik far ile göz ortasına vurgu ekleyin.",
+        "İnce eyeliner çekin.",
+        "Maskara sürün.",
+        "Allık uygulayın.",
+        "Elmacık kemiklerine aydınlatıcı ekleyin.",
+        "Saten ruj sürün.",
+        "Setting spray kullanın."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, sophisticated cocktail makeup, elegant evening style, metallic eyeshadow accent, satin finish, refined beauty, upscale event makeup, polished appearance, classy look, soft studio lighting, beauty portrait, front facing, high quality"
+    },
+
+    {
+      "id": "18",
+      "title": "Kokteyl Makyajı - Modern",
+      "image": "cocktail_modern.jpg",
+      "difficulty": "Orta",
+      "duration": "20-30 dakika",
+      "category": "Akşam",
+      "products": [
+        "Primer",
+        "Fondöten",
+        "Kapatıcı",
+        "Bronzer",
+        "Monokromatik Far ve Allık",
+        "Eyeliner",
+        "Maskara",
+        "Aydınlatıcı",
+        "Matching Ruj",
+        "Setting Spray"
+      ],
+      "steps": [
+        "Primer ve fondöten uygulayın.",
+        "Kapatıcı sürün.",
+        "Bronzer ekleyin.",
+        "Aynı renk ailesinden far, allık ve ruj kullanın (monokromatik look).",
+        "Eyeliner ve maskara sürün.",
+        "Aydınlatıcı ekleyin.",
+        "Setting spray ile sabitleyin."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, modern cocktail makeup, monochromatic color scheme, coordinated tones, contemporary style, streamlined beauty, minimalist elegance, cohesive look, soft lighting, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "19",
+      "title": "Balo Makyajı - Romantik",
+      "image": "prom_romantic.jpg",
+      "difficulty": "Orta-Zor",
+      "duration": "35-45 dakika",
+      "category": "Akşam",
+      "products": [
+        "Primer",
+        "Fondöten",
+        "Kapatıcı",
+        "Kontur",
+        "Pembe/Mor Tonlu Far Paleti",
+        "Simli Far",
+        "Eyeliner",
+        "Takma Kirpik",
+        "Maskara",
+        "Pembe Allık",
+        "Aydınlatıcı",
+        "Pembe/Mora Yakın Ruj",
+        "Setting Spray"
+      ],
+      "steps": [
+        "Primer ve fondöten ile kusursuz cilt yaratın.",
+        "Kapatıcı ve kontur uygulayın.",
+        "Pembe ve mor tonlarda romantik göz makyajı yapın.",
+        "Simli far ile parıltı ekleyin.",
+        "Eyeliner çekin.",
+        "Takma kirpik takın ve maskara sürün.",
+        "Pembe allık uygulayın.",
+        "Aydınlatıcı ekleyin.",
+        "Pembe tonda ruj sürün.",
+        "Setting spray ile tüm gece dayanıklılık sağlayın."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, romantic prom makeup, soft pink and purple tones, dreamy princess look, sparkle eyeshadow, long lashes, rosy cheeks, youthful beauty, special occasion makeup, soft lighting, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "20",
+      "title": "Balo Makyajı - Dramatik",
+      "image": "prom_dramatic.jpg",
+      "difficulty": "Zor",
+      "duration": "40-50 dakika",
+      "category": "Akşam",
+      "products": [
+        "Primer",
+        "Tam Kapamalı Fondöten",
+        "Kapatıcı",
+        "Kontur ve Aydınlatıcı",
+        "Koyu Tonlu Far Paleti",
+        "Glitter",
+        "Dramatik Eyeliner",
+        "Takma Kirpik",
+        "Maskara",
+        "Allık",
+        "Bol Aydınlatıcı",
+        "Koyu veya Metalik Ruj",
+        "Setting Spray"
+      ],
+      "steps": [
+        "Primer ve tam kapamalı fondöten uygulayın.",
+        "Kapatıcı sürün.",
+        "Güçlü kontur yapın.",
+        "Koyu tonlarda (siyah, bordo, lacivert) dramatik göz makyajı yapın.",
+        "Glitter ekleyin.",
+        "Dramatik eyeliner çekin.",
+        "Takma kirpik takın.",
+        "Maskara sürün.",
+        "Allık uygulayın.",
+        "Bol aydınlatıcı ekleyin.",
+        "Koyu veya metalik ruj sürün.",
+        "Setting spray ile sabitleyin."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, dramatic prom makeup, bold intense look, dark smokey eyes, heavy glitter, statement eyeliner, dramatic lashes, sculpted face, bold lips, show stopping beauty, studio lighting, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "21",
+      "title": "Smokey Eye Makyajı - Klasik Siyah",
+      "image": "smokey_classic_black.jpg",
+      "difficulty": "Orta",
+      "duration": "20-30 dakika",
+      "category": "Göz Makyajı",
+      "products": [
+        "Göz Farı Bazı",
+        "Siyah-Gri Tonlu Far Paleti",
+        "Blend Fırçası",
+        "Siyah Eyeliner",
+        "Maskara",
+        "Aydınlatıcı Far"
+      ],
+      "steps": [
+        "Göz kapağına far bazı sürün.",
+        "Açık gri tonu baz olarak kullanın.",
+        "Orta gri ile göz kapağını boyayın.",
+        "Koyu gri/siyah farı dış köşeye 'V' şeklinde uygulayın.",
+        "Blend fırçası ile yumuşak geçişler yaratın.",
+        "Alt kirpik hattına da koyu far sürün.",
+        "Siyah eyeliner ile kirpik hattını çizin.",
+        "İç göşeye aydınlatıcı far ekleyin.",
+        "Maskara sürün."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, classic black smokey eye, charcoal grey gradient, sultry dark eyeshadow, dramatic evening eye, perfectly blended smoke effect, intense black eyeliner, beauty portrait, front facing, high quality"
+    },
+  
+    {
+      "id": "22",
+      "title": "Smokey Eye Makyajı - Kahverengi",
+      "image": "smokey_brown.jpg",
+      "difficulty": "Orta",
+      "duration": "20-30 dakika",
+      "category": "Göz Makyajı",
+      "products": [
+        "Göz Farı Bazı",
+        "Kahverengi Tonlu Far Paleti",
+        "Blend Fırçası",
+        "Kahverengi Eyeliner",
+        "Maskara",
+        "Altın Simli Far"
+      ],
+      "steps": [
+        "Göz kapağına baz sürün.",
+        "Açık bej ile başlayın.",
+        "Orta kahverengi ile göz kapağını boyayın.",
+        "Koyu kahverengi farı dış köşeye uygulayın.",
+        "Yumuşak geçişler yaratın.",
+        "Alt kirpik hattına kahverengi far sürün.",
+        "Kahverengi eyeliner çekin.",
+        "Göz ortasına altın simli far ekleyin.",
+        "Maskara sürün."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, brown smokey eye makeup, warm chocolate tones, soft bronze gradient, natural sultry look, golden shimmer center, blended earth tones, beauty portrait, front facing, high quality"
+    },
+   
+    {
+      "id": "23",
+      "title": "Cut Crease Makyajı - Klasik",
+      "image": "cut_crease_classic.jpg",
+      "difficulty": "Zor",
+      "duration": "35-45 dakika",
+      "category": "Göz Makyajı",
+      "products": [
+        "Göz Farı Bazı",
+        "Far Paleti",
+        "Kapatıcı",
+        "Detay Fırçası",
+        "Simli Far",
+        "Eyeliner",
+        "Maskara"
+      ],
+      "steps": [
+        "Göz kapağına baz sürün.",
+        "Göz kırışıklığına koyu far ile çizgi çekin.",
+        "Bu çizgiyi yukarı doğru blend edin.",
+        "Göz kapağına kapatıcı sürün, keskin hat oluşturun.",
+        "Göz ortasına simli far ekleyin.",
+        "Alt kirpik hattına koyu far sürün.",
+        "Eyeliner çekin.",
+        "Maskara sürün.",
+        "Keskin hatları kontrol edin."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, classic cut crease technique, sharp defined line, contrasting lid, precise eye makeup, dramatic crease, clean edges, shimmer center, beauty portrait, front facing, high quality"
+    },
+ 
+    {
+      "id": "24",
+      "title": "Cut Crease Makyajı - Renkli",
+      "image": "cut_crease_colorful.jpg",
+      "difficulty": "Zor",
+      "duration": "40-50 dakika",
+      "category": "Göz Makyajı",
+      "products": [
+        "Göz Farı Bazı",
+        "Renkli Far Paleti",
+        "Beyaz Kapatıcı",
+        "Detay Fırçası",
+        "Glitter",
+        "Renkli Eyeliner",
+        "Maskara"
+      ],
+      "steps": [
+        "Göz kapağına baz sürün.",
+        "Canlı renkle (mor, mavi, yeşil) göz kırışıklığına çizgi çekin.",
+        "Yukarı doğru blend edin.",
+        "Beyaz kapatıcı ile göz kapağına keskin hat oluşturun.",
+        "Göz ortasına glitter ekleyin.",
+        "Renkli eyeliner kullanın.",
+        "Maskara sürün.",
+        "Yaratıcı detaylar ekleyin."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, colorful cut crease makeup, vibrant eyeshadow colors, bold creative look, glitter accent, rainbow effect, artistic eye makeup, sharp precision, beauty portrait, front facing, high quality"
+    },
+
+    {
+      "id": "25",
+      "title": "Halo Eye Makyajı - Altın",
+      "image": "halo_eye_gold.jpg",
+      "difficulty": "Orta-Zor",
+      "duration": "25-35 dakika",
+      "category": "Göz Makyajı",
+      "products": [
+        "Göz Farı Bazı",
+        "Far Paleti",
+        "Altın Simli Far",
+        "Blend Fırçası",
+        "Eyeliner",
+        "Maskara"
+      ],
+      "steps": [
+        "Göz kapağına baz sürün.",
+        "Göz iç ve dış köşelerine koyu far sürün.",
+        "Göz ortasına altın simli far uygulayın.",
+        "İç ve dış köşedeki koyu farları yukarı doğru blend edin.",
+        "Göz ortasındaki altın vurguyu belirgin tutun.",
+        "Alt kirpik hattına koyu far sürün.",
+        "Eyeliner çekin.",
+        "Maskara sürün."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, golden halo eye makeup, spotlight effect on lid center, dark outer corners, bright gold shimmer middle, dimensional eye, halo glow technique, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "26",
+      "title": "Halo Eye Makyajı - Renkli",
+      "image": "halo_eye_colorful.jpg",
+      "difficulty": "Orta-Zor",
+      "duration": "30-40 dakika",
+      "category": "Göz Makyajı",
+      "products": [
+        "Göz Farı Bazı",
+        "Renkli Far Paleti",
+        "Parlak Simli Far",
+        "Blend Fırçası",
+        "Eyeliner",
+        "Maskara"
+      ],
+      "steps": [
+        "Göz kapağına baz sürün.",
+        "İç ve dış köşelere koyu renk (mor, lacivert) sürün.",
+        "Göz ortasına parlak renkli simli far (pembe, turkuaz) uygulayın.",
+        "Koyu köşeleri blend edin.",
+        "Ortadaki parlaklığı koruyun.",
+        "Alt kirpik hattına koyu far sürün.",
+        "Eyeliner ve maskara uygulayın."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, colorful halo eye makeup, vibrant center spotlight, dark frame corners, rainbow shimmer middle, creative eye art, dimensional colorful look, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "27",
+      "title": "Glitter Eye Makyajı - Tam Kapak",
+      "image": "glitter_full_lid.jpg",
+      "difficulty": "Orta",
+      "duration": "20-30 dakika",
+      "category": "Göz Makyajı",
+      "products": [
+        "Göz Farı Bazı",
+        "Glitter Primer",
+        "Pressed Glitter",
+        "Eyeliner",
+        "Maskara",
+        "Takma Kirpik"
+      ],
+      "steps": [
+        "Göz kapağına far bazı sürün.",
+        "Glitter primer ile yapışkan yüzey oluşturun.",
+        "Pressed glitter'ı parmak veya düz fırça ile göz kapağına bastırın.",
+        "Tüm göz kapağını glitter ile kaplayın.",
+        "Eyeliner çekin.",
+        "Takma kirpik takın.",
+        "Maskara sürün.",
+        "Glitter döküntülerini temizleyin."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, full lid glitter makeup, complete sparkle coverage, glamorous glitter eyes, party ready sparkle, eye catching shimmer, festival makeup style, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "28",
+      "title": "Glitter Eye Makyajı - İç Köşe",
+      "image": "glitter_inner_corner.jpg",
+      "difficulty": "Kolay-Orta",
+      "duration": "15-20 dakika",
+      "category": "Göz Makyajı",
+      "products": [
+        "Göz Farı Bazı",
+        "Nötr Tonlu Far",
+        "Glitter",
+        "Glitter Tutkal",
+        "Eyeliner",
+        "Maskara"
+      ],
+      "steps": [
+        "Göz kapağına baz sürün.",
+        "Nötr tonlarda klasik göz makyajı yapın.",
+        "Eyeliner çekin.",
+        "Göz iç köşesine glitter tutkal sürün.",
+        "Glitter'ı iç köşeye bastırın.",
+        "Maskara sürün.",
+        "Parıltılı detay tamamlanmış olur."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, inner corner glitter accent, sparkle highlight, subtle glitter detail, elevated simple look, eye brightening effect, delicate shimmer touch, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "29",
+      "title": "Doğal Göz Makyajı - Soft Brown",
+      "image": "natural_eye_soft_brown.jpg",
+      "difficulty": "Kolay",
+      "duration": "10-15 dakika",
+      "category": "Göz Makyajı",
+      "products": [
+        "Açık Kahverengi Far",
+        "Orta Kahverengi Far",
+        "Kahverengi Maskara",
+        "Kaş Kalemi"
+      ],
+      "steps": [
+        "Açık kahverengi farı göz kapağına sürün.",
+        "Orta kahverengi ile göz kırışıklığına hafif derinlik ekleyin.",
+        "Blend edin.",
+        "Kahverengi maskara sürün.",
+        "Kaşları hafifçe doldurun."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, natural soft brown eye makeup, subtle earthy tones, everyday eye look, gentle brown shades, effortless beauty, simple eye makeup, beauty portrait, front facing, high quality"
+    },
+
+    {
+      "id": "30",
+      "title": "Doğal Göz Makyajı - Nude Shimmer",
+      "image": "natural_eye_shimmer.jpg",
+      "difficulty": "Kolay",
+      "duration": "10-12 dakika",
+      "category": "Göz Makyajı",
+      "products": [
+        "Bej Far",
+        "Şampanya Tonlu Simli Far",
+        "Maskara",
+        "Kaş Jeli"
+      ],
+      "steps": [
+        "Bej farı göz kapağına sürün.",
+        "Şampanya tonlu simli farı göz ortasına ekleyin.",
+        "Hafifçe blend edin.",
+        "Maskara sürün.",
+        "Kaşları jel ile sabitleyin."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, natural nude shimmer eye, subtle sparkle, champagne glow, everyday glam, soft natural look with shine, effortless beauty, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "31",
+      "title": "Renkli Göz Makyajı - Mor Tonları",
+      "image": "colorful_eye_purple.jpg",
+      "difficulty": "Orta",
+      "duration": "20-25 dakika",
+      "category": "Göz Makyajı",
+      "products": [
+        "Göz Farı Bazı",
+        "Mor Tonlu Far Paleti",
+        "Simli Mor Far",
+        "Eyeliner",
+        "Maskara"
+      ],
+      "steps": [
+        "Göz kapağına baz sürün.",
+        "Açık mor ile göz kapağını boyayın.",
+        "Orta mor ile göz kırışıklığına derinlik ekleyin.",
+        "Koyu mor ile dış köşeye vurgu yapın.",
+        "Simli mor farı göz ortasına ekleyin.",
+        "Eyeliner ve maskara sürün."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, purple colorful eye makeup, vibrant violet shades, lavender to plum gradient, creative purple eye, bold color choice, artistic eye look, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "32",
+      "title": "Renkli Göz Makyajı - Mavi-Yeşil",
+      "image": "colorful_eye_blue_green.jpg",
+      "difficulty": "Orta",
+      "duration": "20-30 dakika",
+      "category": "Göz Makyajı",
+      "products": [
+        "Göz Farı Bazı",
+        "Mavi ve Yeşil Far",
+        "Turkuaz Simli Far",
+        "Eyeliner",
+        "Maskara"
+      ],
+      "steps": [
+        "Göz kapağına baz sürün.",
+        "Mavi farı göz iç köşesine sürün.",
+        "Yeşil farı göz dış köşesine sürün.",
+        "İkisini ortada buluşturun ve blend edin.",
+        "Turkuaz simli farı göz ortasına ekleyin.",
+        "Eyeliner ve maskara sürün."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, blue green colorful eye makeup, ocean inspired colors, turquoise shimmer, aqua tones, tropical eye look, vibrant gradient, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "33",
+      "title": "Korean Style Makyaj - Glass Skin",
+      "image": "korean_glass_skin.jpg",
+      "difficulty": "Kolay-Orta",
+      "duration": "20-25 dakika",
+      "category": "Stil Bazlı",
+      "products": [
+        "Hydrating Serum",
+        "Cushion Fondöten",
+        "Minimal Kapatıcı",
+        "Krem Allık",
+        "Açık Tonlu Far",
+        "Kahverengi Maskara",
+        "Kaş Kalemi",
+        "Gradient Lip Tint",
+        "Bol Aydınlatıcı"
+      ],
+      "steps": [
+        "Cildi serum ile nemlendirin.",
+        "Cushion fondöten ile hafif kaplama yapın.",
+        "Minimal kapatıcı kullanın.",
+        "Göz kapaklarına açık pembe far sürün.",
+        "Kaşları hafif ve düz tutun.",
+        "Kahverengi maskara sürün.",
+        "Yanaklara krem allık sürün, yüksek elmacıklara.",
+        "Dudaklara gradient tekniği uygulayın.",
+        "Bol aydınlatıcı ile cam gibi cilt yaratın."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, Korean glass skin makeup, ultra dewy glowing complexion, transparent luminous skin, gradient lips, straight brows, minimal eye makeup, youthful K-beauty, soft lighting, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "34",
+      "title": "Korean Style Makyaj - Puppy Eyes",
+      "image": "korean_puppy_eyes.jpg",
+      "difficulty": "Orta",
+      "duration": "20-30 dakika",
+      "category": "Stil Bazlı",
+      "products": [
+        "BB Krem",
+        "Kapatıcı",
+        "Açık Pembe Far",
+        "Kahverengi Eyeliner",
+        "Kahverengi Maskara",
+        "Alt Kirpik Maskara",
+        "Kaş Kalemi",
+        "Mercan Allık",
+        "Gradient Ruj"
+      ],
+      "steps": [
+        "BB krem ve kapatıcı ile doğal cilt yaratın.",
+        "Açık pembe farı göz kapağına sürün.",
+        "Kahverengi eyeliner ile aşağı açılı çizgi çekin (puppy eye).",
+        "Kahverengi maskara sürün.",
+        "Alt kirpiklere özellikle maskara sürün.",
+        "Kaşları doğal tutun.",
+        "Mercan allık uygulayın.",
+        "Gradient dudak yapın."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, Korean puppy eyes makeup, downturned eye look, innocent youthful appearance, cute eye shape, soft pink tones, aegyo sal highlight, K-beauty trend, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "35",
+      "title": "Vintage Makyaj - 1950s",
+      "image": "vintage_1950s.jpg",
+      "difficulty": "Orta-Zor",
+      "duration": "30-40 dakika",
+      "category": "Stil Bazlı",
+      "products": [
+        "Mat Fondöten",
+        "Toz",
+        "Kaş Kalemi",
+        "Nötr Tonlu Far",
+        "Siyah Eyeliner",
+        "Maskara",
+        "Takma Kirpik",
+        "Pembe Allık",
+        "Kırmızı Ruj"
+      ],
+      "steps": [
+        "Mat fondöten ve bol tozla klasik vintage cilt yaratın.",
+        "Kaşları ince ve kıvrımlı çizin.",
+        "Nötr tonlarda göz makyajı yapın.",
+        "Dramatik winged eyeliner çekin.",
+        "Takma kirpik takın ve maskara sürün.",
+        "Yanaklara yuvarlak şekilde pembe allık sürün.",
+        "Kırmızı ruj ile klasik dudak yapın."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, 1950s vintage makeup, classic retro beauty, winged eyeliner, red lips, defined brows, pin up style, old Hollywood glamour, timeless elegance, soft studio lighting, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "36",
+      "title": "Vintage Makyaj - 1920s Flapper",
+      "image": "vintage_1920s.jpg",
+      "difficulty": "Orta-Zor",
+      "duration": "35-45 dakika",
+      "category": "Stil Bazlı",
+      "products": [
+        "Açık Fondöten",
+        "Toz",
+        "Koyu Göz Farı",
+        "Siyah Eyeliner",
+        "Maskara",
+        "İnce Kaş Kalemi",
+        "Minimal Allık",
+        "Koyu Ruj"
+      ],
+      "steps": [
+        "Açık fondöten ile solgun cilt yaratın.",
+        "Bol toz sürün.",
+        "Koyu gri/siyah far ile göz çevresini boyayın.",
+        "Siyah eyeliner ile göz kenarlarını belirginleştirin.",
+        "Alt kirpik hattına da eyeliner sürün.",
+        "Bol maskara uygulayın.",
+        "Kaşları ince ve düz çizin.",
+        "Minimal allık kullanın.",
+        "Koyu bordo veya kırmızı ruj sürün."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, 1920s flapper makeup, art deco style, dark smokey eyes, thin brows, cupid bow lips, pale complexion, gatsby era beauty, roaring twenties look, vintage glamour, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "37",
+      "title": "Pin-Up Makyaj - Klasik",
+      "image": "pinup_classic.jpg",
+      "difficulty": "Orta",
+      "duration": "25-35 dakika",
+      "category": "Stil Bazlı",
+      "products": [
+        "Fondöten",
+        "Kontur",
+        "Kaş Kalemi",
+        "Nötr Far",
+        "Siyah Eyeliner",
+        "Takma Kirpik",
+        "Maskara",
+        "Pembe Allık",
+        "Kırmızı Ruj"
+      ],
+      "steps": [
+        "Fondöten ve hafif kontur uygulayın.",
+        "Kaşları kıvrımlı ve belirgin çizin.",
+        "Nötr tonlarda göz makyajı yapın.",
+        "Kalın winged eyeliner çekin.",
+        "Takma kirpik takın ve maskara sürün.",
+        "Yanaklara yuvarlak pembe allık sürün.",
+        "Kırmızı ruj ile dolgun dudak yapın."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, classic pin up makeup, retro beauty, dramatic winged liner, red lips, defined arched brows, rosy cheeks, vintage bombshell style, 1950s inspired, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "38",
+      "title": "Pin-Up Makyaj - Modern Twist",
+      "image": "pinup_modern.jpg",
+      "difficulty": "Orta",
+      "duration": "30-35 dakika",
+      "category": "Stil Bazlı",
+      "products": [
+        "Dewy Fondöten",
+        "Aydınlatıcı",
+        "Kaş Pomadı",
+        "Renkli Far",
+        "Graphic Eyeliner",
+        "Maskara",
+        "Allık",
+        "Modern Ruj Rengi"
+      ],
+      "steps": [
+        "Dewy fondöten ve aydınlatıcı ile modern cilt yaratın.",
+        "Kaşları pomadı ile belirginleştirin.",
+        "Renkli far (pembe, mor) ile göz makyajı yapın.",
+        "Graphic winged liner çekin.",
+        "Maskara sürün.",
+        "Allık uygulayın.",
+        "Modern renkte (pembe, mercan) ruj sürün."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, modern pin up makeup, retro meets contemporary, colorful eyeshadow, graphic liner, updated vintage style, fresh take on classic, creative beauty, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "39",
+      "title": "Boho Makyaj - Natural",
+      "image": "boho_natural.jpg",
+      "difficulty": "Kolay",
+      "duration": "15-20 dakika",
+      "category": "Stil Bazlı",
+      "products": [
+        "Renkli Nemlendirici",
+        "Krem Bronzer",
+        "Toprak Tonlu Far",
+        "Kahverengi Maskara",
+        "Kaş Jeli",
+        "Krem Allık",
+        "Glossy Dudak"
+      ],
+      "steps": [
+        "Renkli nemlendirici ile doğal kaplama yapın.",
+        "Krem bronzer ile yüze sıcaklık katın.",
+        "Toprak tonlarında (kahverengi, turuncu) göz makyajı yapın.",
+        "Kahverengi maskara sürün.",
+        "Kaşları doğal bırakın, sadece jel sürün.",
+        "Krem allık uygulayın.",
+        "Glossy dudak ürünü sürün."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, natural boho makeup, earthy tones, sun kissed glow, free spirited beauty, warm bronzed skin, effortless bohemian style, natural textures, soft lighting, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "40",
+      "title": "Boho Makyaj - Festival",
+      "image": "boho_festival.jpg",
+      "difficulty": "Orta",
+      "duration": "25-30 dakika",
+      "category": "Stil Bazlı",
+      "products": [
+        "Fondöten",
+        "Bronzer",
+        "Renkli Far",
+        "Glitter",
+        "Eyeliner",
+        "Maskara",
+        "Allık",
+        "Renkli Ruj",
+        "Face Gems (Opsiyonel)"
+      ],
+      "steps": [
+        "Fondöten ve bronzer ile bronzlaşmış görünüm yaratın.",
+        "Renkli far (turuncu, sarı, yeşil) ile yaratıcı göz makyajı yapın.",
+        "Glitter ekleyin.",
+        "Eyeliner çekin.",
+        "Maskara sürün.",
+        "Allık uygulayın.",
+        "Renkli ruj sürün.",
+        "İsteğe bağlı face gems ile süsleyin."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, festival boho makeup, colorful creative look, glitter accents, face gems, free spirit style, artistic bohemian beauty, vibrant colors, outdoor festival ready, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "41",
+      "title": "Soft Glam Makyaj - Nude Tones",
+      "image": "soft_glam_nude.jpg",
+      "difficulty": "Orta",
+      "duration": "25-30 dakika",
+      "category": "Stil Bazlı",
+      "products": [
+        "Primer",
+        "Fondöten",
+        "Kapatıcı",
+        "Kontur",
+        "Nötr Far Paleti",
+        "Simli Far",
+        "Eyeliner",
+        "Maskara",
+        "Allık",
+        "Aydınlatıcı",
+        "Nötr Ruj"
+      ],
+      "steps": [
+        "Primer ve fondöten ile kusursuz cilt yaratın.",
+        "Kapatıcı ve hafif kontur uygulayın.",
+        "Nötr tonlarda (bej, kahverengi) göz makyajı yapın.",
+        "Göz ortasına simli far ekleyin.",
+        "İnce eyeliner çekin.",
+        "Maskara sürün.",
+        "Hafif allık uygulayın.",
+        "Elmacık kemiklerine aydınlatıcı ekleyin.",
+        "Nötr renkte ruj sürün."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, soft glam nude tones, neutral eyeshadow palette, shimmer accent, polished natural beauty, elegant everyday glam, warm neutral colors, sophisticated look, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "42",
+      "title": "Soft Glam Makyaj - Rose Gold",
+      "image": "soft_glam_rose_gold.jpg",
+      "difficulty": "Orta",
+      "duration": "30-35 dakika",
+      "category": "Stil Bazlı",
+      "products": [
+        "Primer",
+        "Fondöten",
+        "Kapatıcı",
+        "Bronzer",
+        "Pembe-Altın Tonlu Far",
+        "Rose Gold Simli Far",
+        "Eyeliner",
+        "Maskara",
+        "Pembe Allık",
+        "Aydınlatıcı",
+        "Pembe Tonda Ruj"
+      ],
+      "steps": [
+        "Primer ve fondöten uygulayın.",
+        "Kapatıcı sürün.",
+        "Bronzer ile yüze sıcaklık katın.",
+        "Pembe ve altın tonlarda göz makyajı yapın.",
+        "Rose gold simli farı göz ortasına ekleyin.",
+        "Eyeliner ve maskara sürün.",
+        "Pembe allık uygulayın.",
+        "Aydınlatıcı ekleyin.",
+        "Pembe tonda ruj sürün."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, rose gold soft glam, pink and gold tones, romantic shimmer, warm metallic eyeshadow, rosy glow, feminine elegant beauty, soft glamorous style, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "43",
+      "title": "Full Glam Makyaj - Maximum Impact",
+      "image": "full_glam_maximum.jpg",
+      "difficulty": "Zor",
+      "duration": "45-60 dakika",
+      "category": "Stil Bazlı",
+      "products": [
+        "Primer",
+        "Tam Kapamalı Fondöten",
+        "Kapatıcı",
+        "Kontur ve Aydınlatıcı Set",
+        "Far Paleti",
+        "Glitter",
+        "Dramatik Eyeliner",
+        "Takma Kirpik",
+        "Maskara",
+        "Allık",
+        "Bol Aydınlatıcı",
+        "Dramatik Ruj",
+        "Setting Spray"
+      ],
+      "steps": [
+        "Primer ile mükemmel baz hazırlayın.",
+        "Tam kapamalı fondöten sürün.",
+        "Kapatıcı ile kusursuz ten yaratın.",
+        "Güçlü kontur yapın.",
+        "Dramatik göz makyajı yapın (koyu tonlar, glitter).",
+        "Dramatik eyeliner çekin.",
+        "Takma kirpik takın.",
+        "Maskara sürün.",
+        "Allık ve bol aydınlatıcı ekleyin.",
+        "Dramatik renkte ruj sürün.",
+        "Setting spray ile sabitleyin."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, full glam maximum impact, heavy coverage foundation, dramatic contour, intense eye makeup, glitter details, bold lashes, sculpted face, statement lips, red carpet ready, studio lighting, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "44",
+      "title": "Full Glam Makyaj - Influencer Style",
+      "image": "full_glam_influencer.jpg",
+      "difficulty": "Zor",
+      "duration": "50-60 dakika",
+      "category": "Stil Bazlı",
+      "products": [
+        "Pore Filling Primer",
+        "HD Fondöten",
+        "Kapatıcı",
+        "Baking Powder",
+        "Kontur Paleti",
+        "Renkli Far",
+        "Cut Crease",
+        "Eyeliner",
+        "Takma Kirpik",
+        "Maskara",
+        "Allık",
+        "Extreme Aydınlatıcı",
+        "Overline Dudak",
+        "Setting Spray"
+      ],
+      "steps": [
+        "Pore filling primer sürün.",
+        "HD fondöten ile ultra pürüzsüz cilt yaratın.",
+        "Kapatıcı sürün ve baking tekniği uygulayın.",
+        "Güçlü kontur yapın.",
+        "Cut crease veya dramatik göz makyajı yapın.",
+        "Renkli far ve eyeliner kullanın.",
+        "Takma kirpik takın ve maskara sürün.",
+        "Allık uygulayın.",
+        "Extreme aydınlatıcı (blinding highlight) ekleyin.",
+        "Dudakları overline yaparak dolgunlaştırın.",
+        "Setting spray ile sabitleyin."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, influencer full glam style, Instagram makeup, HD finish, extreme highlight, cut crease eyes, overlined lips, sculpted contour, social media ready, flawless beauty, studio lighting, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "45",
+      "title": "Gelin Makyajı - Klasik Romantik",
+      "image": "bridal_classic_romantic.jpg",
+      "difficulty": "Zor",
+      "duration": "45-60 dakika",
+      "category": "Özel Durumlar",
+      "products": [
+        "Uzun Süre Kalıcı Primer",
+        "Tam Kapamalı Fondöten",
+        "Kapatıcı",
+        "Toz",
+        "Kontur ve Aydınlatıcı",
+        "Pembe/Şeftali Tonlu Far",
+        "Simli Far",
+        "Eyeliner",
+        "Su Geçirmez Maskara",
+        "Takma Kirpik",
+        "Pembe Allık",
+        "Aydınlatıcı",
+        "Kalıcı Ruj",
+        "Setting Spray"
+      ],
+      "steps": [
+        "Uzun süre kalıcı primer sürün.",
+        "Tam kapamalı fondöten ile kusursuz cilt yaratın.",
+        "Kapatıcı ve tozla sabitleyin.",
+        "Kontur ve aydınlatıcı uygulayın.",
+        "Pembe ve şeftali tonlarda romantik göz makyajı yapın.",
+        "Simli far ekleyin.",
+        "Eyeliner çekin.",
+        "Takma kirpik takın.",
+        "Su geçirmez maskara sürün.",
+        "Pembe allık uygulayın.",
+        "Bol aydınlatıcı ekleyin.",
+        "Kalıcı ruj sürün.",
+        "Setting spray ile tüm günü kapsayacak şekilde sabitleyin."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, classic romantic bridal makeup, soft pink tones, timeless beauty, elegant wedding look, glowing skin, long lasting makeup, natural radiance, bridal glow, soft lighting, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "46",
+      "title": "Gelin Makyajı - Modern Minimal",
+      "image": "bridal_modern_minimal.jpg",
+      "difficulty": "Orta-Zor",
+      "duration": "35-45 dakika",
+      "category": "Özel Durumlar",
+      "products": [
+        "Primer",
+        "Orta Kapamalı Fondöten",
+        "Kapatıcı",
+        "Minimal Kontur",
+        "Nötr Tonlu Far",
+        "İnce Eyeliner",
+        "Maskara",
+        "Doğal Takma Kirpik",
+        "Hafif Allık",
+        "Aydınlatıcı",
+        "Nötr Ruj",
+        "Setting Spray"
+      ],
+      "steps": [
+        "Primer ve orta kapamalı fondöten kullanın.",
+        "Kapatıcı sürün.",
+        "Minimal kontur yapın.",
+        "Nötr tonlarda hafif göz makyajı yapın.",
+        "İnce eyeliner çekin.",
+        "Doğal takma kirpik takın.",
+        "Maskara sürün.",
+        "Hafif allık uygulayın.",
+        "Aydınlatıcı ekleyin.",
+        "Nötr renkte ruj sürün.",
+        "Setting spray kullanın."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, modern minimal bridal makeup, contemporary wedding beauty, understated elegance, natural enhancement, clean beauty, sophisticated simplicity, timeless style, soft lighting, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "47",
+      "title": "Mezuniyet Makyajı - Klasik",
+      "image": "graduation_classic.jpg",
+      "difficulty": "Orta",
+      "duration": "20-30 dakika",
+      "category": "Özel Durumlar",
+      "products": [
+        "Primer",
+        "Mat Fondöten",
+        "Kapatıcı",
+        "Toz",
+        "Nötr Far",
+        "Eyeliner",
+        "Maskara",
+        "Allık",
+        "Hafif Aydınlatıcı",
+        "Nötr Ruj",
+        "Setting Spray"
+      ],
+      "steps": [
+        "Primer ve mat fondöten uygulayın.",
+        "Kapatıcı ve tozla sabitleyin.",
+        "Nötr tonlarda klasik göz makyajı yapın.",
+        "Eyeliner ve maskara sürün.",
+        "Allık uygulayın.",
+        "Hafif aydınlatıcı ekleyin.",
+        "Nötr renkte ruj sürün.",
+        "Setting spray ile tüm gün dayanıklılık sağlayın."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, classic graduation makeup, polished student look, professional appearance, photo ready beauty, timeless elegance, matte finish, natural tones, milestone celebration, soft lighting, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "48",
+      "title": "Mezuniyet Makyajı - Genç ve Taze",
+      "image": "graduation_fresh.jpg",
+      "difficulty": "Kolay-Orta",
+      "duration": "15-20 dakika",
+      "category": "Özel Durumlar",
+      "products": [
+        "BB Krem",
+        "Kapatıcı",
+        "Hafif Bronzer",
+        "Açık Tonlu Far",
+        "Maskara",
+        "Kaş Jeli",
+        "Krem Allık",
+        "Glossy Ruj",
+        "Setting Spray"
+      ],
+      "steps": [
+        "BB krem ile hafif kaplama yapın.",
+        "Kapatıcı sürün.",
+        "Hafif bronzer ekleyin.",
+        "Açık tonlarda göz makyajı yapın.",
+        "Maskara sürün.",
+        "Kaşları jel ile sabitleyin.",
+        "Krem allık uygulayın.",
+        "Glossy ruj sürün.",
+        "Setting spray kullanın."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, fresh graduation makeup, youthful beauty, natural glow, young and radiant, minimal coverage, dewy finish, bright appearance, celebratory look, soft lighting, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "49",
+      "title": "Doğum Günü Makyajı - Parti",
+      "image": "birthday_party.jpg",
+      "difficulty": "Orta",
+      "duration": "25-30 dakika",
+      "category": "Özel Durumlar",
+      "products": [
+        "Primer",
+        "Fondöten",
+        "Kapatıcı",
+        "Bronzer",
+        "Renkli Far",
+        "Glitter",
+        "Eyeliner",
+        "Maskara",
+        "Allık",
+        "Aydınlatıcı",
+        "Parlak Ruj",
+        "Setting Spray"
+      ],
+      "steps": [
+        "Primer ve fondöten uygulayın.",
+        "Kapatıcı sürün.",
+        "Bronzer ekleyin.",
+        "Renkli far ile eğlenceli göz makyajı yapın.",
+        "Glitter ekleyin.",
+        "Eyeliner ve maskara sürün.",
+        "Allık ve aydınlatıcı uygulayın.",
+        "Parlak ruj sürün.",
+        "Setting spray kullanın."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, birthday party makeup, festive colorful look, glitter accents, celebration beauty, fun playful style, party ready makeup, vibrant colors, special day glam, studio lighting, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "50",
+      "title": "Doğum Günü Makyajı - Şık Akşam",
+      "image": "birthday_evening.jpg",
+      "difficulty": "Orta",
+      "duration": "30-35 dakika",
+      "category": "Özel Durumlar",
+      "products": [
+        "Primer",
+        "Fondöten",
+        "Kapatıcı",
+        "Kontur",
+        "Smoky Tonlu Far",
+        "Simli Far",
+        "Eyeliner",
+        "Maskara",
+        "Takma Kirpik",
+        "Allık",
+        "Aydınlatıcı",
+        "Bold Ruj",
+        "Setting Spray"
+      ],
+      "steps": [
+        "Primer ve fondöten uygulayın.",
+        "Kapatıcı ve kontur sürün.",
+        "Smoky tonlarda göz makyajı yapın.",
+        "Simli far ekleyin.",
+        "Eyeliner çekin.",
+        "Takma kirpik takın ve maskara sürün.",
+        "Allık ve aydınlatıcı uygulayın.",
+        "Bold renkte ruj sürün.",
+        "Setting spray kullanın."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, elegant birthday evening makeup, sophisticated celebration look, smoky eyes with shimmer, glamorous style, special occasion beauty, bold lips, chic appearance, studio lighting, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "51",
+      "title": "Yılbaşı Makyajı - Glitter Glam",
+      "image": "newyear_glitter.jpg",
+      "difficulty": "Orta-Zor",
+      "duration": "30-40 dakika",
+      "category": "Özel Durumlar",
+      "products": [
+        "Primer",
+        "Fondöten",
+        "Kapatıcı",
+        "Kontur",
+        "Altın/Gümüş Tonlu Far",
+        "Pressed Glitter",
+        "Eyeliner",
+        "Maskara",
+        "Takma Kirpik",
+        "Allık",
+        "Extreme Aydınlatıcı",
+        "Metalik Ruj",
+        "Setting Spray"
+      ],
+      "steps": [
+        "Primer ve fondöten uygulayın.",
+        "Kapatıcı ve kontur sürün.",
+        "Altın veya gümüş tonlarda göz makyajı yapın.",
+        "Pressed glitter ile göz kapağını kaplayın.",
+        "Eyeliner çekin.",
+        "Takma kirpik takın ve maskara sürün.",
+        "Allık uygulayın.",
+        "Extreme aydınlatıcı ekleyin.",
+        "Metalik ruj sürün.",
+        "Setting spray kullanın."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, New Year glitter glam makeup, sparkling gold and silver, festive party look, extreme shimmer, metallic tones, celebration beauty, midnight kiss ready, glamorous style, studio lighting, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "52",
+      "title": "Yılbaşı Makyajı - Kırmızı ve Altın",
+      "image": "newyear_red_gold.jpg",
+      "difficulty": "Orta",
+      "duration": "25-35 dakika",
+      "category": "Özel Durumlar",
+      "products": [
+        "Primer",
+        "Fondöten",
+        "Kapatıcı",
+        "Bronzer",
+        "Kırmızı/Altın Tonlu Far",
+        "Simli Far",
+        "Eyeliner",
+        "Maskara",
+        "Allık",
+        "Altın Aydınlatıcı",
+        "Kırmızı Ruj",
+        "Setting Spray"
+      ],
+      "steps": [
+        "Primer ve fondöten uygulayın.",
+        "Kapatıcı ve bronzer sürün.",
+        "Kırmızı ve altın tonlarda göz makyajı yapın.",
+        "Simli far ekleyin.",
+        "Eyeliner ve maskara sürün.",
+        "Allık uygulayın.",
+        "Altın aydınlatıcı ekleyin.",
+        "Kırmızı ruj sürün.",
+        "Setting spray kullanın."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, New Year red and gold makeup, festive holiday colors, warm metallic tones, classic red lips, golden shimmer, celebration ready, elegant party beauty, studio lighting, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "53",
+      "title": "Sevgililer Günü Makyajı - Romantik Pembe",
+      "image": "valentine_romantic_pink.jpg",
+      "difficulty": "Orta",
+      "duration": "20-30 dakika",
+      "category": "Özel Durumlar",
+      "products": [
+        "Primer",
+        "Fondöten",
+        "Kapatıcı",
+        "Pembe Tonlu Far",
+        "Simli Pembe Far",
+        "Eyeliner",
+        "Maskara",
+        "Pembe Allık",
+        "Aydınlatıcı",
+        "Pembe Ruj",
+        "Setting Spray"
+      ],
+      "steps": [
+        "Primer ve fondöten uygulayın.",
+        "Kapatıcı sürün.",
+        "Pembe tonlarda romantik göz makyajı yapın.",
+        "Simli pembe far ekleyin.",
+        "Eyeliner ve maskara sürün.",
+        "Pembe allık uygulayın.",
+        "Aydınlatıcı ekleyin.",
+        "Pembe ruj sürün.",
+        "Setting spray kullanın."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, romantic Valentine pink makeup, soft pink tones, love inspired beauty, feminine romantic look, rosy glow, date night ready, sweet beauty, soft lighting, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "54",
+      "title": "Sevgililer Günü Makyajı - Kırmızı Aşk",
+      "image": "valentine_red_love.jpg",
+      "difficulty": "Orta",
+      "duration": "25-30 dakika",
+      "category": "Özel Durumlar",
+      "products": [
+        "Primer",
+        "Fondöten",
+        "Kapatıcı",
+        "Kontur",
+        "Nötr Tonlu Far",
+        "Eyeliner",
+        "Maskara",
+        "Takma Kirpik",
+        "Allık",
+        "Aydınlatıcı",
+        "Kırmızı Ruj",
+        "Setting Spray"
+      ],
+      "steps": [
+        "Primer ve fondöten uygulayın.",
+        "Kapatıcı ve kontur sürün.",
+        "Nötr tonlarda göz makyajı yapın (fokus dudakta olacak).",
+        "Eyeliner çekin.",
+        "Takma kirpik takın ve maskara sürün.",
+        "Hafif allık uygulayın.",
+        "Aydınlatıcı ekleyin.",
+        "Klasik kırmızı ruj sürün.",
+        "Setting spray kullanın."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, Valentine red love makeup, classic red lips, romantic date look, timeless beauty, sultry red lip focus, elegant appearance, love inspired, studio lighting, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "55",
+      "title": "Yaz Makyajı - Bronzlu Plaj",
+      "image": "summer_bronzed_beach.jpg",
+      "difficulty": "Kolay",
+      "duration": "10-15 dakika",
+      "category": "Mevsimsel",
+      "products": [
+        "SPF'li Nemlendirici",
+        "Hafif BB Krem",
+        "Su Geçirmez Kapatıcı",
+        "Bol Bronzer",
+        "Mercan Krem Allık",
+        "Su Geçirmez Maskara",
+        "Kaş Jeli",
+        "Glossy Dudak",
+        "Setting Spray"
+      ],
+      "steps": [
+        "SPF'li nemlendirici sürün.",
+        "Hafif BB krem uygulayın.",
+        "Su geçirmez kapatıcı sürün.",
+        "Bol bronzer ile bronzlaşmış görünüm yaratın.",
+        "Mercan krem allığı yanaklara sürün.",
+        "Su geçirmez maskara sürün.",
+        "Kaşları jel ile sabitleyin.",
+        "Glossy dudak ürünü sürün.",
+        "Su geçirmez setting spray kullanın."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, bronzed beach summer makeup, sun kissed glow, warm bronze tones, waterproof makeup, coral flush, dewy fresh skin, beach ready beauty, natural summer radiance, soft daylight, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "56",
+      "title": "Yaz Makyajı - Taze ve Hafif",
+      "image": "summer_fresh_light.jpg",
+      "difficulty": "Çok Kolay",
+      "duration": "8-12 dakika",
+      "category": "Mevsimsel",
+      "products": [
+        "SPF'li Renkli Nemlendirici",
+        "Minimal Kapatıcı",
+        "Krem Bronzer",
+        "Krem Allık",
+        "Maskara",
+        "Kaş Jeli",
+        "Renkli Dudak Balsamı"
+      ],
+      "steps": [
+        "SPF'li renkli nemlendirici sürün.",
+        "Minimal kapatıcı kullanın.",
+        "Krem bronzer ve allığı parmaklarınızla uygulayın.",
+        "Maskara sürün.",
+        "Kaşları jel ile sabitleyin.",
+        "Renkli dudak balsamı sürün.",
+        "Doğal ve hafif görünün."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, fresh light summer makeup, barely there coverage, natural dewy skin, minimal products, effortless beauty, breathable makeup, warm weather ready, soft natural lighting, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "57",
+      "title": "Kış Makyajı - Koyu Romantik",
+      "image": "winter_dark_romantic.jpg",
+      "difficulty": "Orta",
+      "duration": "25-30 dakika",
+      "category": "Mevsimsel",
+      "products": [
+        "Yoğun Nemlendirici",
+        "Nemli Bitişli Primer",
+        "Fondöten",
+        "Kapatıcı",
+        "Mor/Bordo Tonlu Far",
+        "Simli Far",
+        "Eyeliner",
+        "Maskara",
+        "Mor Tonlu Allık",
+        "Aydınlatıcı",
+        "Bordo Ruj"
+      ],
+      "steps": [
+        "Yoğun nemlendirici ve nemli primer sürün.",
+        "Fondöten ve kapatıcı uygulayın.",
+        "Mor ve bordo tonlarda göz makyajı yapın.",
+        "Simli far ekleyin.",
+        "Eyeliner ve maskara sürün.",
+        "Mor tonlu allık uygulayın.",
+        "Aydınlatıcı ekleyin.",
+        "Bordo ruj sürün."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, dark romantic winter makeup, deep purple and burgundy tones, moody beauty, rich winter colors, dramatic elegance, cozy season glam, berry tones, soft lighting, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "58",
+      "title": "Kış Makyajı - Gümüş Kar Tanesi",
+      "image": "winter_silver_snowflake.jpg",
+      "difficulty": "Orta",
+      "duration": "20-30 dakika",
+      "category": "Mevsimsel",
+      "products": [
+        "Nemlendirici",
+        "Primer",
+        "Fondöten",
+        "Kapatıcı",
+        "Gri/Gümüş Tonlu Far",
+        "Gümüş Simli Far",
+        "Beyaz Eyeliner",
+        "Maskara",
+        "Pembe Allık",
+        "Gümüş Aydınlatıcı",
+        "Pembe Ruj"
+      ],
+      "steps": [
+        "Nemlendirici ve primer sürün.",
+        "Fondöten ve kapatıcı uygulayın.",
+        "Gri ve gümüş tonlarda göz makyajı yapın.",
+        "Gümüş simli far ekleyin.",
+        "Beyaz eyeliner ile göz iç köşesini vurgulayın.",
+        "Maskara sürün.",
+        "Pembe allık uygulayın.",
+        "Gümüş aydınlatıcı ekleyin.",
+        "Pembe ruj sürün."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, silver snowflake winter makeup, icy cool tones, metallic silver shimmer, frosty beauty, winter wonderland inspired, cool grey shades, crystalline glow, soft lighting, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "59",
+      "title": "Sonbahar Makyajı - Sıcak Toprak Tonları",
+      "image": "autumn_warm_earth.jpg",
+      "difficulty": "Kolay-Orta",
+      "duration": "15-20 dakika",
+      "category": "Mevsimsel",
+      "products": [
+        "Primer",
+        "Fondöten",
+        "Kapatıcı",
+        "Bronzer",
+        "Turuncu/Kahverengi Tonlu Far",
+        "Maskara",
+        "Kaş Kalemi",
+        "Turuncu Tonda Allık",
+        "Bronz Aydınlatıcı",
+        "Kahverengi/Turuncu Ruj"
+      ],
+      "steps": [
+        "Primer ve fondöten uygulayın.",
+        "Kapatıcı ve bronzer sürün.",
+        "Turuncu ve kahverengi tonlarda göz makyajı yapın.",
+        "Maskara sürün.",
+        "Kaşları doldurun.",
+        "Turuncu tonda allık uygulayın.",
+        "Bronz aydınlatıcı ekleyin.",
+        "Kahverengi veya turuncu tonda ruj sürün."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, warm autumn earth tones makeup, orange and brown shades, fall colors, cozy seasonal beauty, terracotta tones, harvest inspired, warm earthy palette, soft lighting, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "60",
+      "title": "Sonbahar Makyajı - Bordo Yapraklar",
+      "image": "autumn_burgundy_leaves.jpg",
+      "difficulty": "Orta",
+      "duration": "20-25 dakika",
+      "category": "Mevsimsel",
+      "products": [
+        "Primer",
+        "Fondöten",
+        "Kapatıcı",
+        "Kontur",
+        "Bordo/Kahverengi Tonlu Far",
+        "Altın Simli Far",
+        "Eyeliner",
+        "Maskara",
+        "Allık",
+        "Aydınlatıcı",
+        "Bordo Ruj"
+      ],
+      "steps": [
+        "Primer ve fondöten uygulayın.",
+        "Kapatıcı ve kontur sürün.",
+        "Bordo ve kahverengi tonlarda göz makyajı yapın.",
+        "Altın simli far ekleyin.",
+        "Eyeliner ve maskara sürün.",
+        "Allık uygulayın.",
+        "Aydınlatıcı ekleyin.",
+        "Bordo ruj sürün."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, burgundy autumn leaves makeup, deep red wine tones, fall elegance, rich burgundy shades, golden shimmer accent, seasonal beauty, warm sophisticated look, soft lighting, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "61",
+      "title": "İlkbahar Makyajı - Taze Çiçek",
+      "image": "spring_fresh_flower.jpg",
+      "difficulty": "Kolay",
+      "duration": "15-20 dakika",
+      "category": "Mevsimsel",
+      "products": [
+        "Nemlendirici",
+        "Hafif Fondöten",
+        "Kapatıcı",
+        "Pembe/Lavanta Tonlu Far",
+        "Maskara",
+        "Kaş Jeli",
+        "Pembe Krem Allık",
+        "Aydınlatıcı",
+        "Pembe Glossy Ruj"
+      ],
+      "steps": [
+        "Nemlendirici sürün.",
+        "Hafif fondöten uygulayın.",
+        "Kapatıcı sürün.",
+        "Pembe ve lavanta tonlarda hafif göz makyajı yapın.",
+        "Maskara sürün.",
+        "Kaşları jel ile sabitleyin.",
+        "Pembe krem allık uygulayın.",
+        "Aydınlatıcı ekleyin.",
+        "Pembe glossy ruj sürün."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, fresh spring flower makeup, soft pink and lavender tones, blooming beauty, delicate colors, romantic spring look, floral inspired, youthful fresh appearance, soft natural lighting, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "62",
+      "title": "İlkbahar Makyajı - Pastel Rüya",
+      "image": "spring_pastel_dream.jpg",
+      "difficulty": "Kolay-Orta",
+      "duration": "18-25 dakika",
+      "category": "Mevsimsel",
+      "products": [
+        "Primer",
+        "Fondöten",
+        "Kapatıcı",
+        "Pastel Renkli Far Paleti",
+        "Simli Far",
+        "Maskara",
+        "Kaş Kalemi",
+        "Açık Pembe Allık",
+        "Aydınlatıcı",
+        "Pastel Ruj"
+      ],
+      "steps": [
+        "Primer ve fondöten uygulayın.",
+        "Kapatıcı sürün.",
+        "Pastel renklerle (mavi, yeşil, pembe) yaratıcı göz makyajı yapın.",
+        "Simli far ekleyin.",
+        "Maskara sürün.",
+        "Kaşları doldurun.",
+        "Açık pembe allık uygulayın.",
+        "Aydınlatıcı ekleyin.",
+        "Pastel renkte ruj sürün."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, pastel spring dream makeup, soft candy colors, light blue pink green, dreamy ethereal beauty, whimsical spring look, gentle pastel palette, artistic spring beauty, soft lighting, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "63",
+      "title": "Foxy Eyes Makyajı - Dramatik",
+      "image": "foxy_eyes_dramatic.jpg",
+      "difficulty": "Orta-Zor",
+      "duration": "25-35 dakika",
+      "category": "Trend",
+      "products": [
+        "Göz Farı Bazı",
+        "Koyu Tonlu Far",
+        "Siyah Eyeliner",
+        "Beyaz Eyeliner",
+        "Maskara",
+        "Dış Tarafta Uzun Takma Kirpik",
+        "Kaş Kalemi",
+        "Bantlama Bandı"
+      ],
+      "steps": [
+        "Göz kapağına baz sürün.",
+        "Göz dış köşesine koyu far sürün ve yukarı blend edin.",
+        "Siyah eyeliner ile kalın üst çizgi çekin, yukarı kaldırın.",
+        "Alt kirpik hattına da eyeliner çekin ve üstle birleştirin.",
+        "İç köşeye beyaz eyeliner sürün.",
+        "Dış tarafta uzun takma kirpik takın.",
+        "Maskara sürün.",
+        "Kaşları yukarı ve dışa fırçalayın.",
+        "İsteğe bağlı bantlama bandı kullanın."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, dramatic foxy eyes makeup, extreme lifted cat eye, elongated almond shape, sharp upward wing, sultry fox eye effect, bold dramatic liner, trending eye shape, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "64",
+      "title": "Foxy Eyes Makyajı - Doğal",
+      "image": "foxy_eyes_natural.jpg",
+      "difficulty": "Orta",
+      "duration": "20-25 dakika",
+      "category": "Trend",
+      "products": [
+        "Göz Farı Bazı",
+        "Nötr Tonlu Far",
+        "Kahverengi Eyeliner",
+        "Maskara",
+        "Doğal Takma Kirpik",
+        "Kaş Kalemi",
+        "Kaş Sabitleme Jelı"
+      ],
+      "steps": [
+        "Göz kapağına baz sürün.",
+        "Nötr tonlarda hafif göz makyajı yapın.",
+        "Göz dış köşesini yukarı blend edin.",
+        "Kahverengi eyeliner ile yukarı kaldırılmış ince çizgi çekin.",
+        "Doğal takma kirpik takın (dış tarafta daha uzun).",
+        "Maskara sürün.",
+        "Kaşları yukarı ve dışa doğru şekillendirin.",
+        "Kaş jeli ile sabitleyin."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, natural foxy eyes makeup, subtle lifted eye effect, soft cat eye shape, everyday fox eye, brown tones, gentle upward lift, wearable trending look, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "65",
+      "title": "Glass Skin Makyajı - Ultra Dewy",
+      "image": "glass_skin_ultra_dewy.jpg",
+      "difficulty": "Orta",
+      "duration": "25-30 dakika",
+      "category": "Trend",
+      "products": [
+        "Hydrating Serum",
+        "Hyaluronic Acid",
+        "Dewy Primer",
+        "Hafif Fondöten + Likit Aydınlatıcı",
+        "Minimal Kapatıcı",
+        "Likit Allık",
+        "Bol Likit Aydınlatıcı",
+        "Glossy Dudak",
+        "Dewy Setting Spray"
+      ],
+      "steps": [
+        "Hydrating serum ve hyaluronic acid sürün.",
+        "Dewy primer uygulayın.",
+        "Fondötene likit aydınlatıcı karıştırın ve sürün.",
+        "Minimal kapatıcı kullanın.",
+        "Likit allığı yanaklara blend edin.",
+        "Elmacık kemiklerine bol likit aydınlatıcı sürün.",
+        "Burun sırtı, alın ve çene ucuna da aydınlatıcı ekleyin.",
+        "Glossy dudak ürünü sürün.",
+        "Dewy setting spray ile tamamlayın."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, ultra dewy glass skin, extreme luminous glow, wet look finish, transparent glowing complexion, hyper hydrated skin, mirror like reflection, K-beauty glass skin, radiant perfection, soft lighting, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "66",
+      "title": "Glass Skin Makyajı - Minimal Kaplama",
+      "image": "glass_skin_minimal.jpg",
+      "difficulty": "Kolay-Orta",
+      "duration": "15-20 dakika",
+      "category": "Trend",
+      "products": [
+        "Essence",
+        "Dewy Sunscreen",
+        "Renkli Nemlendirici",
+        "Spot Kapatıcı",
+        "Likit Aydınlatıcı",
+        "Glossy Lip Balm",
+        "Facial Mist"
+      ],
+      "steps": [
+        "Essence ile cildi hazırlayın.",
+        "Dewy sunscreen sürün.",
+        "Renkli nemlendirici ile minimal kaplama yapın.",
+        "Sadece gerekli yerlere spot kapatıcı sürün.",
+        "Likit aydınlatıcıyı yüksek noktalara sürün.",
+        "Glossy lip balm kullanın.",
+        "Facial mist ile cildi spreyleyın.",
+        "Cam gibi parlak cilt elde edin."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, minimal coverage glass skin, barely there makeup, natural glowing skin, lightweight dewy finish, healthy skin focus, translucent beauty, effortless K-beauty, soft lighting, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "67",
+      "title": "Euphoria Makyajı - Glitter Tears",
+      "image": "euphoria_glitter_tears.jpg",
+      "difficulty": "Orta-Zor",
+      "duration": "30-40 dakika",
+      "category": "Trend",
+      "products": [
+        "Primer",
+        "Fondöten",
+        "Kapatıcı",
+        "Renkli Far",
+        "Glitter",
+        "Glitter Tutkal",
+        "Eyeliner",
+        "Rhinestones/Stickers",
+        "Maskara",
+        "Takma Kirpik",
+        "Allık",
+        "Glossy Ruj"
+      ],
+      "steps": [
+        "Primer ve fondöten uygulayın.",
+        "Kapatıcı sürün.",
+        "Renkli far ile yaratıcı göz makyajı yapın.",
+        "Göz altına glitter tutkal sürün.",
+        "Glitter'ı göz altına bastırın (tear effect).",
+        "Eyeliner çekin.",
+        "Rhinestone veya sticker detaylar ekleyin.",
+        "Takma kirpik takın ve maskara sürün.",
+        "Allık ve glossy ruj uygulayın."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, Euphoria glitter tears makeup, artistic glitter under eyes, rhinestone details, editorial creative look, TV show inspired, bold artistic beauty, festival style, dramatic artistic makeup, studio lighting, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "68",
+      "title": "Euphoria Makyajı - Graphic Liner",
+      "image": "euphoria_graphic_liner.jpg",
+      "difficulty": "Zor",
+      "duration": "35-45 dakika",
+      "category": "Trend",
+      "products": [
+        "Primer",
+        "Fondöten",
+        "Kapatıcı",
+        "Renkli Eyeliner Set",
+        "Far",
+        "Glitter",
+        "Maskara",
+        "Takma Kirpik",
+        "Allık",
+        "Ruj"
+      ],
+      "steps": [
+        "Primer ve fondöten uygulayın.",
+        "Kapatıcı sürün.",
+        "Far ile göz kapağını hazırlayın.",
+        "Renkli eyeliner ile yaratıcı graphic çizgiler çekin.",
+        "Geometrik şekiller, çizgiler veya desenler yapın.",
+        "Glitter detaylar ekleyin.",
+        "Takma kirpik takın ve maskara sürün.",
+        "Allık ve ruj uygulayın."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, Euphoria graphic liner makeup, bold colorful eyeliner art, geometric shapes, creative liner designs, artistic eye makeup, TV inspired beauty, editorial style, avant garde look, studio lighting, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "69",
+      "title": "Sunkissed Makyaj - Bronz Glow",
+      "image": "sunkissed_bronze_glow.jpg",
+      "difficulty": "Kolay",
+      "duration": "15-20 dakika",
+      "category": "Trend",
+      "products": [
+        "SPF'li Nemlendirici",
+        "Hafif Fondöten",
+        "Kapatıcı",
+        "Krem Bronzer",
+        "Terracotta Allık",
+        "Altın Aydınlatıcı",
+        "Kahverengi Maskara",
+        "Kaş Jeli",
+        "Peachy Ruj"
+      ],
+      "steps": [
+        "SPF'li nemlendirici sürün.",
+        "Hafif fondöten uygulayın.",
+        "Kapatıcı sürün.",
+        "Krem bronzer ile yüze sıcaklık katın (elmacık, alın, burun).",
+        "Terracotta allık uygulayın.",
+        "Altın aydınlatıcı ekleyin.",
+        "Kahverengi maskara sürün.",
+        "Kaşları jel ile sabitleyin.",
+        "Peachy renkte ruj sürün."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, sunkissed bronze glow makeup, golden hour beauty, warm bronzed skin, summer goddess look, natural sun tan effect, healthy glow, radiant warmth, soft natural lighting, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "70",
+      "title": "Sunkissed Makyaj - Golden Summer",
+      "image": "sunkissed_golden_summer.jpg",
+      "difficulty": "Kolay-Orta",
+      "duration": "18-25 dakika",
+      "category": "Trend",
+      "products": [
+        "Nemlendirici",
+        "Bronzing Primer",
+        "Bronz Fondöten",
+        "Kapatıcı",
+        "Altın Tonlu Far",
+        "Maskara",
+        "Kaş Kalemi",
+        "Bronz Allık",
+        "Bol Altın Aydınlatıcı",
+        "Nude Glossy Ruj"
+      ],
+      "steps": [
+        "Nemlendirici ve bronzing primer sürün.",
+        "Cilt tonundan bir ton koyu fondöten kullanın.",
+        "Kapatıcı sürün.",
+        "Altın tonlarda göz makyajı yapın.",
+        "Maskara sürün.",
+        "Kaşları doldurun.",
+        "Bronz allık uygulayın.",
+        "Bol altın aydınlatıcı ekleyin.",
+        "Nude glossy ruj sürün."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, golden summer sunkissed makeup, vacation glow, tropical beauty, beach babe look, golden bronze tones, luminous warm skin, summer radiance, soft lighting, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "71",
+      "title": "Dewy Skin Makyajı - Natural Glow",
+      "image": "dewy_skin_natural_glow.jpg",
+      "difficulty": "Kolay",
+      "duration": "15-20 dakika",
+      "category": "Trend",
+      "products": [
+        "Hydrating Serum",
+        "Dewy Primer",
+        "Luminous Fondöten",
+        "Kapatıcı",
+        "Krem Allık",
+        "Likit Aydınlatıcı",
+        "Glossy Dudak",
+        "Dewy Setting Spray"
+      ],
+      "steps": [
+        "Hydrating serum sürün.",
+        "Dewy primer uygulayın.",
+        "Luminous fondöten ile parlak cilt yaratın.",
+        "Kapatıcı sürün.",
+        "Krem allığı yanaklara blend edin.",
+        "Likit aydınlatıcıyı yüksek noktalara sürün.",
+        "Glossy dudak ürünü kullanın.",
+        "Dewy setting spray ile tamamlayın."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, natural dewy skin makeup, fresh glowing complexion, healthy hydrated look, luminous finish, youthful radiance, no filter glow, natural beauty, soft lighting, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "72",
+      "title": "Dewy Skin Makyajı - Extreme Glow",
+      "image": "dewy_skin_extreme_glow.jpg",
+      "difficulty": "Orta",
+      "duration": "20-25 dakika",
+      "category": "Trend",
+      "products": [
+        "Face Oil",
+        "Hydrating Primer",
+        "Dewy Fondöten + Likit Aydınlatıcı Mix",
+        "Minimal Kapatıcı",
+        "Krem Allık",
+        "Bol Likit Aydınlatıcı",
+        "Facial Oil",
+        "Glossy Everything",
+        "Dewy Spray"
+      ],
+      "steps": [
+        "Face oil ile cildi hazırlayın.",
+        "Hydrating primer sürün.",
+        "Fondötene likit aydınlatıcı karıştırın.",
+        "Minimal kapatıcı kullanın.",
+        "Krem allık uygulayın.",
+        "Bol likit aydınlatıcı sürün (elmacık, burun, alın, çene).",
+        "Yüze hafif facial oil ekleyin.",
+        "Glossy ürünler kullanın.",
+        "Dewy spray ile kilitleyin."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, extreme dewy glow makeup, ultra wet look skin, maximum luminosity, dripping glow, high shine finish, editorial dewy skin, intense radiance, glowing goddess, soft lighting, beauty portrait, front facing, high quality"
+    },
+    {
+      "id": "73",
+      "title": "Ombre Dudak Makyajı - Klasik",
+      "image": "ombre_lips_classic.jpg",
+      "difficulty": "Orta",
+      "duration": "10-15 dakika",
+      "category": "Dudak Odaklı",
+      "products": [
+        "Dudak Peelingi",
+        "Dudak Balsamı",
+        "Koyu Dudak Kalemi",
+        "Koyu Ruj",
+        "Açık Ruj",
+        "Dudak Fırçası"
+      ],
+      "steps": [
+        "Dudakları peeling ile arındırın.",
+        "Dudak balsamı sürün ve emilmesini bekleyin.",
+        "Koyu renkle dudak kenarlarını çizin.",
+        "Koyu ruju dudak kenarlarına sürün.",
+        "Açık ruju dudak ortasına uygulayın.",
+        "Dudak fırçası ile ikisini buluştuğu yerde blend edin.",
+        "Yumuşak geçiş yaratın."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, classic ombre lips, gradient lip color, dark outer edges fading to light center, dimensional lips, blended lip gradient, Korean gradient lips, beauty portrait closeup, front facing, high quality"
+    },
+    {
+      "id": "74",
+      "title": "Ombre Dudak Makyajı - Dramatic",
+      "image": "ombre_lips_dramatic.jpg",
+      "difficulty": "Orta-Zor",
+      "duration": "12-18 dakika",
+      "category": "Dudak Odaklı",
+      "products": [
+        "Dudak Peelingi",
+        "Dudak Balsamı",
+        "Çok Koyu Dudak Kalemi",
+        "Koyu Ruj",
+        "Orta Ton Ruj",
+        "Açık Simli Ruj veya Gloss",
+        "Dudak Fırçası"
+      ],
+      "steps": [
+        "Dudakları hazırlayın.",
+        "Çok koyu renkle dudak kenarlarını çizin.",
+        "Koyu ruju kenarlara sürün.",
+        "Orta ton ruju ortaya doğru uygulayın.",
+        "Dudak ortasına açık simli ruj veya gloss ekleyin.",
+        "Tüm tonları blend edin.",
+        "Dramatik geçiş yaratın."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, dramatic ombre lips, multi-tonal gradient, bold dark edges, light glitter center, statement lip art, creative lip gradient, editorial lip look, beauty portrait closeup, front facing, high quality"
+    },
+    {
+      "id": "75",
+      "title": "Mat Dudak Makyajı - Klasik Kırmızı",
+      "image": "matte_lips_red.jpg",
+      "difficulty": "Kolay-Orta",
+      "duration": "10-12 dakika",
+      "category": "Dudak Odaklı",
+      "products": [
+        "Dudak Peelingi",
+        "Dudak Balsamı",
+        "Kırmızı Dudak Kalemi",
+        "Mat Kırmızı Ruj",
+        "Doku Kağıdı",
+        "Pudra (Opsiyonel)"
+      ],
+      "steps": [
+        "Dudakları peeling ile pürüzsüzleştirin.",
+        "İnce dudak balsamı sürün, fazlalığını silin.",
+        "Kırmızı dudak kalemi ile dudak hatlarını çizin.",
+        "Mat kırmızı ruju dudaklara sürün.",
+        "Doku kağıdı ile bastırın.",
+        "İkinci kat ruj sürün.",
+        "İsteğe bağlı dudaklara hafif pudra ekleyin.",
+        "Dudak kenarlarını kapatıcı ile düzeltin."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, classic matte red lips, velvety red lipstick, timeless beauty, bold red matte finish, smooth texture, elegant red lips, iconic look, beauty portrait closeup, front facing, high quality"
+    },
+    {
+      "id": "76",
+      "title": "Mat Dudak Makyajı - Bordo",
+      "image": "matte_lips_burgundy.jpg",
+      "difficulty": "Orta",
+      "duration": "12-15 dakika",
+      "category": "Dudak Odaklı",
+      "products": [
+        "Dudak Peelingi",
+        "Dudak Bazı",
+        "Bordo Dudak Kalemi",
+        "Mat Bordo Ruj",
+        "Doku Kağıdı",
+        "Setting Powder"
+      ],
+      "steps": [
+        "Dudakları hazırlayın.",
+        "Dudak bazı sürün.",
+        "Bordo dudak kalemi ile hatları çizin.",
+        "Kalemi dudak içine de blend edin.",
+        "Mat bordo ruj sürün.",
+        "Doku kağıdı ile bastırın.",
+        "İkinci kat uygulayın.",
+        "Setting powder ile sabitleyin.",
+        "Kenarları düzeltin."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, matte burgundy lips, deep wine color, velvety matte finish, rich dark lips, sophisticated matte look, autumn beauty, dramatic matte lips, beauty portrait closeup, front facing, high quality"
+    },
+    {
+      "id": "77",
+      "title": "Glossy Dudak Makyajı - Natural",
+      "image": "glossy_lips_natural.jpg",
+      "difficulty": "Çok Kolay",
+      "duration": "5-8 dakika",
+      "category": "Dudak Odaklı",
+      "products": [
+        "Dudak Balsamı",
+        "Açık Ton Ruj veya Tint",
+        "Şeffaf veya Açık Ton Gloss"
+      ],
+      "steps": [
+        "Dudak balsamı sürün ve emilmesini bekleyin.",
+        "Açık ton ruj veya tint uygulayın.",
+        "Şeffaf veya açık ton gloss sürün.",
+        "Dudakları birbirine bastırarak eşit dağılım sağlayın.",
+        "Doğal parlak görünüm elde edin."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, natural glossy lips, sheer shine, healthy lips, fresh glossy finish, natural pink glow, dewy lips, effortless beauty, soft lighting, beauty portrait closeup, front facing, high quality"
+    },
+    {
+      "id": "78",
+      "title": "Glossy Dudak Makyajı - Plumping",
+      "image": "glossy_lips_plumping.jpg",
+      "difficulty": "Kolay",
+      "duration": "8-12 dakika",
+      "category": "Dudak Odaklı",
+      "products": [
+        "Dudak Peelingi",
+        "Plumping Lip Balm",
+        "Dudak Kalemi (Hafifçe Overline)",
+        "Ruj",
+        "Plumping Gloss",
+        "Aydınlatıcı"
+      ],
+      "steps": [
+        "Dudakları peeling ile hazırlayın.",
+        "Plumping lip balm sürün.",
+        "Dudak kalemi ile hafifçe overline yapın.",
+        "Ruj sürün.",
+        "Plumping gloss ekleyin.",
+        "Cupid's bow'a hafif aydınlatıcı sürün.",
+        "Dolgun ve parlak dudaklar elde edin."
+      ],
+      "leonardoPrompt": "Professional makeup tutorial photography, plumping glossy lips, full voluminous lips, extreme shine, juicy lips effect, dimensional glossy look, pouty lips, ultra glossy finish, beauty portrait closeup, front facing, high quality"
+    }
+    
+  ]
+}
